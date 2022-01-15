@@ -1,0 +1,8 @@
+// Trumps
+// External styles, immutable styles, positively used for last-level overrides.
+
+:global {
+	@import "antd-overrides";
+	@import "antd-form";
+	@import "development";
+}

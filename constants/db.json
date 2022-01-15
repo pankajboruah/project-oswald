@@ -1,0 +1,9429 @@
+{
+	"data": [
+		{
+			"name": "ASIANPAINT::NSE",
+			"currentPrice": 3143.65,
+			"prevPrice": 3144.3
+		},
+		{
+			"name": "NIFTY BANK::NSE",
+			"currentPrice": 35590.5,
+			"prevPrice": 35617.55
+		},
+		{
+			"name": "BAJAJHLDNG::NSE",
+			"currentPrice": 5037.8,
+			"prevPrice": 4940.35
+		},
+		{
+			"name": "CIPLA::NSE",
+			"currentPrice": 971.3,
+			"prevPrice": 965
+		},
+		{
+			"name": "DABUR::NSE",
+			"currentPrice": 594.95,
+			"prevPrice": 598
+		},
+		{
+			"name": "M&M::NSE",
+			"currentPrice": 835.5,
+			"prevPrice": 850.8
+		},
+		{
+			"name": "NMDC::NSE",
+			"currentPrice": 132.85,
+			"prevPrice": 134.95
+		},
+		{
+			"name": "TATACONSUM::NSE",
+			"currentPrice": 778.6,
+			"prevPrice": 766
+		},
+		{
+			"name": "TORNTPHARM::NSE",
+			"currentPrice": 3042.05,
+			"prevPrice": 3037.3
+		},
+		{
+			"name": "NESCO::NSE",
+			"currentPrice": 591.05,
+			"prevPrice": 587.6
+		},
+		{
+			"name": "ESABINDIA::NSE",
+			"currentPrice": 2678,
+			"prevPrice": 2739.3
+		},
+		{
+			"name": "NEOGEN::NSE",
+			"currentPrice": 1393.15,
+			"prevPrice": 1396.25
+		},
+		{
+			"name": "NCLIND::NSE",
+			"currentPrice": 209.95,
+			"prevPrice": 212.05
+		},
+		{
+			"name": "PURVA::NSE",
+			"currentPrice": 135.7,
+			"prevPrice": 132.4
+		},
+		{
+			"name": "SHREDIGCEM::NSE",
+			"currentPrice": 76.6,
+			"prevPrice": 75.05
+		},
+		{
+			"name": "BPCL::NSE",
+			"currentPrice": 370,
+			"prevPrice": 367.45
+		},
+		{
+			"name": "FORTIS::NSE",
+			"currentPrice": 280.8,
+			"prevPrice": 288.25
+		},
+		{
+			"name": "KIRLOSBROS::NSE",
+			"currentPrice": 350.6,
+			"prevPrice": 359
+		},
+		{
+			"name": "CDSL::NSE",
+			"currentPrice": 1451.05,
+			"prevPrice": 1370.25
+		},
+		{
+			"name": "PRSMJOHNSN::NSE",
+			"currentPrice": 122.3,
+			"prevPrice": 120.05
+		},
+		{
+			"name": "VGUARD::NSE",
+			"currentPrice": 244.75,
+			"prevPrice": 232.15
+		},
+		{
+			"name": "JKTYRE::NSE",
+			"currentPrice": 128.7,
+			"prevPrice": 127.85
+		},
+		{
+			"name": "MAGADSUGAR::NSE",
+			"currentPrice": 243.9,
+			"prevPrice": 243.9
+		},
+		{
+			"name": "MFSL::NSE",
+			"currentPrice": 940.25,
+			"prevPrice": 937.65
+		},
+		{
+			"name": "IBULHSGFIN::NSE",
+			"currentPrice": 229,
+			"prevPrice": 230.9
+		},
+		{
+			"name": "VARDHACRLC::NSE",
+			"currentPrice": 49,
+			"prevPrice": 47.85
+		},
+		{
+			"name": "LALPATHLAB::NSE",
+			"currentPrice": 3789.45,
+			"prevPrice": 3885.45
+		},
+		{
+			"name": "BANKBARODA::NSE",
+			"currentPrice": 85.75,
+			"prevPrice": 86.25
+		},
+		{
+			"name": "GRASIM::NSE",
+			"currentPrice": 1662.45,
+			"prevPrice": 1683.95
+		},
+		{
+			"name": "BIRLACORPN::NSE",
+			"currentPrice": 1349.1,
+			"prevPrice": 1301.75
+		},
+		{
+			"name": "SARDAEN::NSE",
+			"currentPrice": 787.35,
+			"prevPrice": 768.3
+		},
+		{
+			"name": "RAIN::NSE",
+			"currentPrice": 198.25,
+			"prevPrice": 193.3
+		},
+		{
+			"name": "ORIENTCEM::NSE",
+			"currentPrice": 156.45,
+			"prevPrice": 152.55
+		},
+		{
+			"name": "TATACHEM::NSE",
+			"currentPrice": 872.25,
+			"prevPrice": 868.65
+		},
+		{
+			"name": "SHAKTIPUMP::NSE",
+			"currentPrice": 624.15,
+			"prevPrice": 618.3
+		},
+		{
+			"name": "APCL::NSE",
+			"currentPrice": 299.1,
+			"prevPrice": 294.3
+		},
+		{
+			"name": "INFY::NSE",
+			"currentPrice": 1712.65,
+			"prevPrice": 1696.35
+		},
+		{
+			"name": "LT::NSE",
+			"currentPrice": 1764.75,
+			"prevPrice": 1767.25
+		},
+		{
+			"name": "ONGC::NSE",
+			"currentPrice": 142.1,
+			"prevPrice": 144.1
+		},
+		{
+			"name": "SUNPHARMA::NSE",
+			"currentPrice": 753.6,
+			"prevPrice": 751.05
+		},
+		{
+			"name": "ATULAUTO::NSE",
+			"currentPrice": 209.35,
+			"prevPrice": 210.75
+		},
+		{
+			"name": "CESC::NSE",
+			"currentPrice": 87.5,
+			"prevPrice": 86
+		},
+		{
+			"name": "JBCHEPHARM::NSE",
+			"currentPrice": 1638.7,
+			"prevPrice": 1637.05
+		},
+		{
+			"name": "TATAMETALI::NSE",
+			"currentPrice": 855,
+			"prevPrice": 871.35
+		},
+		{
+			"name": "BAJAJFINSV::NSE",
+			"currentPrice": 17237.35,
+			"prevPrice": 16890.4
+		},
+		{
+			"name": "BIOCON::NSE",
+			"currentPrice": 360.4,
+			"prevPrice": 364.4
+		},
+		{
+			"name": "COALINDIA::NSE",
+			"currentPrice": 152,
+			"prevPrice": 154.25
+		},
+		{
+			"name": "HDFCLIFE::NSE",
+			"currentPrice": 680.8,
+			"prevPrice": 683.65
+		},
+		{
+			"name": "ICICIPRULI::NSE",
+			"currentPrice": 593.05,
+			"prevPrice": 587.25
+		},
+		{
+			"name": "NTPC::NSE",
+			"currentPrice": 127.25,
+			"prevPrice": 126.5
+		},
+		{
+			"name": "PIDILITIND::NSE",
+			"currentPrice": 2205.85,
+			"prevPrice": 2218.1
+		},
+		{
+			"name": "EKC::NSE",
+			"currentPrice": 144.9,
+			"prevPrice": 152.45
+		},
+		{
+			"name": "ECLERX::NSE",
+			"currentPrice": 2188.3,
+			"prevPrice": 2158.3
+		},
+		{
+			"name": "LAURUSLABS::NSE",
+			"currentPrice": 508.65,
+			"prevPrice": 502.35
+		},
+		{
+			"name": "ARVINDFASN::NSE",
+			"currentPrice": 281.45,
+			"prevPrice": 282.7
+		},
+		{
+			"name": "PTC::NSE",
+			"currentPrice": 110.9,
+			"prevPrice": 107.3
+		},
+		{
+			"name": "TCNSBRANDS::NSE",
+			"currentPrice": 808.6,
+			"prevPrice": 804.95
+		},
+		{
+			"name": "SAIL::NSE",
+			"currentPrice": 100.05,
+			"prevPrice": 102.65
+		},
+		{
+			"name": "BAJAJELEC::NSE",
+			"currentPrice": 1074.25,
+			"prevPrice": 1023.1
+		},
+		{
+			"name": "GREENLAM::NSE",
+			"currentPrice": 1483.95,
+			"prevPrice": 1511.75
+		},
+		{
+			"name": "MRPL::NSE",
+			"currentPrice": 44.4,
+			"prevPrice": 43.4
+		},
+		{
+			"name": "CAPLIPOINT::NSE",
+			"currentPrice": 748.55,
+			"prevPrice": 733.8
+		},
+		{
+			"name": "BURGERKING::NSE",
+			"currentPrice": 148.45,
+			"prevPrice": 143.75
+		},
+		{
+			"name": "TANLA::NSE",
+			"currentPrice": 1499.25,
+			"prevPrice": 1428
+		},
+		{
+			"name": "JAYBARMARU::NSE",
+			"currentPrice": 171.15,
+			"prevPrice": 170.55
+		},
+		{
+			"name": "AMBUJACEM::NSE",
+			"currentPrice": 374.6,
+			"prevPrice": 369.15
+		},
+		{
+			"name": "ADANIPORTS::NSE",
+			"currentPrice": 683.85,
+			"prevPrice": 702.6
+		},
+		{
+			"name": "AUROPHARMA::NSE",
+			"currentPrice": 660.25,
+			"prevPrice": 654.9
+		},
+		{
+			"name": "DMART::NSE",
+			"currentPrice": 4710.9,
+			"prevPrice": 4673.35
+		},
+		{
+			"name": "BHARTIARTL::NSE",
+			"currentPrice": 728.25,
+			"prevPrice": 739.35
+		},
+		{
+			"name": "TVTODAY::NSE",
+			"currentPrice": 404.55,
+			"prevPrice": 414.75
+		},
+		{
+			"name": "DALMIASUG::NSE",
+			"currentPrice": 362.25,
+			"prevPrice": 360.15
+		},
+		{
+			"name": "RELAXO::NSE",
+			"currentPrice": 1294.65,
+			"prevPrice": 1225.2
+		},
+		{
+			"name": "GLENMARK::NSE",
+			"currentPrice": 523.8,
+			"prevPrice": 512.75
+		},
+		{
+			"name": "MIRZAINT::NSE",
+			"currentPrice": 85.45,
+			"prevPrice": 84.9
+		},
+		{
+			"name": "BALAMINES::NSE",
+			"currentPrice": 2997.25,
+			"prevPrice": 2966.55
+		},
+		{
+			"name": "CADILAHC::NSE",
+			"currentPrice": 465.25,
+			"prevPrice": 456.25
+		},
+		{
+			"name": "DLF::NSE",
+			"currentPrice": 374.8,
+			"prevPrice": 374.85
+		},
+		{
+			"name": "ICICIBANK::NSE",
+			"currentPrice": 714.35,
+			"prevPrice": 718.4
+		},
+		{
+			"name": "IGL::NSE",
+			"currentPrice": 484.25,
+			"prevPrice": 480.9
+		},
+		{
+			"name": "INDIGO::NSE",
+			"currentPrice": 1905.05,
+			"prevPrice": 1894.5
+		},
+		{
+			"name": "OFSS::NSE",
+			"currentPrice": 4235.2,
+			"prevPrice": 4209.55
+		},
+		{
+			"name": "POWERGRID::NSE",
+			"currentPrice": 206.75,
+			"prevPrice": 200.25
+		},
+		{
+			"name": "TITAN::NSE",
+			"currentPrice": 2375.5,
+			"prevPrice": 2324.2
+		},
+		{
+			"name": "MCDOWELL-N::NSE",
+			"currentPrice": 882.95,
+			"prevPrice": 890.1
+		},
+		{
+			"name": "PRICOLLTD::NSE",
+			"currentPrice": 112.05,
+			"prevPrice": 110.55
+		},
+		{
+			"name": "EXPLEOSOL::NSE",
+			"currentPrice": 1276.05,
+			"prevPrice": 1262.8
+		},
+		{
+			"name": "ASTRAL::NSE",
+			"currentPrice": 2197.7,
+			"prevPrice": 2115.85
+		},
+		{
+			"name": "KINGFA::NSE",
+			"currentPrice": 916.1,
+			"prevPrice": 915.2
+		},
+		{
+			"name": "COLPAL::NSE",
+			"currentPrice": 1434.35,
+			"prevPrice": 1445.35
+		},
+		{
+			"name": "DRREDDY::NSE",
+			"currentPrice": 4675.85,
+			"prevPrice": 4697.6
+		},
+		{
+			"name": "HAVELLS::NSE",
+			"currentPrice": 1360.35,
+			"prevPrice": 1330.1
+		},
+		{
+			"name": "HINDZINC::NSE",
+			"currentPrice": 333.05,
+			"prevPrice": 329.85
+		},
+		{
+			"name": "MARUTI::NSE",
+			"currentPrice": 7067.8,
+			"prevPrice": 7149.5
+		},
+		{
+			"name": "TATASTEEL::NSE",
+			"currentPrice": 1071.2,
+			"prevPrice": 1114.75
+		},
+		{
+			"name": "SYMPHONY::NSE",
+			"currentPrice": 932.7,
+			"prevPrice": 956.5
+		},
+		{
+			"name": "NIACL::NSE",
+			"currentPrice": 144.75,
+			"prevPrice": 146.75
+		},
+		{
+			"name": "HUHTAMAKI::NSE",
+			"currentPrice": 221.95,
+			"prevPrice": 223.25
+		},
+		{
+			"name": "QUICKHEAL::NSE",
+			"currentPrice": 215.5,
+			"prevPrice": 213.05
+		},
+		{
+			"name": "SPARC::NSE",
+			"currentPrice": 246.8,
+			"prevPrice": 247.1
+		},
+		{
+			"name": "FSL::NSE",
+			"currentPrice": 169.6,
+			"prevPrice": 163.55
+		},
+		{
+			"name": "FCL::NSE",
+			"currentPrice": 105.8,
+			"prevPrice": 105.8
+		},
+		{
+			"name": "INDIAGLYCO::NSE",
+			"currentPrice": 862.2,
+			"prevPrice": 860.2
+		},
+		{
+			"name": "HCLTECH::NSE",
+			"currentPrice": 1138.65,
+			"prevPrice": 1133.15
+		},
+		{
+			"name": "UBL::NSE",
+			"currentPrice": 1504.35,
+			"prevPrice": 1503.9
+		},
+		{
+			"name": "INEOSSTYRO::NSE",
+			"currentPrice": 1395.6,
+			"prevPrice": 1356.3
+		},
+		{
+			"name": "UNICHEMLAB::NSE",
+			"currentPrice": 210.95,
+			"prevPrice": 218.15
+		},
+		{
+			"name": "ADVENZYMES::NSE",
+			"currentPrice": 327.45,
+			"prevPrice": 328.6
+		},
+		{
+			"name": "JINDALPOLY::NSE",
+			"currentPrice": 1019.15,
+			"prevPrice": 1021.6
+		},
+		{
+			"name": "HAPPSTMNDS::NSE",
+			"currentPrice": 1205.55,
+			"prevPrice": 1202.2
+		},
+		{
+			"name": "PIIND::NSE",
+			"currentPrice": 2869.5,
+			"prevPrice": 2954.7
+		},
+		{
+			"name": "LAXMIMACH::NSE",
+			"currentPrice": 8520.2,
+			"prevPrice": 8308.8
+		},
+		{
+			"name": "INDUSINDBK::NSE",
+			"currentPrice": 883,
+			"prevPrice": 895.45
+		},
+		{
+			"name": "KOTAKBANK::NSE",
+			"currentPrice": 1961.9,
+			"prevPrice": 2019.6
+		},
+		{
+			"name": "SHK::NSE",
+			"currentPrice": 147.55,
+			"prevPrice": 145.05
+		},
+		{
+			"name": "INFRABEES::NSE",
+			"currentPrice": 514.15,
+			"prevPrice": 517.74
+		},
+		{
+			"name": "SCHAND::NSE",
+			"currentPrice": 107.15,
+			"prevPrice": 104.75
+		},
+		{
+			"name": "LXCHEM::NSE",
+			"currentPrice": 412.35,
+			"prevPrice": 397.85
+		},
+		{
+			"name": "GRANULES::NSE",
+			"currentPrice": 300.6,
+			"prevPrice": 294.15
+		},
+		{
+			"name": "KITEX::NSE",
+			"currentPrice": 164.65,
+			"prevPrice": 162.2
+		},
+		{
+			"name": "SUNTV::NSE",
+			"currentPrice": 520.95,
+			"prevPrice": 522.3
+		},
+		{
+			"name": "GOODLUCK::NSE",
+			"currentPrice": 270.1,
+			"prevPrice": 268.9
+		},
+		{
+			"name": "BOROLTD::NSE",
+			"currentPrice": 290,
+			"prevPrice": 287.65
+		},
+		{
+			"name": "APLLTD::NSE",
+			"currentPrice": 806.7,
+			"prevPrice": 799.7
+		},
+		{
+			"name": "CANFINHOME::NSE",
+			"currentPrice": 590.1,
+			"prevPrice": 580.45
+		},
+		{
+			"name": "EMAMILTD::NSE",
+			"currentPrice": 527.05,
+			"prevPrice": 516.15
+		},
+		{
+			"name": "EIDPARRY::NSE",
+			"currentPrice": 466.45,
+			"prevPrice": 442.35
+		},
+		{
+			"name": "TV18BRDCST::NSE",
+			"currentPrice": 41.2,
+			"prevPrice": 41.05
+		},
+		{
+			"name": "PRECOT::NSE",
+			"currentPrice": 275.95,
+			"prevPrice": 278.95
+		},
+		{
+			"name": "CREST::NSE",
+			"currentPrice": 130.6,
+			"prevPrice": 131.95
+		},
+		{
+			"name": "APOLLOTYRE::NSE",
+			"currentPrice": 204.55,
+			"prevPrice": 206.15
+		},
+		{
+			"name": "ICICIB22::NSE",
+			"currentPrice": 43.37,
+			"prevPrice": 43.31
+		},
+		{
+			"name": "ICICIB22::NSE",
+			"currentPrice": 43.37,
+			"prevPrice": 43.31
+		},
+		{
+			"name": "SANGHVIMOV::NSE",
+			"currentPrice": 200.9,
+			"prevPrice": 201.8
+		},
+		{
+			"name": "BBL::NSE",
+			"currentPrice": 1686.75,
+			"prevPrice": 1693
+		},
+		{
+			"name": "DYNAMATECH::NSE",
+			"currentPrice": 2159.95,
+			"prevPrice": 2185.95
+		},
+		{
+			"name": "HAL::NSE",
+			"currentPrice": 1276.9,
+			"prevPrice": 1298.5
+		},
+		{
+			"name": "TINPLATE::NSE",
+			"currentPrice": 272.3,
+			"prevPrice": 268.95
+		},
+		{
+			"name": "HEG::NSE",
+			"currentPrice": 1806.5,
+			"prevPrice": 1804.65
+		},
+		{
+			"name": "VINATIORGA::NSE",
+			"currentPrice": 1883.15,
+			"prevPrice": 1947.05
+		},
+		{
+			"name": "YAARII::NSE",
+			"currentPrice": 88.15,
+			"prevPrice": 90.2
+		},
+		{
+			"name": "DELTAMAGNT::NSE",
+			"currentPrice": 59.6,
+			"prevPrice": 62.25
+		},
+		{
+			"name": "GDL::NSE",
+			"currentPrice": 275.95,
+			"prevPrice": 280.1
+		},
+		{
+			"name": "MANAKCOAT::NSE",
+			"currentPrice": 20.4,
+			"prevPrice": 19.7
+		},
+		{
+			"name": "BHAGYANGR::NSE",
+			"currentPrice": 44.9,
+			"prevPrice": 44.5
+		},
+		{
+			"name": "IZMO::NSE",
+			"currentPrice": 70.7,
+			"prevPrice": 69.05
+		},
+		{
+			"name": "ALMONDZ::NSE",
+			"currentPrice": 113.9,
+			"prevPrice": 115.3
+		},
+		{
+			"name": "PFOCUS::NSE",
+			"currentPrice": 71.5,
+			"prevPrice": 71.8
+		},
+		{
+			"name": "SAFARI::NSE",
+			"currentPrice": 877.2,
+			"prevPrice": 861.15
+		},
+		{
+			"name": "EQUITAS::NSE",
+			"currentPrice": 121.25,
+			"prevPrice": 120.1
+		},
+		{
+			"name": "TFCILTD::NSE",
+			"currentPrice": 56.5,
+			"prevPrice": 55.95
+		},
+		{
+			"name": "BAJAJCON::NSE",
+			"currentPrice": 183,
+			"prevPrice": 184.1
+		},
+		{
+			"name": "ADANIPOWER::NSE",
+			"currentPrice": 99.35,
+			"prevPrice": 98.4
+		},
+		{
+			"name": "SUNTECK::NSE",
+			"currentPrice": 433.1,
+			"prevPrice": 416.25
+		},
+		{
+			"name": "BIRLACABLE::NSE",
+			"currentPrice": 76.75,
+			"prevPrice": 77.5
+		},
+		{
+			"name": "HCG::NSE",
+			"currentPrice": 253.05,
+			"prevPrice": 252.95
+		},
+		{
+			"name": "VETO::NSE",
+			"currentPrice": 107.15,
+			"prevPrice": 104.65
+		},
+		{
+			"name": "IIFLSEC::NSE",
+			"currentPrice": 84.55,
+			"prevPrice": 85.8
+		},
+		{
+			"name": "MOTILALOFS::NSE",
+			"currentPrice": 946,
+			"prevPrice": 915.8
+		},
+		{
+			"name": "TATASTLBSL::NSE",
+			"currentPrice": 85.35,
+			"prevPrice": 86.4
+		},
+		{
+			"name": "AGARIND::NSE",
+			"currentPrice": 387.25,
+			"prevPrice": 402.8
+		},
+		{
+			"name": "BOMDYEING::NSE",
+			"currentPrice": 83.05,
+			"prevPrice": 82.55
+		},
+		{
+			"name": "EASEMYTRIP::NSE",
+			"currentPrice": 502.35,
+			"prevPrice": 520.2
+		},
+		{
+			"name": "STARPAPER::NSE",
+			"currentPrice": 125.5,
+			"prevPrice": 125.2
+		},
+		{
+			"name": "TRITURBINE::NSE",
+			"currentPrice": 185.9,
+			"prevPrice": 181.4
+		},
+		{
+			"name": "ASIANHOTNR::NSE",
+			"currentPrice": 74.1,
+			"prevPrice": 73.55
+		},
+		{
+			"name": "BANSWRAS::NSE",
+			"currentPrice": 195.5,
+			"prevPrice": 195.95
+		},
+		{
+			"name": "STEELCITY::NSE",
+			"currentPrice": 56.4,
+			"prevPrice": 56.2
+		},
+		{
+			"name": "QUESS::NSE",
+			"currentPrice": 893.65,
+			"prevPrice": 900
+		},
+		{
+			"name": "ADFFOODS::NSE",
+			"currentPrice": 810,
+			"prevPrice": 814.3
+		},
+		{
+			"name": "JKPAPER::NSE",
+			"currentPrice": 208.1,
+			"prevPrice": 201.5
+		},
+		{
+			"name": "CEBBCO::NSE",
+			"currentPrice": 31.75,
+			"prevPrice": 32.35
+		},
+		{
+			"name": "MONTECARLO::NSE",
+			"currentPrice": 552.05,
+			"prevPrice": 544
+		},
+		{
+			"name": "GUJAPOLLO::NSE",
+			"currentPrice": 204.65,
+			"prevPrice": 209.35
+		},
+		{
+			"name": "ARIES::NSE",
+			"currentPrice": 131.35,
+			"prevPrice": 133
+		},
+		{
+			"name": "ZENSARTECH::NSE",
+			"currentPrice": 446.55,
+			"prevPrice": 416.25
+		},
+		{
+			"name": "SHILPAMED::NSE",
+			"currentPrice": 543.8,
+			"prevPrice": 564.75
+		},
+		{
+			"name": "5PAISA::NSE",
+			"currentPrice": 395.3,
+			"prevPrice": 374.85
+		},
+		{
+			"name": "INTENTECH::NSE",
+			"currentPrice": 61.8,
+			"prevPrice": 60.9
+		},
+		{
+			"name": "PRESTIGE::NSE",
+			"currentPrice": 421.75,
+			"prevPrice": 416.5
+		},
+		{
+			"name": "TTKHLTCARE::NSE",
+			"currentPrice": 673,
+			"prevPrice": 651.75
+		},
+		{
+			"name": "NAHARCAP::NSE",
+			"currentPrice": 290.3,
+			"prevPrice": 286.4
+		},
+		{
+			"name": "AMBER::NSE",
+			"currentPrice": 3029.45,
+			"prevPrice": 3137.75
+		},
+		{
+			"name": "VSTTILLERS::NSE",
+			"currentPrice": 2886.8,
+			"prevPrice": 2856.7
+		},
+		{
+			"name": "JUBLINGREA::NSE",
+			"currentPrice": 551.9,
+			"prevPrice": 551.25
+		},
+		{
+			"name": "SUNCLAYLTD::NSE",
+			"currentPrice": 4472.5,
+			"prevPrice": 4573.15
+		},
+		{
+			"name": "MAZDOCK::NSE",
+			"currentPrice": 260.3,
+			"prevPrice": 257.9
+		},
+		{
+			"name": "TBZ::NSE",
+			"currentPrice": 78.05,
+			"prevPrice": 75.85
+		},
+		{
+			"name": "NH::NSE",
+			"currentPrice": 596.3,
+			"prevPrice": 567.55
+		},
+		{
+			"name": "SUMMITSEC::NSE",
+			"currentPrice": 635.65,
+			"prevPrice": 623.35
+		},
+		{
+			"name": "MAHSCOOTER::NSE",
+			"currentPrice": 4126.15,
+			"prevPrice": 4093.25
+		},
+		{
+			"name": "GODREJAGRO::NSE",
+			"currentPrice": 527.25,
+			"prevPrice": 537.8
+		},
+		{
+			"name": "SPLIL::NSE",
+			"currentPrice": 42.4,
+			"prevPrice": 42.85
+		},
+		{
+			"name": "APTECHT::NSE",
+			"currentPrice": 363.4,
+			"prevPrice": 372.25
+		},
+		{
+			"name": "ASIANTILES::NSE",
+			"currentPrice": 125.6,
+			"prevPrice": 124.35
+		},
+		{
+			"name": "VINDHYATEL::NSE",
+			"currentPrice": 960,
+			"prevPrice": 953.85
+		},
+		{
+			"name": "TEXINFRA::NSE",
+			"currentPrice": 55,
+			"prevPrice": 55
+		},
+		{
+			"name": "SASTASUNDR::NSE",
+			"currentPrice": 474.1,
+			"prevPrice": 485.9
+		},
+		{
+			"name": "IFGLEXPOR::NSE",
+			"currentPrice": 294.4,
+			"prevPrice": 299.75
+		},
+		{
+			"name": "INDOTHAI::NSE",
+			"currentPrice": 117.65,
+			"prevPrice": 121.2
+		},
+		{
+			"name": "CHOLAHLDNG::NSE",
+			"currentPrice": 698.65,
+			"prevPrice": 699.1
+		},
+		{
+			"name": "SHIVAMILLS::NSE",
+			"currentPrice": 98.2,
+			"prevPrice": 97.95
+		},
+		{
+			"name": "VSSL::NSE",
+			"currentPrice": 236.8,
+			"prevPrice": 235.8
+		},
+		{
+			"name": "GRAVITA::NSE",
+			"currentPrice": 195.15,
+			"prevPrice": 195
+		},
+		{
+			"name": "NRAIL::NSE",
+			"currentPrice": 237.15,
+			"prevPrice": 236.65
+		},
+		{
+			"name": "NPBET::NSE",
+			"currentPrice": 185.15,
+			"prevPrice": 186.48
+		},
+		{
+			"name": "GEOJITFSL::NSE",
+			"currentPrice": 71.3,
+			"prevPrice": 68.65
+		},
+		{
+			"name": "ITDC::NSE",
+			"currentPrice": 389.95,
+			"prevPrice": 382.65
+		},
+		{
+			"name": "OBEROIRLTY::NSE",
+			"currentPrice": 832.75,
+			"prevPrice": 828
+		},
+		{
+			"name": "SOBHA::NSE",
+			"currentPrice": 856.55,
+			"prevPrice": 799.2
+		},
+		{
+			"name": "BRIGADE::NSE",
+			"currentPrice": 502.45,
+			"prevPrice": 452
+		},
+		{
+			"name": "ALOKINDS::NSE",
+			"currentPrice": 21.35,
+			"prevPrice": 21.3
+		},
+		{
+			"name": "WSTCSTPAPR::NSE",
+			"currentPrice": 246.75,
+			"prevPrice": 246.65
+		},
+		{
+			"name": "FORCEMOT::NSE",
+			"currentPrice": 1287.75,
+			"prevPrice": 1343.4
+		},
+		{
+			"name": "KIRIINDUS::NSE",
+			"currentPrice": 447.4,
+			"prevPrice": 442.65
+		},
+		{
+			"name": "SHREYAS::NSE",
+			"currentPrice": 235.45,
+			"prevPrice": 237.15
+		},
+		{
+			"name": "HERITGFOOD::NSE",
+			"currentPrice": 426.9,
+			"prevPrice": 422.5
+		},
+		{
+			"name": "GTPL::NSE",
+			"currentPrice": 247.75,
+			"prevPrice": 241.3
+		},
+		{
+			"name": "ORISSAMINE::NSE",
+			"currentPrice": 2295.4,
+			"prevPrice": 2300.15
+		},
+		{
+			"name": "RUCHIRA::NSE",
+			"currentPrice": 77.05,
+			"prevPrice": 76.35
+		},
+		{
+			"name": "KICL::NSE",
+			"currentPrice": 1868.05,
+			"prevPrice": 1884.55
+		},
+		{
+			"name": "BFINVEST::NSE",
+			"currentPrice": 312.35,
+			"prevPrice": 312.4
+		},
+		{
+			"name": "GPPL::NSE",
+			"currentPrice": 98.5,
+			"prevPrice": 99.2
+		},
+		{
+			"name": "KAKATCEM::NSE",
+			"currentPrice": 212.65,
+			"prevPrice": 213.65
+		},
+		{
+			"name": "AVADHSUGAR::NSE",
+			"currentPrice": 400.1,
+			"prevPrice": 397.9
+		},
+		{
+			"name": "SELAN::NSE",
+			"currentPrice": 123.9,
+			"prevPrice": 124
+		},
+		{
+			"name": "SMARTLINK::NSE",
+			"currentPrice": 102.2,
+			"prevPrice": 104.05
+		},
+		{
+			"name": "CLNINDIA::NSE",
+			"currentPrice": 486.2,
+			"prevPrice": 483.2
+		},
+		{
+			"name": "CENTUM::NSE",
+			"currentPrice": 538.05,
+			"prevPrice": 534.1
+		},
+		{
+			"name": "DBCORP::NSE",
+			"currentPrice": 91.15,
+			"prevPrice": 93.05
+		},
+		{
+			"name": "PILANIINVS::NSE",
+			"currentPrice": 2035.35,
+			"prevPrice": 2209.45
+		},
+		{
+			"name": "EIHOTEL::NSE",
+			"currentPrice": 120.4,
+			"prevPrice": 126.05
+		},
+		{
+			"name": "BALAJITELE::NSE",
+			"currentPrice": 56.5,
+			"prevPrice": 56.7
+		},
+		{
+			"name": "LIBERTSHOE::NSE",
+			"currentPrice": 147,
+			"prevPrice": 146.7
+		},
+		{
+			"name": "XCHANGING::NSE",
+			"currentPrice": 95.85,
+			"prevPrice": 95.25
+		},
+		{
+			"name": "GSS::NSE",
+			"currentPrice": 100.65,
+			"prevPrice": 107.15
+		},
+		{
+			"name": "SHANKARA::NSE",
+			"currentPrice": 497.5,
+			"prevPrice": 495.9
+		},
+		{
+			"name": "VISHWARAJ::NSE",
+			"currentPrice": 29,
+			"prevPrice": 28.95
+		},
+		{
+			"name": "SUNFLAG::NSE",
+			"currentPrice": 67.75,
+			"prevPrice": 67.8
+		},
+		{
+			"name": "NIPPOBATRY::NSE",
+			"currentPrice": 439,
+			"prevPrice": 441.55
+		},
+		{
+			"name": "MAHLOG::NSE",
+			"currentPrice": 656.55,
+			"prevPrice": 674.75
+		},
+		{
+			"name": "KUANTUM::NSE",
+			"currentPrice": 79.9,
+			"prevPrice": 81.3
+		},
+		{
+			"name": "SHOPERSTOP::NSE",
+			"currentPrice": 323.25,
+			"prevPrice": 318
+		},
+		{
+			"name": "GOCLCORP::NSE",
+			"currentPrice": 287.75,
+			"prevPrice": 298.4
+		},
+		{
+			"name": "KOLTEPATIL::NSE",
+			"currentPrice": 290.35,
+			"prevPrice": 299.1
+		},
+		{
+			"name": "INDIAMART::NSE",
+			"currentPrice": 7459.9,
+			"prevPrice": 7355.55
+		},
+		{
+			"name": "APOLLO::NSE",
+			"currentPrice": 109.45,
+			"prevPrice": 108.75
+		},
+		{
+			"name": "BSE::NSE",
+			"currentPrice": 1559.85,
+			"prevPrice": 1528.35
+		},
+		{
+			"name": "MOLDTKPAC::NSE",
+			"currentPrice": 674.35,
+			"prevPrice": 658.45
+		},
+		{
+			"name": "HIL::NSE",
+			"currentPrice": 4389.6,
+			"prevPrice": 4218.4
+		},
+		{
+			"name": "POLYCAB::NSE",
+			"currentPrice": 2305.95,
+			"prevPrice": 2214.4
+		},
+		{
+			"name": "EXIDEIND::NSE",
+			"currentPrice": 162.8,
+			"prevPrice": 163.7
+		},
+		{
+			"name": "NILKAMAL::NSE",
+			"currentPrice": 2370.45,
+			"prevPrice": 2313.5
+		},
+		{
+			"name": "ESTER::NSE",
+			"currentPrice": 120.55,
+			"prevPrice": 116.65
+		},
+		{
+			"name": "ACRYSIL::NSE",
+			"currentPrice": 810.1,
+			"prevPrice": 812.65
+		},
+		{
+			"name": "ACC::NSE",
+			"currentPrice": 2286.4,
+			"prevPrice": 2289.6
+		},
+		{
+			"name": "ABBOTINDIA::NSE",
+			"currentPrice": 19087.25,
+			"prevPrice": 19157.95
+		},
+		{
+			"name": "HDFCBANK::NSE",
+			"currentPrice": 1493.55,
+			"prevPrice": 1501.25
+		},
+		{
+			"name": "HINDPETRO::NSE",
+			"currentPrice": 295.1,
+			"prevPrice": 296.45
+		},
+		{
+			"name": "PGHH::NSE",
+			"currentPrice": 15040.1,
+			"prevPrice": 15067.2
+		},
+		{
+			"name": "SHREECEM::NSE",
+			"currentPrice": 26102.25,
+			"prevPrice": 25566.1
+		},
+		{
+			"name": "WIPRO::NSE",
+			"currentPrice": 637.25,
+			"prevPrice": 630.6
+		},
+		{
+			"name": "UCALFUEL::NSE",
+			"currentPrice": 137.95,
+			"prevPrice": 137.65
+		},
+		{
+			"name": "ALKYLAMINE::NSE",
+			"currentPrice": 3187.3,
+			"prevPrice": 3130.9
+		},
+		{
+			"name": "ROSSARI::NSE",
+			"currentPrice": 1294.05,
+			"prevPrice": 1304.7
+		},
+		{
+			"name": "APOLLOHOSP::NSE",
+			"currentPrice": 5687.75,
+			"prevPrice": 5727.5
+		},
+		{
+			"name": "MAFANG::NSE",
+			"currentPrice": 58.62,
+			"prevPrice": 58.01
+		},
+		{
+			"name": "KABRAEXTRU::NSE",
+			"currentPrice": 290,
+			"prevPrice": 289.55
+		},
+		{
+			"name": "KNRCON::NSE",
+			"currentPrice": 281.2,
+			"prevPrice": 264.55
+		},
+		{
+			"name": "MTARTECH::NSE",
+			"currentPrice": 2111.05,
+			"prevPrice": 2035.05
+		},
+		{
+			"name": "GAIL::NSE",
+			"currentPrice": 129.8,
+			"prevPrice": 130.35
+		},
+		{
+			"name": "HDFCAMC::NSE",
+			"currentPrice": 2511.3,
+			"prevPrice": 2508.5
+		},
+		{
+			"name": "HINDALCO::NSE",
+			"currentPrice": 412.75,
+			"prevPrice": 420.15
+		},
+		{
+			"name": "MUTHOOTFIN::NSE",
+			"currentPrice": 1426.2,
+			"prevPrice": 1427.1
+		},
+		{
+			"name": "DAAWAT::NSE",
+			"currentPrice": 63.35,
+			"prevPrice": 63.9
+		},
+		{
+			"name": "JUSTDIAL::NSE",
+			"currentPrice": 653.6,
+			"prevPrice": 681.95
+		},
+		{
+			"name": "MANGCHEFER::NSE",
+			"currentPrice": 65.75,
+			"prevPrice": 65.9
+		},
+		{
+			"name": "VALIANTORG::NSE",
+			"currentPrice": 1008.5,
+			"prevPrice": 1039.9
+		},
+		{
+			"name": "RPGLIFE::NSE",
+			"currentPrice": 599.5,
+			"prevPrice": 621.95
+		},
+		{
+			"name": "BAJAJ-AUTO::NSE",
+			"currentPrice": 3240.3,
+			"prevPrice": 3298.2
+		},
+		{
+			"name": "ITC::NSE",
+			"currentPrice": 221.15,
+			"prevPrice": 221.5
+		},
+		{
+			"name": "NAUKRI::NSE",
+			"currentPrice": 5805.05,
+			"prevPrice": 5845.9
+		},
+		{
+			"name": "NESTLEIND::NSE",
+			"currentPrice": 19152.55,
+			"prevPrice": 19000.4
+		},
+		{
+			"name": "RELIANCE::NSE",
+			"currentPrice": 2405.4,
+			"prevPrice": 2441.5
+		},
+		{
+			"name": "SBIN::NSE",
+			"currentPrice": 460.55,
+			"prevPrice": 465.1
+		},
+		{
+			"name": "ULTRACEMCO::NSE",
+			"currentPrice": 7433.75,
+			"prevPrice": 7388.25
+		},
+		{
+			"name": "TECHNOE::NSE",
+			"currentPrice": 238.95,
+			"prevPrice": 232.35
+		},
+		{
+			"name": "PVR::NSE",
+			"currentPrice": 1371.6,
+			"prevPrice": 1377.05
+		},
+		{
+			"name": "IDEA::NSE",
+			"currentPrice": 11.05,
+			"prevPrice": 11.2
+		},
+		{
+			"name": "BAJFINANCE::NSE",
+			"currentPrice": 6997.25,
+			"prevPrice": 6905.75
+		},
+		{
+			"name": "CONCOR::NSE",
+			"currentPrice": 620,
+			"prevPrice": 598.25
+		},
+		{
+			"name": "EICHERMOT::NSE",
+			"currentPrice": 2370.45,
+			"prevPrice": 2413.4
+		},
+		{
+			"name": "IOC::NSE",
+			"currentPrice": 118.95,
+			"prevPrice": 118.8
+		},
+		{
+			"name": "PFC::NSE",
+			"currentPrice": 116.3,
+			"prevPrice": 116.45
+		},
+		{
+			"name": "TECHM::NSE",
+			"currentPrice": 1541.45,
+			"prevPrice": 1536.65
+		},
+		{
+			"name": "WABAG::NSE",
+			"currentPrice": 332.3,
+			"prevPrice": 326.65
+		},
+		{
+			"name": "BALRAMCHIN::NSE",
+			"currentPrice": 311.65,
+			"prevPrice": 313.25
+		},
+		{
+			"name": "SWSOLAR::NSE",
+			"currentPrice": 399.7,
+			"prevPrice": 382.6
+		},
+		{
+			"name": "TATAPOWER::NSE",
+			"currentPrice": 216.8,
+			"prevPrice": 218.65
+		},
+		{
+			"name": "IRCTC::NSE",
+			"currentPrice": 795.15,
+			"prevPrice": 775.8
+		},
+		{
+			"name": "ROUTE::NSE",
+			"currentPrice": 1814.3,
+			"prevPrice": 1750.8
+		},
+		{
+			"name": "CENTURYTEX::NSE",
+			"currentPrice": 766.3,
+			"prevPrice": 783.25
+		},
+		{
+			"name": "DWARKESH::NSE",
+			"currentPrice": 65.85,
+			"prevPrice": 65.15
+		},
+		{
+			"name": "METROPOLIS::NSE",
+			"currentPrice": 3292.9,
+			"prevPrice": 3130.7
+		},
+		{
+			"name": "LAOPALA::NSE",
+			"currentPrice": 331.75,
+			"prevPrice": 314.9
+		},
+		{
+			"name": "BANDHANBNK::NSE",
+			"currentPrice": 272.45,
+			"prevPrice": 268.85
+		},
+		{
+			"name": "HINDUNILVR::NSE",
+			"currentPrice": 2317.55,
+			"prevPrice": 2329.4
+		},
+		{
+			"name": "MARICO::NSE",
+			"currentPrice": 538.35,
+			"prevPrice": 534.75
+		},
+		{
+			"name": "TAKE::NSE",
+			"currentPrice": 43.95,
+			"prevPrice": 44.05
+		},
+		{
+			"name": "BEPL::NSE",
+			"currentPrice": 161.8,
+			"prevPrice": 161.4
+		},
+		{
+			"name": "GMRINFRA::NSE",
+			"currentPrice": 37.6,
+			"prevPrice": 37.45
+		},
+		{
+			"name": "UTTAMSUGAR::NSE",
+			"currentPrice": 154.85,
+			"prevPrice": 156.4
+		},
+		{
+			"name": "SRF::NSE",
+			"currentPrice": 2005.85,
+			"prevPrice": 2056.2
+		},
+		{
+			"name": "GMMPFAUDLR::NSE",
+			"currentPrice": 4476.65,
+			"prevPrice": 4342.25
+		},
+		{
+			"name": "SCI::NSE",
+			"currentPrice": 148.6,
+			"prevPrice": 149.8
+		},
+		{
+			"name": "NOCIL::NSE",
+			"currentPrice": 225.4,
+			"prevPrice": 223.9
+		},
+		{
+			"name": "INDSWFTLAB::NSE",
+			"currentPrice": 74.75,
+			"prevPrice": 76.6
+		},
+		{
+			"name": "DALBHARAT::NSE",
+			"currentPrice": 1873.4,
+			"prevPrice": 1859.45
+		},
+		{
+			"name": "SUMICHEM::NSE",
+			"currentPrice": 371.65,
+			"prevPrice": 350.95
+		},
+		{
+			"name": "NIFTY 50::NSE",
+			"currentPrice": 16689.6,
+			"prevPrice": 16636.9
+		},
+		{
+			"name": "ADANITRANS::NSE",
+			"currentPrice": 1799.5,
+			"prevPrice": 1894.2
+		},
+		{
+			"name": "ALKEM::NSE",
+			"currentPrice": 3593.45,
+			"prevPrice": 3506.7
+		},
+		{
+			"name": "GICRE::NSE",
+			"currentPrice": 141.75,
+			"prevPrice": 142.05
+		},
+		{
+			"name": "ICICIGI::NSE",
+			"currentPrice": 1437.35,
+			"prevPrice": 1434.25
+		},
+		{
+			"name": "JSWSTEEL::NSE",
+			"currentPrice": 608.4,
+			"prevPrice": 625.6
+		},
+		{
+			"name": "PETRONET::NSE",
+			"currentPrice": 219.85,
+			"prevPrice": 219.95
+		},
+		{
+			"name": "BHEL::NSE",
+			"currentPrice": 58.9,
+			"prevPrice": 57.8
+		},
+		{
+			"name": "NETWORK18::NSE",
+			"currentPrice": 71.6,
+			"prevPrice": 71.8
+		},
+		{
+			"name": "USHAMART::NSE",
+			"currentPrice": 83.7,
+			"prevPrice": 81.85
+		},
+		{
+			"name": "ALEMBICLTD::NSE",
+			"currentPrice": 101.05,
+			"prevPrice": 100
+		},
+		{
+			"name": "ANGELBRKG::NSE",
+			"currentPrice": 1240.6,
+			"prevPrice": 1234.8
+		},
+		{
+			"name": "TEXRAIL::NSE",
+			"currentPrice": 28.1,
+			"prevPrice": 27.75
+		},
+		{
+			"name": "SEQUENT::NSE",
+			"currentPrice": 151.65,
+			"prevPrice": 150.9
+		},
+		{
+			"name": "AXISBANK::NSE",
+			"currentPrice": 655.65,
+			"prevPrice": 651.1
+		},
+		{
+			"name": "LUPIN::NSE",
+			"currentPrice": 884.4,
+			"prevPrice": 893
+		},
+		{
+			"name": "SBILIFE::NSE",
+			"currentPrice": 1160.55,
+			"prevPrice": 1136.25
+		},
+		{
+			"name": "TCS::NSE",
+			"currentPrice": 3529.15,
+			"prevPrice": 3502
+		},
+		{
+			"name": "SUDARSCHEM::NSE",
+			"currentPrice": 562.6,
+			"prevPrice": 558.95
+		},
+		{
+			"name": "DREDGECORP::NSE",
+			"currentPrice": 315.45,
+			"prevPrice": 313.65
+		},
+		{
+			"name": "HARRMALAYA::NSE",
+			"currentPrice": 151,
+			"prevPrice": 150.95
+		},
+		{
+			"name": "SAGCEM::NSE",
+			"currentPrice": 257.15,
+			"prevPrice": 255
+		},
+		{
+			"name": "POLYPLEX::NSE",
+			"currentPrice": 1845.65,
+			"prevPrice": 1873.8
+		},
+		{
+			"name": "HFCL::NSE",
+			"currentPrice": 71.8,
+			"prevPrice": 70
+		},
+		{
+			"name": "BHARATFORG::NSE",
+			"currentPrice": 693.65,
+			"prevPrice": 697.05
+		},
+		{
+			"name": "BOSCHLTD::NSE",
+			"currentPrice": 16168.5,
+			"prevPrice": 16302.85
+		},
+		{
+			"name": "LTI::NSE",
+			"currentPrice": 6809.7,
+			"prevPrice": 6748.55
+		},
+		{
+			"name": "PEL::NSE",
+			"currentPrice": 2418.35,
+			"prevPrice": 2384.7
+		},
+		{
+			"name": "RAYMOND::NSE",
+			"currentPrice": 641.05,
+			"prevPrice": 657.75
+		},
+		{
+			"name": "GESHIP::NSE",
+			"currentPrice": 293.65,
+			"prevPrice": 301.35
+		},
+		{
+			"name": "AFFLE::NSE",
+			"currentPrice": 1148.9,
+			"prevPrice": 1116.25
+		},
+		{
+			"name": "DELTACORP::NSE",
+			"currentPrice": 246.65,
+			"prevPrice": 248.55
+		},
+		{
+			"name": "NBVENTURES::NSE",
+			"currentPrice": 108.85,
+			"prevPrice": 106.45
+		},
+		{
+			"name": "IEX::NSE",
+			"currentPrice": 744.5,
+			"prevPrice": 731
+		},
+		{
+			"name": "RKFORGE::NSE",
+			"currentPrice": 901.45,
+			"prevPrice": 913.8
+		},
+		{
+			"name": "MADHAV::NSE",
+			"currentPrice": 52.15,
+			"prevPrice": 51.8
+		},
+		{
+			"name": "FILATEX::NSE",
+			"currentPrice": 89.65,
+			"prevPrice": 88.6
+		},
+		{
+			"name": "BERGEPAINT::NSE",
+			"currentPrice": 751.75,
+			"prevPrice": 740.25
+		},
+		{
+			"name": "BRITANNIA::NSE",
+			"currentPrice": 3545.5,
+			"prevPrice": 3528.6
+		},
+		{
+			"name": "HEROMOTOCO::NSE",
+			"currentPrice": 2449.3,
+			"prevPrice": 2490.8
+		},
+		{
+			"name": "HDFC::NSE",
+			"currentPrice": 2673.1,
+			"prevPrice": 2713.8
+		},
+		{
+			"name": "MOTHERSUMI::NSE",
+			"currentPrice": 209.85,
+			"prevPrice": 214.05
+		},
+		{
+			"name": "SBICARD::NSE",
+			"currentPrice": 950.5,
+			"prevPrice": 937
+		},
+		{
+			"name": "BASF::NSE",
+			"currentPrice": 2713.05,
+			"prevPrice": 2718.75
+		},
+		{
+			"name": "GPIL::NSE",
+			"currentPrice": 263.9,
+			"prevPrice": 269.3
+		},
+		{
+			"name": "CARBORUNIV::NSE",
+			"currentPrice": 917.7,
+			"prevPrice": 894.35
+		},
+		{
+			"name": "AARTIDRUGS::NSE",
+			"currentPrice": 506.75,
+			"prevPrice": 503.2
+		},
+		{
+			"name": "THYROCARE::NSE",
+			"currentPrice": 1105.5,
+			"prevPrice": 1111.4
+		},
+		{
+			"name": "DIVISLAB::NSE",
+			"currentPrice": 4878.8,
+			"prevPrice": 4921.35
+		},
+		{
+			"name": "GODREJCP::NSE",
+			"currentPrice": 923.1,
+			"prevPrice": 913.2
+		},
+		{
+			"name": "PNB::NSE",
+			"currentPrice": 37.3,
+			"prevPrice": 37.6
+		},
+		{
+			"name": "SIEMENS::NSE",
+			"currentPrice": 2151.9,
+			"prevPrice": 2133.4
+		},
+		{
+			"name": "TATAMOTORS::NSE",
+			"currentPrice": 458.6,
+			"prevPrice": 461.45
+		},
+		{
+			"name": "UPL::NSE",
+			"currentPrice": 681.7,
+			"prevPrice": 689.35
+		},
+		{
+			"name": "SFL::NSE",
+			"currentPrice": 3260.7,
+			"prevPrice": 3076.1
+		},
+		{
+			"name": "POWERINDIA::NSE",
+			"currentPrice": 2646.25,
+			"prevPrice": 2417.9
+		},
+		{
+			"name": "BODALCHEM::NSE",
+			"currentPrice": 107.55,
+			"prevPrice": 105.4
+		},
+		{
+			"name": "ANDHRSUGAR::NSE",
+			"currentPrice": 591.6,
+			"prevPrice": 588
+		},
+		{
+			"name": "IDBI::NSE",
+			"currentPrice": 45.45,
+			"prevPrice": 44.2
+		},
+		{
+			"name": "MOREPENLAB::NSE",
+			"currentPrice": 51.35,
+			"prevPrice": 52.75
+		},
+		{
+			"name": "GREAVESCOT::NSE",
+			"currentPrice": 137.3,
+			"prevPrice": 137.2
+		},
+		{
+			"name": "COCHINSHIP::NSE",
+			"currentPrice": 339.55,
+			"prevPrice": 342.4
+		},
+		{
+			"name": "BDL::NSE",
+			"currentPrice": 414.45,
+			"prevPrice": 412.5
+		},
+		{
+			"name": "SURYAROSNI::NSE",
+			"currentPrice": 612.4,
+			"prevPrice": 615.05
+		},
+		{
+			"name": "CSBBANK::NSE",
+			"currentPrice": 276.65,
+			"prevPrice": 271
+		},
+		{
+			"name": "YESBANK::NSE",
+			"currentPrice": 12.4,
+			"prevPrice": 12.15
+		},
+		{
+			"name": "ALBERTDAVD::NSE",
+			"currentPrice": 579.8,
+			"prevPrice": 582.9
+		},
+		{
+			"name": "GALAXYSURF::NSE",
+			"currentPrice": 2776.95,
+			"prevPrice": 2846.2
+		},
+		{
+			"name": "FACT::NSE",
+			"currentPrice": 109.9,
+			"prevPrice": 106.4
+		},
+		{
+			"name": "PPL::NSE",
+			"currentPrice": 147.45,
+			"prevPrice": 150.1
+		},
+		{
+			"name": "TWL::NSE",
+			"currentPrice": 86.25,
+			"prevPrice": 89.1
+		},
+		{
+			"name": "EVERESTIND::NSE",
+			"currentPrice": 374.65,
+			"prevPrice": 370.2
+		},
+		{
+			"name": "DBL::NSE",
+			"currentPrice": 528.35,
+			"prevPrice": 490.75
+		},
+		{
+			"name": "ICIL::NSE",
+			"currentPrice": 233.1,
+			"prevPrice": 232.15
+		},
+		{
+			"name": "SHRIPISTON::NSE",
+			"currentPrice": 878.95,
+			"prevPrice": 878.95
+		},
+		{
+			"name": "INDIGOPNTS::NSE",
+			"currentPrice": 2222.4,
+			"prevPrice": 2155.15
+		},
+		{
+			"name": "KHADIM::NSE",
+			"currentPrice": 249.65,
+			"prevPrice": 251
+		},
+		{
+			"name": "RPPINFRA::NSE",
+			"currentPrice": 50.5,
+			"prevPrice": 50.1
+		},
+		{
+			"name": "ABCAPITAL::NSE",
+			"currentPrice": 109.1,
+			"prevPrice": 105.6
+		},
+		{
+			"name": "PALREDTEC::NSE",
+			"currentPrice": 199.4,
+			"prevPrice": 203.75
+		},
+		{
+			"name": "SORILINFRA::NSE",
+			"currentPrice": 101.6,
+			"prevPrice": 101.95
+		},
+		{
+			"name": "TRIVENI::NSE",
+			"currentPrice": 206.5,
+			"prevPrice": 201.2
+		},
+		{
+			"name": "SUNDARMHLD::NSE",
+			"currentPrice": 79.2,
+			"prevPrice": 79.45
+		},
+		{
+			"name": "KOTARISUG::NSE",
+			"currentPrice": 30.15,
+			"prevPrice": 30.25
+		},
+		{
+			"name": "CGPOWER::NSE",
+			"currentPrice": 149.15,
+			"prevPrice": 148.6
+		},
+		{
+			"name": "TEJASNET::NSE",
+			"currentPrice": 457.05,
+			"prevPrice": 442.45
+		},
+		{
+			"name": "ANANTRAJ::NSE",
+			"currentPrice": 65.15,
+			"prevPrice": 65.7
+		},
+		{
+			"name": "SHIVATEX::NSE",
+			"currentPrice": 183.35,
+			"prevPrice": 186.3
+		},
+		{
+			"name": "WELSPUNIND::NSE",
+			"currentPrice": 137.9,
+			"prevPrice": 138.5
+		},
+		{
+			"name": "HOMEFIRST::NSE",
+			"currentPrice": 809.4,
+			"prevPrice": 788.65
+		},
+		{
+			"name": "OLECTRA::NSE",
+			"currentPrice": 824.05,
+			"prevPrice": 803.45
+		},
+		{
+			"name": "AJMERA::NSE",
+			"currentPrice": 281.95,
+			"prevPrice": 289.35
+		},
+		{
+			"name": "SALONA::NSE",
+			"currentPrice": 202.35,
+			"prevPrice": 200.7
+		},
+		{
+			"name": "PGIL::NSE",
+			"currentPrice": 368.8,
+			"prevPrice": 367.8
+		},
+		{
+			"name": "MMTC::NSE",
+			"currentPrice": 39.15,
+			"prevPrice": 37.1
+		},
+		{
+			"name": "RANEHOLDIN::NSE",
+			"currentPrice": 581.5,
+			"prevPrice": 581.6
+		},
+		{
+			"name": "HATSUN::NSE",
+			"currentPrice": 1332.05,
+			"prevPrice": 1311.35
+		},
+		{
+			"name": "ENIL::NSE",
+			"currentPrice": 187.45,
+			"prevPrice": 192.95
+		},
+		{
+			"name": "REPCOHOME::NSE",
+			"currentPrice": 300.3,
+			"prevPrice": 290.3
+		},
+		{
+			"name": "PIONDIST::NSE",
+			"currentPrice": 182.2,
+			"prevPrice": 181.2
+		},
+		{
+			"name": "PAGEIND::NSE",
+			"currentPrice": 38390.9,
+			"prevPrice": 38031.05
+		},
+		{
+			"name": "KESORAMIND::NSE",
+			"currentPrice": 55.95,
+			"prevPrice": 55.7
+		},
+		{
+			"name": "FIEMIND::NSE",
+			"currentPrice": 1117.1,
+			"prevPrice": 1107.6
+		},
+		{
+			"name": "TIMETECHNO::NSE",
+			"currentPrice": 73.45,
+			"prevPrice": 74.15
+		},
+		{
+			"name": "CORDSCABLE::NSE",
+			"currentPrice": 48.75,
+			"prevPrice": 49.1
+		},
+		{
+			"name": "SPAL::NSE",
+			"currentPrice": 375.4,
+			"prevPrice": 377.7
+		},
+		{
+			"name": "EMAMIREAL::NSE",
+			"currentPrice": 64.85,
+			"prevPrice": 67.15
+		},
+		{
+			"name": "LGBBROSLTD::NSE",
+			"currentPrice": 507.2,
+			"prevPrice": 491.35
+		},
+		{
+			"name": "V2RETAIL::NSE",
+			"currentPrice": 155.55,
+			"prevPrice": 157.8
+		},
+		{
+			"name": "MMP::NSE",
+			"currentPrice": 143.25,
+			"prevPrice": 144.95
+		},
+		{
+			"name": "RAMCOIND::NSE",
+			"currentPrice": 243.85,
+			"prevPrice": 247.2
+		},
+		{
+			"name": "HISARMETAL::NSE",
+			"currentPrice": 122.85,
+			"prevPrice": 123.85
+		},
+		{
+			"name": "AHLUCONT::NSE",
+			"currentPrice": 400.95,
+			"prevPrice": 392.35
+		},
+		{
+			"name": "EMKAY::NSE",
+			"currentPrice": 98.05,
+			"prevPrice": 97.1
+		},
+		{
+			"name": "THANGAMAYL::NSE",
+			"currentPrice": 1386.85,
+			"prevPrice": 1335.15
+		},
+		{
+			"name": "MANALIPETC::NSE",
+			"currentPrice": 109.2,
+			"prevPrice": 109.75
+		},
+		{
+			"name": "GREENPANEL::NSE",
+			"currentPrice": 373.2,
+			"prevPrice": 364
+		},
+		{
+			"name": "DEEPAKNTR::NSE",
+			"currentPrice": 2119.4,
+			"prevPrice": 2086.45
+		},
+		{
+			"name": "KPRMILL::NSE",
+			"currentPrice": 527.15,
+			"prevPrice": 490.15
+		},
+		{
+			"name": "ASTERDM::NSE",
+			"currentPrice": 192,
+			"prevPrice": 192.25
+		},
+		{
+			"name": "LUXIND::NSE",
+			"currentPrice": 3810,
+			"prevPrice": 3813.55
+		},
+		{
+			"name": "THERMAX::NSE",
+			"currentPrice": 1753.5,
+			"prevPrice": 1675
+		},
+		{
+			"name": "GILLETTE::NSE",
+			"currentPrice": 5429.15,
+			"prevPrice": 5434.4
+		},
+		{
+			"name": "GAEL::NSE",
+			"currentPrice": 158.5,
+			"prevPrice": 158
+		},
+		{
+			"name": "BHARATWIRE::NSE",
+			"currentPrice": 54.25,
+			"prevPrice": 55.05
+		},
+		{
+			"name": "HUDCO::NSE",
+			"currentPrice": 39.1,
+			"prevPrice": 39.6
+		},
+		{
+			"name": "ALPHAGEO::NSE",
+			"currentPrice": 323.75,
+			"prevPrice": 310.85
+		},
+		{
+			"name": "GOLDBEES::NSE",
+			"currentPrice": 41.51,
+			"prevPrice": 41.62
+		},
+		{
+			"name": "ZUARI::NSE",
+			"currentPrice": 102.35,
+			"prevPrice": 101.65
+		},
+		{
+			"name": "BIRLAMONEY::NSE",
+			"currentPrice": 58.05,
+			"prevPrice": 57.5
+		},
+		{
+			"name": "RITES::NSE",
+			"currentPrice": 277.65,
+			"prevPrice": 273.65
+		},
+		{
+			"name": "SANCO::NSE",
+			"currentPrice": 8.7,
+			"prevPrice": 8.75
+		},
+		{
+			"name": "MAITHANALL::NSE",
+			"currentPrice": 971,
+			"prevPrice": 945.05
+		},
+		{
+			"name": "KDDL::NSE",
+			"currentPrice": 673.1,
+			"prevPrice": 618.45
+		},
+		{
+			"name": "PGEL::NSE",
+			"currentPrice": 535.6,
+			"prevPrice": 523.45
+		},
+		{
+			"name": "HINDCOPPER::NSE",
+			"currentPrice": 111.35,
+			"prevPrice": 110.65
+		},
+		{
+			"name": "ITDCEM::NSE",
+			"currentPrice": 73.3,
+			"prevPrice": 72.5
+		},
+		{
+			"name": "DOLLAR::NSE",
+			"currentPrice": 447.05,
+			"prevPrice": 431.55
+		},
+		{
+			"name": "RELIGARE::NSE",
+			"currentPrice": 161.85,
+			"prevPrice": 163.1
+		},
+		{
+			"name": "IBREALEST::NSE",
+			"currentPrice": 167.6,
+			"prevPrice": 165.85
+		},
+		{
+			"name": "SUBEXLTD::NSE",
+			"currentPrice": 50.4,
+			"prevPrice": 50.3
+		},
+		{
+			"name": "KARURVYSYA::NSE",
+			"currentPrice": 47.95,
+			"prevPrice": 48.65
+		},
+		{
+			"name": "LOTUSEYE::NSE",
+			"currentPrice": 47.95,
+			"prevPrice": 47.85
+		},
+		{
+			"name": "RPSGVENT::NSE",
+			"currentPrice": 668.7,
+			"prevPrice": 660.35
+		},
+		{
+			"name": "DATAMATICS::NSE",
+			"currentPrice": 289.2,
+			"prevPrice": 283.15
+		},
+		{
+			"name": "AMARAJABAT::NSE",
+			"currentPrice": 617.9,
+			"prevPrice": 610.8
+		},
+		{
+			"name": "JSWENERGY::NSE",
+			"currentPrice": 287.3,
+			"prevPrice": 290.25
+		},
+		{
+			"name": "KAYA::NSE",
+			"currentPrice": 452.7,
+			"prevPrice": 448.2
+		},
+		{
+			"name": "LIBAS::NSE",
+			"currentPrice": 29.75,
+			"prevPrice": 29.55
+		},
+		{
+			"name": "ASTRAMICRO::NSE",
+			"currentPrice": 242.65,
+			"prevPrice": 240.8
+		},
+		{
+			"name": "AKSHARCHEM::NSE",
+			"currentPrice": 404.7,
+			"prevPrice": 416.3
+		},
+		{
+			"name": "RIIL::NSE",
+			"currentPrice": 654.45,
+			"prevPrice": 668.35
+		},
+		{
+			"name": "ELECTHERM::NSE",
+			"currentPrice": 115.5,
+			"prevPrice": 112.35
+		},
+		{
+			"name": "BANCOINDIA::NSE",
+			"currentPrice": 169.45,
+			"prevPrice": 168.4
+		},
+		{
+			"name": "INSECTICID::NSE",
+			"currentPrice": 637.05,
+			"prevPrice": 631.2
+		},
+		{
+			"name": "TNPL::NSE",
+			"currentPrice": 124.45,
+			"prevPrice": 123.85
+		},
+		{
+			"name": "SKFINDIA::NSE",
+			"currentPrice": 3877.85,
+			"prevPrice": 3557.45
+		},
+		{
+			"name": "CIGNITITEC::NSE",
+			"currentPrice": 588.55,
+			"prevPrice": 583.45
+		},
+		{
+			"name": "BANARISUG::NSE",
+			"currentPrice": 2130.35,
+			"prevPrice": 2069.05
+		},
+		{
+			"name": "TCPLPACK::NSE",
+			"currentPrice": 493.65,
+			"prevPrice": 492.5
+		},
+		{
+			"name": "SUNDRMBRAK::NSE",
+			"currentPrice": 354.75,
+			"prevPrice": 352.9
+		},
+		{
+			"name": "SANDHAR::NSE",
+			"currentPrice": 249.6,
+			"prevPrice": 242.4
+		},
+		{
+			"name": "GLOBALVECT::NSE",
+			"currentPrice": 53.6,
+			"prevPrice": 53.05
+		},
+		{
+			"name": "ROHLTD::NSE",
+			"currentPrice": 80.95,
+			"prevPrice": 82.7
+		},
+		{
+			"name": "ASPINWALL::NSE",
+			"currentPrice": 143.5,
+			"prevPrice": 139.55
+		},
+		{
+			"name": "FOSECOIND::NSE",
+			"currentPrice": 1397.1,
+			"prevPrice": 1385.3
+		},
+		{
+			"name": "RICOAUTO::NSE",
+			"currentPrice": 42.45,
+			"prevPrice": 41.6
+		},
+		{
+			"name": "JTEKTINDIA::NSE",
+			"currentPrice": 90.2,
+			"prevPrice": 88.85
+		},
+		{
+			"name": "OCCL::NSE",
+			"currentPrice": 972.25,
+			"prevPrice": 955.4
+		},
+		{
+			"name": "SEAMECLTD::NSE",
+			"currentPrice": 1014.75,
+			"prevPrice": 1008.85
+		},
+		{
+			"name": "SHANTIGEAR::NSE",
+			"currentPrice": 147.5,
+			"prevPrice": 146.4
+		},
+		{
+			"name": "TPLPLASTEH::NSE",
+			"currentPrice": 170.75,
+			"prevPrice": 168.8
+		},
+		{
+			"name": "ORBTEXP::NSE",
+			"currentPrice": 70.05,
+			"prevPrice": 67.1
+		},
+		{
+			"name": "STOVEKRAFT::NSE",
+			"currentPrice": 951.5,
+			"prevPrice": 975.15
+		},
+		{
+			"name": "ADVANIHOTR::NSE",
+			"currentPrice": 79,
+			"prevPrice": 78.8
+		},
+		{
+			"name": "SHREYANIND::NSE",
+			"currentPrice": 97.45,
+			"prevPrice": 97.25
+		},
+		{
+			"name": "DYNPRO::NSE",
+			"currentPrice": 548.3,
+			"prevPrice": 540.9
+		},
+		{
+			"name": "HSIL::NSE",
+			"currentPrice": 209.05,
+			"prevPrice": 212.05
+		},
+		{
+			"name": "RBL::NSE",
+			"currentPrice": 738.3,
+			"prevPrice": 732.15
+		},
+		{
+			"name": "MINDACORP::NSE",
+			"currentPrice": 163.4,
+			"prevPrice": 170
+		},
+		{
+			"name": "NEULANDLAB::NSE",
+			"currentPrice": 1746.75,
+			"prevPrice": 1693.5
+		},
+		{
+			"name": "APCOTEXIND::NSE",
+			"currentPrice": 345.8,
+			"prevPrice": 348.25
+		},
+		{
+			"name": "NITINSPIN::NSE",
+			"currentPrice": 235.45,
+			"prevPrice": 226.55
+		},
+		{
+			"name": "CAMS::NSE",
+			"currentPrice": 3077.5,
+			"prevPrice": 3026.9
+		},
+		{
+			"name": "MASTEK::NSE",
+			"currentPrice": 2695.5,
+			"prevPrice": 2519.55
+		},
+		{
+			"name": "HERANBA::NSE",
+			"currentPrice": 649,
+			"prevPrice": 642.55
+		},
+		{
+			"name": "ACE::NSE",
+			"currentPrice": 207.9,
+			"prevPrice": 203.85
+		},
+		{
+			"name": "KIRLFER::NSE",
+			"currentPrice": 223.75,
+			"prevPrice": 227.95
+		},
+		{
+			"name": "VBL::NSE",
+			"currentPrice": 891.45,
+			"prevPrice": 872.45
+		},
+		{
+			"name": "HITECH::NSE",
+			"currentPrice": 559.8,
+			"prevPrice": 549.35
+		},
+		{
+			"name": "PRAJIND::NSE",
+			"currentPrice": 324,
+			"prevPrice": 309.45
+		},
+		{
+			"name": "BORORENEW::NSE",
+			"currentPrice": 588.15,
+			"prevPrice": 562.3
+		},
+		{
+			"name": "SRTRANSFIN::NSE",
+			"currentPrice": 1406.7,
+			"prevPrice": 1403.25
+		},
+		{
+			"name": "GRAPHITE::NSE",
+			"currentPrice": 408.8,
+			"prevPrice": 417
+		},
+		{
+			"name": "SONATSOFTW::NSE",
+			"currentPrice": 914.25,
+			"prevPrice": 785.85
+		},
+		{
+			"name": "HBLPOWER::NSE",
+			"currentPrice": 53.95,
+			"prevPrice": 53.5
+		},
+		{
+			"name": "EVEREADY::NSE",
+			"currentPrice": 315,
+			"prevPrice": 301.6
+		},
+		{
+			"name": "INTELLECT::NSE",
+			"currentPrice": 620.9,
+			"prevPrice": 614.6
+		},
+		{
+			"name": "JINDALSTEL::NSE",
+			"currentPrice": 343.55,
+			"prevPrice": 352.65
+		},
+		{
+			"name": "BANKINDIA::NSE",
+			"currentPrice": 54.3,
+			"prevPrice": 54.85
+		},
+		{
+			"name": "KOPRAN::NSE",
+			"currentPrice": 250.85,
+			"prevPrice": 258.3
+		},
+		{
+			"name": "ISFT::NSE",
+			"currentPrice": 170,
+			"prevPrice": 170.95
+		},
+		{
+			"name": "JSL::NSE",
+			"currentPrice": 165.15,
+			"prevPrice": 158.3
+		},
+		{
+			"name": "ADSL::NSE",
+			"currentPrice": 107.35,
+			"prevPrice": 106.15
+		},
+		{
+			"name": "ONWARDTEC::NSE",
+			"currentPrice": 239.25,
+			"prevPrice": 250.45
+		},
+		{
+			"name": "HNDFDS::NSE",
+			"currentPrice": 1808.35,
+			"prevPrice": 1727.9
+		},
+		{
+			"name": "MAHINDCIE::NSE",
+			"currentPrice": 239.3,
+			"prevPrice": 233.45
+		},
+		{
+			"name": "APOLLOPIPE::NSE",
+			"currentPrice": 1744.75,
+			"prevPrice": 1738.35
+		},
+		{
+			"name": "SWELECTES::NSE",
+			"currentPrice": 225.95,
+			"prevPrice": 227.6
+		},
+		{
+			"name": "SHALBY::NSE",
+			"currentPrice": 136.95,
+			"prevPrice": 143.45
+		},
+		{
+			"name": "IDFCFIRSTB::NSE",
+			"currentPrice": 44.6,
+			"prevPrice": 45.15
+		},
+		{
+			"name": "IGARASHI::NSE",
+			"currentPrice": 495.45,
+			"prevPrice": 473.5
+		},
+		{
+			"name": "INDRAMEDCO::NSE",
+			"currentPrice": 77,
+			"prevPrice": 72.35
+		},
+		{
+			"name": "CARERATING::NSE",
+			"currentPrice": 629.05,
+			"prevPrice": 627.5
+		},
+		{
+			"name": "MAANALU::NSE",
+			"currentPrice": 106.7,
+			"prevPrice": 111.6
+		},
+		{
+			"name": "ALPA::NSE",
+			"currentPrice": 53.5,
+			"prevPrice": 54.7
+		},
+		{
+			"name": "SHALPAINTS::NSE",
+			"currentPrice": 102,
+			"prevPrice": 102
+		},
+		{
+			"name": "NIITLTD::NSE",
+			"currentPrice": 402.35,
+			"prevPrice": 423.25
+		},
+		{
+			"name": "KARDA::NSE",
+			"currentPrice": 17,
+			"prevPrice": 16.2
+		},
+		{
+			"name": "AJANTPHARM::NSE",
+			"currentPrice": 2080.25,
+			"prevPrice": 2075.7
+		},
+		{
+			"name": "BAYERCROP::NSE",
+			"currentPrice": 4604.05,
+			"prevPrice": 4626.1
+		},
+		{
+			"name": "TIPSINDLTD::NSE",
+			"currentPrice": 1304.15,
+			"prevPrice": 1304.8
+		},
+		{
+			"name": "PODDARMENT::NSE",
+			"currentPrice": 276.35,
+			"prevPrice": 276.85
+		},
+		{
+			"name": "ENDURANCE::NSE",
+			"currentPrice": 1667.8,
+			"prevPrice": 1676.8
+		},
+		{
+			"name": "RAJESHEXPO::NSE",
+			"currentPrice": 765.4,
+			"prevPrice": 707.35
+		},
+		{
+			"name": "INOXLEISUR::NSE",
+			"currentPrice": 400.25,
+			"prevPrice": 375.5
+		},
+		{
+			"name": "KOKUYOCMLN::NSE",
+			"currentPrice": 62.15,
+			"prevPrice": 62.15
+		},
+		{
+			"name": "ORIENTPPR::NSE",
+			"currentPrice": 30.3,
+			"prevPrice": 30.25
+		},
+		{
+			"name": "JUBLINDS::NSE",
+			"currentPrice": 471.8,
+			"prevPrice": 472.05
+		},
+		{
+			"name": "CYIENT::NSE",
+			"currentPrice": 1012.45,
+			"prevPrice": 1059.05
+		},
+		{
+			"name": "TATACOFFEE::NSE",
+			"currentPrice": 202.85,
+			"prevPrice": 199.4
+		},
+		{
+			"name": "INDOSTAR::NSE",
+			"currentPrice": 256,
+			"prevPrice": 250.5
+		},
+		{
+			"name": "SPENCERS::NSE",
+			"currentPrice": 100.6,
+			"prevPrice": 99.65
+		},
+		{
+			"name": "CANBK::NSE",
+			"currentPrice": 199.15,
+			"prevPrice": 199.25
+		},
+		{
+			"name": "DFMFOODS::NSE",
+			"currentPrice": 271.35,
+			"prevPrice": 280
+		},
+		{
+			"name": "KRBL::NSE",
+			"currentPrice": 241.35,
+			"prevPrice": 235.45
+		},
+		{
+			"name": "JCHAC::NSE",
+			"currentPrice": 1898.55,
+			"prevPrice": 1901.55
+		},
+		{
+			"name": "TNPETRO::NSE",
+			"currentPrice": 100.05,
+			"prevPrice": 99.8
+		},
+		{
+			"name": "RANEENGINE::NSE",
+			"currentPrice": 261.45,
+			"prevPrice": 254.75
+		},
+		{
+			"name": "NAHARPOLY::NSE",
+			"currentPrice": 227.15,
+			"prevPrice": 227.7
+		},
+		{
+			"name": "UFLEX::NSE",
+			"currentPrice": 489.05,
+			"prevPrice": 492.35
+		},
+		{
+			"name": "NRBBEARING::NSE",
+			"currentPrice": 158.15,
+			"prevPrice": 152.05
+		},
+		{
+			"name": "WESTLIFE::NSE",
+			"currentPrice": 548.5,
+			"prevPrice": 549.75
+		},
+		{
+			"name": "CHENNPETRO::NSE",
+			"currentPrice": 104.55,
+			"prevPrice": 106.1
+		},
+		{
+			"name": "GREENPLY::NSE",
+			"currentPrice": 199.15,
+			"prevPrice": 191.7
+		},
+		{
+			"name": "AURIONPRO::NSE",
+			"currentPrice": 247.3,
+			"prevPrice": 239
+		},
+		{
+			"name": "TATASTLLP::NSE",
+			"currentPrice": 710.4,
+			"prevPrice": 737.3
+		},
+		{
+			"name": "TATAELXSI::NSE",
+			"currentPrice": 5781.65,
+			"prevPrice": 5679.35
+		},
+		{
+			"name": "SUVENPHAR::NSE",
+			"currentPrice": 486.65,
+			"prevPrice": 495.4
+		},
+		{
+			"name": "SUPREMEIND::NSE",
+			"currentPrice": 2168.45,
+			"prevPrice": 2158
+		},
+		{
+			"name": "GMDCLTD::NSE",
+			"currentPrice": 64.8,
+			"prevPrice": 65.1
+		},
+		{
+			"name": "TIRUMALCHM::NSE",
+			"currentPrice": 218.25,
+			"prevPrice": 215.15
+		},
+		{
+			"name": "SHIL::NSE",
+			"currentPrice": 403.45,
+			"prevPrice": 384.25
+		},
+		{
+			"name": "GANECOS::NSE",
+			"currentPrice": 485.2,
+			"prevPrice": 480.5
+		},
+		{
+			"name": "NAZARA::NSE",
+			"currentPrice": 2241.5,
+			"prevPrice": 2300
+		},
+		{
+			"name": "AWHCL::NSE",
+			"currentPrice": 286.1,
+			"prevPrice": 285.95
+		},
+		{
+			"name": "PANAMAPET::NSE",
+			"currentPrice": 238.75,
+			"prevPrice": 232.05
+		},
+		{
+			"name": "CENTURYPLY::NSE",
+			"currentPrice": 601.6,
+			"prevPrice": 586.2
+		},
+		{
+			"name": "IIFL::NSE",
+			"currentPrice": 309.5,
+			"prevPrice": 294.8
+		},
+		{
+			"name": "PAISALO::NSE",
+			"currentPrice": 963,
+			"prevPrice": 986.55
+		},
+		{
+			"name": "SUNDARMFIN::NSE",
+			"currentPrice": 2262,
+			"prevPrice": 2348.7
+		},
+		{
+			"name": "VENUSREM::NSE",
+			"currentPrice": 444.45,
+			"prevPrice": 439.5
+		},
+		{
+			"name": "TRIDENT::NSE",
+			"currentPrice": 52,
+			"prevPrice": 54.7
+		},
+		{
+			"name": "POKARNA::NSE",
+			"currentPrice": 546.15,
+			"prevPrice": 540.05
+		},
+		{
+			"name": "GOLDIAM::NSE",
+			"currentPrice": 801.6,
+			"prevPrice": 802.65
+		},
+		{
+			"name": "JINDALSAW::NSE",
+			"currentPrice": 101.1,
+			"prevPrice": 97.85
+		},
+		{
+			"name": "RUPA::NSE",
+			"currentPrice": 417.4,
+			"prevPrice": 420
+		},
+		{
+			"name": "IOB::NSE",
+			"currentPrice": 20.85,
+			"prevPrice": 20.95
+		},
+		{
+			"name": "TIMKEN::NSE",
+			"currentPrice": 2020.9,
+			"prevPrice": 1818.85
+		},
+		{
+			"name": "CLEAN::NSE",
+			"currentPrice": 2139.35,
+			"prevPrice": 2010.25
+		},
+		{
+			"name": "GULPOLY::NSE",
+			"currentPrice": 235.1,
+			"prevPrice": 233.65
+		},
+		{
+			"name": "SIRCA::NSE",
+			"currentPrice": 495.35,
+			"prevPrice": 440.8
+		},
+		{
+			"name": "WOCKPHARMA::NSE",
+			"currentPrice": 435.55,
+			"prevPrice": 421
+		},
+		{
+			"name": "HESTERBIO::NSE",
+			"currentPrice": 2234.2,
+			"prevPrice": 2220.65
+		},
+		{
+			"name": "KSB::NSE",
+			"currentPrice": 1241.95,
+			"prevPrice": 1227.05
+		},
+		{
+			"name": "APLAPOLLO::NSE",
+			"currentPrice": 924,
+			"prevPrice": 899.2
+		},
+		{
+			"name": "LINCOLN::NSE",
+			"currentPrice": 323.15,
+			"prevPrice": 323.65
+		},
+		{
+			"name": "KEI::NSE",
+			"currentPrice": 1104.9,
+			"prevPrice": 1000.35
+		},
+		{
+			"name": "HSCL::NSE",
+			"currentPrice": 44.35,
+			"prevPrice": 44.75
+		},
+		{
+			"name": "STAR::NSE",
+			"currentPrice": 487.85,
+			"prevPrice": 491.4
+		},
+		{
+			"name": "SIS::NSE",
+			"currentPrice": 480.9,
+			"prevPrice": 477.45
+		},
+		{
+			"name": "NOVARTIND::NSE",
+			"currentPrice": 782.85,
+			"prevPrice": 757.4
+		},
+		{
+			"name": "VESUVIUS::NSE",
+			"currentPrice": 1174.2,
+			"prevPrice": 1220.4
+		},
+		{
+			"name": "GLAXO::NSE",
+			"currentPrice": 1678.95,
+			"prevPrice": 1684.5
+		},
+		{
+			"name": "MINDTREE::NSE",
+			"currentPrice": 4328.55,
+			"prevPrice": 4445.05
+		},
+		{
+			"name": "ESCORTS::NSE",
+			"currentPrice": 1846.3,
+			"prevPrice": 1858.85
+		},
+		{
+			"name": "MGL::NSE",
+			"currentPrice": 917.3,
+			"prevPrice": 918.15
+		},
+		{
+			"name": "JAMNAAUTO::NSE",
+			"currentPrice": 99,
+			"prevPrice": 102.25
+		},
+		{
+			"name": "MAXHEALTH::NSE",
+			"currentPrice": 380.2,
+			"prevPrice": 373.25
+		},
+		{
+			"name": "VOLTAS::NSE",
+			"currentPrice": 1201,
+			"prevPrice": 1177
+		},
+		{
+			"name": "HGINFRA::NSE",
+			"currentPrice": 602.7,
+			"prevPrice": 585.75
+		},
+		{
+			"name": "NHPC::NSE",
+			"currentPrice": 31.1,
+			"prevPrice": 30.3
+		},
+		{
+			"name": "BEML::NSE",
+			"currentPrice": 1847.7,
+			"prevPrice": 1875.05
+		},
+		{
+			"name": "KANSAINER::NSE",
+			"currentPrice": 596.25,
+			"prevPrice": 569.75
+		},
+		{
+			"name": "LTTS::NSE",
+			"currentPrice": 5279.4,
+			"prevPrice": 5201.25
+		},
+		{
+			"name": "KAJARIACER::NSE",
+			"currentPrice": 1141.1,
+			"prevPrice": 1133.3
+		},
+		{
+			"name": "TRENT::NSE",
+			"currentPrice": 1014.4,
+			"prevPrice": 1026.7
+		},
+		{
+			"name": "SASKEN::NSE",
+			"currentPrice": 1073.2,
+			"prevPrice": 1115.7
+		},
+		{
+			"name": "NUCLEUS::NSE",
+			"currentPrice": 502.5,
+			"prevPrice": 511.55
+		},
+		{
+			"name": "LUMAXTECH::NSE",
+			"currentPrice": 141.6,
+			"prevPrice": 142.15
+		},
+		{
+			"name": "SCHNEIDER::NSE",
+			"currentPrice": 104.3,
+			"prevPrice": 102.7
+		},
+		{
+			"name": "CAMLINFINE::NSE",
+			"currentPrice": 138.75,
+			"prevPrice": 138.95
+		},
+		{
+			"name": "ORIENTBELL::NSE",
+			"currentPrice": 356.2,
+			"prevPrice": 354.6
+		},
+		{
+			"name": "PREMIERPOL::NSE",
+			"currentPrice": 65.15,
+			"prevPrice": 64.5
+		},
+		{
+			"name": "REFEX::NSE",
+			"currentPrice": 122.7,
+			"prevPrice": 124.75
+		},
+		{
+			"name": "WENDT::NSE",
+			"currentPrice": 5118.65,
+			"prevPrice": 5114.4
+		},
+		{
+			"name": "KIRLOSIND::NSE",
+			"currentPrice": 1450.3,
+			"prevPrice": 1434.65
+		},
+		{
+			"name": "SPANDANA::NSE",
+			"currentPrice": 397.3,
+			"prevPrice": 401.15
+		},
+		{
+			"name": "SUVEN::NSE",
+			"currentPrice": 88.3,
+			"prevPrice": 87.4
+		},
+		{
+			"name": "NLCINDIA::NSE",
+			"currentPrice": 57.25,
+			"prevPrice": 59
+		},
+		{
+			"name": "NCC::NSE",
+			"currentPrice": 70.85,
+			"prevPrice": 71.3
+		},
+		{
+			"name": "MUNJALSHOW::NSE",
+			"currentPrice": 122.15,
+			"prevPrice": 120.25
+		},
+		{
+			"name": "WELENT::NSE",
+			"currentPrice": 93.75,
+			"prevPrice": 94.05
+		},
+		{
+			"name": "GOLDENTOBC::NSE",
+			"currentPrice": 120.65,
+			"prevPrice": 114.95
+		},
+		{
+			"name": "JKIL::NSE",
+			"currentPrice": 163.5,
+			"prevPrice": 166.25
+		},
+		{
+			"name": "STEL::NSE",
+			"currentPrice": 148.95,
+			"prevPrice": 147.15
+		},
+		{
+			"name": "INDIANB::NSE",
+			"currentPrice": 142.8,
+			"prevPrice": 142.95
+		},
+		{
+			"name": "RELINFRA::NSE",
+			"currentPrice": 84.2,
+			"prevPrice": 88.15
+		},
+		{
+			"name": "SUNDRMFAST::NSE",
+			"currentPrice": 875.65,
+			"prevPrice": 821.4
+		},
+		{
+			"name": "IRFC::NSE",
+			"currentPrice": 23.25,
+			"prevPrice": 23.15
+		},
+		{
+			"name": "NATCOPHARM::NSE",
+			"currentPrice": 837.6,
+			"prevPrice": 823.6
+		},
+		{
+			"name": "APARINDS::NSE",
+			"currentPrice": 677.5,
+			"prevPrice": 663.3
+		},
+		{
+			"name": "L&TFH::NSE",
+			"currentPrice": 75.25,
+			"prevPrice": 73.4
+		},
+		{
+			"name": "SAKAR::NSE",
+			"currentPrice": 140.55,
+			"prevPrice": 141.1
+		},
+		{
+			"name": "SARLAPOLY::NSE",
+			"currentPrice": 55.2,
+			"prevPrice": 54.65
+		},
+		{
+			"name": "JKCEMENT::NSE",
+			"currentPrice": 3234.95,
+			"prevPrice": 3183.95
+		},
+		{
+			"name": "ARCHIES::NSE",
+			"currentPrice": 16.7,
+			"prevPrice": 16.5
+		},
+		{
+			"name": "CEREBRAINT::NSE",
+			"currentPrice": 81.25,
+			"prevPrice": 81.85
+		},
+		{
+			"name": "ROSSELLIND::NSE",
+			"currentPrice": 126.9,
+			"prevPrice": 124.75
+		},
+		{
+			"name": "NAVKARCORP::NSE",
+			"currentPrice": 39.4,
+			"prevPrice": 39.2
+		},
+		{
+			"name": "RML::NSE",
+			"currentPrice": 336.8,
+			"prevPrice": 332.1
+		},
+		{
+			"name": "RAMCOSYS::NSE",
+			"currentPrice": 380.65,
+			"prevPrice": 370.35
+		},
+		{
+			"name": "SPECIALITY::NSE",
+			"currentPrice": 94.9,
+			"prevPrice": 91.7
+		},
+		{
+			"name": "GOKEX::NSE",
+			"currentPrice": 268.65,
+			"prevPrice": 264.5
+		},
+		{
+			"name": "CERA::NSE",
+			"currentPrice": 5001.7,
+			"prevPrice": 4890.25
+		},
+		{
+			"name": "AEGISCHEM::NSE",
+			"currentPrice": 229.3,
+			"prevPrice": 223.9
+		},
+		{
+			"name": "LOVABLE::NSE",
+			"currentPrice": 165.4,
+			"prevPrice": 149.9
+		},
+		{
+			"name": "BLS::NSE",
+			"currentPrice": 193.55,
+			"prevPrice": 202.25
+		},
+		{
+			"name": "UFO::NSE",
+			"currentPrice": 95.65,
+			"prevPrice": 94.85
+		},
+		{
+			"name": "GOACARBON::NSE",
+			"currentPrice": 325.8,
+			"prevPrice": 323.75
+		},
+		{
+			"name": "SUPRAJIT::NSE",
+			"currentPrice": 415.85,
+			"prevPrice": 426.1
+		},
+		{
+			"name": "BLISSGVS::NSE",
+			"currentPrice": 98.5,
+			"prevPrice": 99.1
+		},
+		{
+			"name": "KEC::NSE",
+			"currentPrice": 425.35,
+			"prevPrice": 433
+		},
+		{
+			"name": "SSWL::NSE",
+			"currentPrice": 740.75,
+			"prevPrice": 776.95
+		},
+		{
+			"name": "TDPOWERSYS::NSE",
+			"currentPrice": 396.95,
+			"prevPrice": 400.35
+		},
+		{
+			"name": "GRSE::NSE",
+			"currentPrice": 221.35,
+			"prevPrice": 221.6
+		},
+		{
+			"name": "MAHLIFE::NSE",
+			"currentPrice": 256.4,
+			"prevPrice": 245.45
+		},
+		{
+			"name": "SYNGENE::NSE",
+			"currentPrice": 596.15,
+			"prevPrice": 587.3
+		},
+		{
+			"name": "JMFINANCIL::NSE",
+			"currentPrice": 71.15,
+			"prevPrice": 71
+		},
+		{
+			"name": "JUBLPHARMA::NSE",
+			"currentPrice": 583.85,
+			"prevPrice": 586.2
+		},
+		{
+			"name": "INDIANHUME::NSE",
+			"currentPrice": 190.35,
+			"prevPrice": 192.55
+		},
+		{
+			"name": "VMART::NSE",
+			"currentPrice": 3947.65,
+			"prevPrice": 3695.95
+		},
+		{
+			"name": "TCI::NSE",
+			"currentPrice": 686.65,
+			"prevPrice": 658.9
+		},
+		{
+			"name": "SWARAJENG::NSE",
+			"currentPrice": 1661.6,
+			"prevPrice": 1641.2
+		},
+		{
+			"name": "NECLIFE::NSE",
+			"currentPrice": 23.6,
+			"prevPrice": 23.8
+		},
+		{
+			"name": "MANGLMCEM::NSE",
+			"currentPrice": 355.7,
+			"prevPrice": 358.7
+		},
+		{
+			"name": "FINPIPE::NSE",
+			"currentPrice": 211.85,
+			"prevPrice": 196.3
+		},
+		{
+			"name": "ASTEC::NSE",
+			"currentPrice": 1320.25,
+			"prevPrice": 1323.45
+		},
+		{
+			"name": "SAREGAMA::NSE",
+			"currentPrice": 4267.45,
+			"prevPrice": 4359.4
+		},
+		{
+			"name": "PNBGILTS::NSE",
+			"currentPrice": 64,
+			"prevPrice": 63.65
+		},
+		{
+			"name": "PFS::NSE",
+			"currentPrice": 18.15,
+			"prevPrice": 18.1
+		},
+		{
+			"name": "ASTRAZEN::NSE",
+			"currentPrice": 3137.15,
+			"prevPrice": 3249.05
+		},
+		{
+			"name": "GLS::NSE",
+			"currentPrice": 611.7,
+			"prevPrice": 610.2
+		},
+		{
+			"name": "CYBERTECH::NSE",
+			"currentPrice": 142.1,
+			"prevPrice": 139.2
+		},
+		{
+			"name": "COFORGE::NSE",
+			"currentPrice": 5431.6,
+			"prevPrice": 5292.75
+		},
+		{
+			"name": "MAYURUNIQ::NSE",
+			"currentPrice": 473.25,
+			"prevPrice": 490.65
+		},
+		{
+			"name": "JKLAKSHMI::NSE",
+			"currentPrice": 634.95,
+			"prevPrice": 647.55
+		},
+		{
+			"name": "IFBAGRO::NSE",
+			"currentPrice": 597.35,
+			"prevPrice": 597
+		},
+		{
+			"name": "TORNTPOWER::NSE",
+			"currentPrice": 551.2,
+			"prevPrice": 533.6
+		},
+		{
+			"name": "SREINFRA::NSE",
+			"currentPrice": 4.85,
+			"prevPrice": 5
+		},
+		{
+			"name": "MENONBE::NSE",
+			"currentPrice": 78.9,
+			"prevPrice": 75.9
+		},
+		{
+			"name": "SKIPPER::NSE",
+			"currentPrice": 64.7,
+			"prevPrice": 68.75
+		},
+		{
+			"name": "SCHAEFFLER::NSE",
+			"currentPrice": 7793.8,
+			"prevPrice": 7629.95
+		},
+		{
+			"name": "INDHOTEL::NSE",
+			"currentPrice": 180.3,
+			"prevPrice": 172.55
+		},
+		{
+			"name": "UTIAMC::NSE",
+			"currentPrice": 1095.65,
+			"prevPrice": 1008.95
+		},
+		{
+			"name": "SHREEPUSHK::NSE",
+			"currentPrice": 200.5,
+			"prevPrice": 200.3
+		},
+		{
+			"name": "VINYLINDIA::NSE",
+			"currentPrice": 226.85,
+			"prevPrice": 225
+		},
+		{
+			"name": "BALMLAWRIE::NSE",
+			"currentPrice": 115.9,
+			"prevPrice": 115.05
+		},
+		{
+			"name": "STARCEMENT::NSE",
+			"currentPrice": 95.3,
+			"prevPrice": 93.65
+		},
+		{
+			"name": "ARCHIDPLY::NSE",
+			"currentPrice": 43,
+			"prevPrice": 43.85
+		},
+		{
+			"name": "PSB::NSE",
+			"currentPrice": 16.5,
+			"prevPrice": 16.05
+		},
+		{
+			"name": "MCX::NSE",
+			"currentPrice": 1599.05,
+			"prevPrice": 1631.3
+		},
+		{
+			"name": "POLYMED::NSE",
+			"currentPrice": 1036.8,
+			"prevPrice": 1028.65
+		},
+		{
+			"name": "JAYSREETEA::NSE",
+			"currentPrice": 96,
+			"prevPrice": 96.1
+		},
+		{
+			"name": "DHANUKA::NSE",
+			"currentPrice": 739,
+			"prevPrice": 739.05
+		},
+		{
+			"name": "GINNIFILA::NSE",
+			"currentPrice": 31.25,
+			"prevPrice": 30.9
+		},
+		{
+			"name": "MHRIL::NSE",
+			"currentPrice": 207.4,
+			"prevPrice": 204.8
+		},
+		{
+			"name": "ABFRL::NSE",
+			"currentPrice": 255.1,
+			"prevPrice": 254.25
+		},
+		{
+			"name": "20MICRONS::NSE",
+			"currentPrice": 58.1,
+			"prevPrice": 57.55
+		},
+		{
+			"name": "ELECON::NSE",
+			"currentPrice": 206.95,
+			"prevPrice": 207.7
+		},
+		{
+			"name": "OMINFRAL::NSE",
+			"currentPrice": 31.95,
+			"prevPrice": 32
+		},
+		{
+			"name": "RBLBANK::NSE",
+			"currentPrice": 182.65,
+			"prevPrice": 181.7
+		},
+		{
+			"name": "INDORAMA::NSE",
+			"currentPrice": 48.1,
+			"prevPrice": 43.95
+		},
+		{
+			"name": "MURUDCERA::NSE",
+			"currentPrice": 24.35,
+			"prevPrice": 24.45
+		},
+		{
+			"name": "AUBANK::NSE",
+			"currentPrice": 1096.1,
+			"prevPrice": 1103.15
+		},
+		{
+			"name": "BLUESTARCO::NSE",
+			"currentPrice": 948.8,
+			"prevPrice": 925.45
+		},
+		{
+			"name": "BLUEDART::NSE",
+			"currentPrice": 6551.35,
+			"prevPrice": 6852.7
+		},
+		{
+			"name": "FINCABLES::NSE",
+			"currentPrice": 567.05,
+			"prevPrice": 557.9
+		},
+		{
+			"name": "SUPPETRO::NSE",
+			"currentPrice": 660.05,
+			"prevPrice": 631.4
+		},
+		{
+			"name": "HITECHGEAR::NSE",
+			"currentPrice": 208.35,
+			"prevPrice": 203.8
+		},
+		{
+			"name": "AARTIIND::NSE",
+			"currentPrice": 937.3,
+			"prevPrice": 926.05
+		},
+		{
+			"name": "COROMANDEL::NSE",
+			"currentPrice": 740.2,
+			"prevPrice": 737
+		},
+		{
+			"name": "DSSL::NSE",
+			"currentPrice": 137.7,
+			"prevPrice": 135.25
+		},
+		{
+			"name": "HEMIPROP::NSE",
+			"currentPrice": 130.85,
+			"prevPrice": 130.35
+		},
+		{
+			"name": "INGERRAND::NSE",
+			"currentPrice": 1175.25,
+			"prevPrice": 1181.55
+		},
+		{
+			"name": "AAVAS::NSE",
+			"currentPrice": 2816.05,
+			"prevPrice": 2851.45
+		},
+		{
+			"name": "PERSISTENT::NSE",
+			"currentPrice": 4138.8,
+			"prevPrice": 4012.25
+		},
+		{
+			"name": "SIYSIL::NSE",
+			"currentPrice": 426.95,
+			"prevPrice": 424.5
+		},
+		{
+			"name": "HINDOILEXP::NSE",
+			"currentPrice": 156.55,
+			"prevPrice": 158.9
+		},
+		{
+			"name": "INSPIRISYS::NSE",
+			"currentPrice": 48.75,
+			"prevPrice": 49.45
+		},
+		{
+			"name": "PONNIERODE::NSE",
+			"currentPrice": 217,
+			"prevPrice": 217.5
+		},
+		{
+			"name": "MOIL::NSE",
+			"currentPrice": 169.05,
+			"prevPrice": 168.7
+		},
+		{
+			"name": "FDC::NSE",
+			"currentPrice": 285.1,
+			"prevPrice": 279.95
+		},
+		{
+			"name": "M&MFIN::NSE",
+			"currentPrice": 155.2,
+			"prevPrice": 154.9
+		},
+		{
+			"name": "ANUP::NSE",
+			"currentPrice": 983.35,
+			"prevPrice": 942.8
+		},
+		{
+			"name": "SIGIND::NSE",
+			"currentPrice": 37.2,
+			"prevPrice": 38.4
+		},
+		{
+			"name": "PNBHOUSING::NSE",
+			"currentPrice": 550.75,
+			"prevPrice": 524.55
+		},
+		{
+			"name": "DCBBANK::NSE",
+			"currentPrice": 82.05,
+			"prevPrice": 88.3
+		},
+		{
+			"name": "EQUITASBNK::NSE",
+			"currentPrice": 60.3,
+			"prevPrice": 62.1
+		},
+		{
+			"name": "TALBROAUTO::NSE",
+			"currentPrice": 337.25,
+			"prevPrice": 283.1
+		},
+		{
+			"name": "MANINDS::NSE",
+			"currentPrice": 93,
+			"prevPrice": 92.05
+		},
+		{
+			"name": "DHAMPURSUG::NSE",
+			"currentPrice": 277.7,
+			"prevPrice": 273.95
+		},
+		{
+			"name": "INDUSTOWER::NSE",
+			"currentPrice": 284.45,
+			"prevPrice": 281.5
+		},
+		{
+			"name": "ISEC::NSE",
+			"currentPrice": 732,
+			"prevPrice": 742.25
+		},
+		{
+			"name": "IRISDOREME::NSE",
+			"currentPrice": 212.75,
+			"prevPrice": 203.1
+		},
+		{
+			"name": "GUJALKALI::NSE",
+			"currentPrice": 607.55,
+			"prevPrice": 593.7
+		},
+		{
+			"name": "VIVIMEDLAB::NSE",
+			"currentPrice": 18.6,
+			"prevPrice": 18.7
+		},
+		{
+			"name": "PHILIPCARB::NSE",
+			"currentPrice": 209.15,
+			"prevPrice": 206.15
+		},
+		{
+			"name": "ORIENTELEC::NSE",
+			"currentPrice": 388.85,
+			"prevPrice": 350.75
+		},
+		{
+			"name": "LINDEINDIA::NSE",
+			"currentPrice": 2508.25,
+			"prevPrice": 2480.3
+		},
+		{
+			"name": "PRINCEPIPE::NSE",
+			"currentPrice": 728.5,
+			"prevPrice": 721.55
+		},
+		{
+			"name": "ANURAS::NSE",
+			"currentPrice": 789.15,
+			"prevPrice": 795.9
+		},
+		{
+			"name": "PNCINFRA::NSE",
+			"currentPrice": 307.4,
+			"prevPrice": 285.3
+		},
+		{
+			"name": "LEMONTREE::NSE",
+			"currentPrice": 44.55,
+			"prevPrice": 43.95
+		},
+		{
+			"name": "HIMATSEIDE::NSE",
+			"currentPrice": 210.4,
+			"prevPrice": 206.9
+		},
+		{
+			"name": "ONMOBILE::NSE",
+			"currentPrice": 101.45,
+			"prevPrice": 100.5
+		},
+		{
+			"name": "BAJAJHIND::NSE",
+			"currentPrice": 12.55,
+			"prevPrice": 12.55
+		},
+		{
+			"name": "ADANIENT::NSE",
+			"currentPrice": 1662.85,
+			"prevPrice": 1665.05
+		},
+		{
+			"name": "DCAL::NSE",
+			"currentPrice": 237.35,
+			"prevPrice": 229.6
+		},
+		{
+			"name": "SNOWMAN::NSE",
+			"currentPrice": 38.7,
+			"prevPrice": 38.8
+		},
+		{
+			"name": "NATHBIOGEN::NSE",
+			"currentPrice": 264.3,
+			"prevPrice": 258.05
+		},
+		{
+			"name": "JUBLFOOD::NSE",
+			"currentPrice": 3651,
+			"prevPrice": 3640.25
+		},
+		{
+			"name": "LICHSGFIN::NSE",
+			"currentPrice": 372.1,
+			"prevPrice": 374.85
+		},
+		{
+			"name": "GSPL::NSE",
+			"currentPrice": 313.3,
+			"prevPrice": 300.75
+		},
+		{
+			"name": "NAVINFLUOR::NSE",
+			"currentPrice": 3741,
+			"prevPrice": 3550.1
+		},
+		{
+			"name": "JASH::NSE",
+			"currentPrice": 450.75,
+			"prevPrice": 447
+		},
+		{
+			"name": "SOTL::NSE",
+			"currentPrice": 1115.15,
+			"prevPrice": 1099.6
+		},
+		{
+			"name": "PRAKASH::NSE",
+			"currentPrice": 58,
+			"prevPrice": 59.85
+		},
+		{
+			"name": "IMFA::NSE",
+			"currentPrice": 749.1,
+			"prevPrice": 760.4
+		},
+		{
+			"name": "AUTOAXLES::NSE",
+			"currentPrice": 1269.15,
+			"prevPrice": 1253.5
+		},
+		{
+			"name": "MANAPPURAM::NSE",
+			"currentPrice": 163.45,
+			"prevPrice": 164.65
+		},
+		{
+			"name": "KOTAKBKETF::NSE",
+			"currentPrice": 360.46,
+			"prevPrice": 363.83
+		},
+		{
+			"name": "ZEEL::NSE",
+			"currentPrice": 324.3,
+			"prevPrice": 329.9
+		},
+		{
+			"name": "GABRIEL::NSE",
+			"currentPrice": 134.35,
+			"prevPrice": 134.2
+		},
+		{
+			"name": "JSWHL::NSE",
+			"currentPrice": 4166.9,
+			"prevPrice": 4152.8
+		},
+		{
+			"name": "GEPIL::NSE",
+			"currentPrice": 231.15,
+			"prevPrice": 230.05
+		},
+		{
+			"name": "BHARATRAS::NSE",
+			"currentPrice": 9923.6,
+			"prevPrice": 9575.05
+		},
+		{
+			"name": "KPITTECH::NSE",
+			"currentPrice": 494.65,
+			"prevPrice": 441.85
+		},
+		{
+			"name": "INDOCO::NSE",
+			"currentPrice": 388.2,
+			"prevPrice": 393.95
+		},
+		{
+			"name": "CONTROLPR::NSE",
+			"currentPrice": 317.2,
+			"prevPrice": 315.45
+		},
+		{
+			"name": "SHARDACROP::NSE",
+			"currentPrice": 314.4,
+			"prevPrice": 306.4
+		},
+		{
+			"name": "KOTAKNIFTY::NSE",
+			"currentPrice": 179.1,
+			"prevPrice": 180.12
+		},
+		{
+			"name": "SRIPIPES::NSE",
+			"currentPrice": 180.3,
+			"prevPrice": 183.2
+		},
+		{
+			"name": "EMAMIPAP::NSE",
+			"currentPrice": 131.5,
+			"prevPrice": 130.9
+		},
+		{
+			"name": "SHEMAROO::NSE",
+			"currentPrice": 126.5,
+			"prevPrice": 127.05
+		},
+		{
+			"name": "RENUKA::NSE",
+			"currentPrice": 24.8,
+			"prevPrice": 25.35
+		},
+		{
+			"name": "SUPREMEENG::NSE",
+			"currentPrice": 18.35,
+			"prevPrice": 18.75
+		},
+		{
+			"name": "MSTCLTD::NSE",
+			"currentPrice": 334.7,
+			"prevPrice": 328.2
+		},
+		{
+			"name": "SAKSOFT::NSE",
+			"currentPrice": 976.3,
+			"prevPrice": 997.1
+		},
+		{
+			"name": "ENGINERSIN::NSE",
+			"currentPrice": 71.7,
+			"prevPrice": 71.9
+		},
+		{
+			"name": "PGHL::NSE",
+			"currentPrice": 5324.7,
+			"prevPrice": 4959.6
+		},
+		{
+			"name": "MIDHANI::NSE",
+			"currentPrice": 184.35,
+			"prevPrice": 183.65
+		},
+		{
+			"name": "BECTORFOOD::NSE",
+			"currentPrice": 384.3,
+			"prevPrice": 384.05
+		},
+		{
+			"name": "KSCL::NSE",
+			"currentPrice": 499.55,
+			"prevPrice": 482.2
+		},
+		{
+			"name": "GOKULAGRO::NSE",
+			"currentPrice": 63.2,
+			"prevPrice": 66.5
+		},
+		{
+			"name": "VIDHIING::NSE",
+			"currentPrice": 324.7,
+			"prevPrice": 324.8
+		},
+		{
+			"name": "UNIDT::NSE",
+			"currentPrice": 409.1,
+			"prevPrice": 416.2
+		},
+		{
+			"name": "ASAHIINDIA::NSE",
+			"currentPrice": 481.75,
+			"prevPrice": 442.85
+		},
+		{
+			"name": "MANAKSIA::NSE",
+			"currentPrice": 59.7,
+			"prevPrice": 59.2
+		},
+		{
+			"name": "IRB::NSE",
+			"currentPrice": 205.2,
+			"prevPrice": 200.7
+		},
+		{
+			"name": "ALLCARGO::NSE",
+			"currentPrice": 333.95,
+			"prevPrice": 318.1
+		},
+		{
+			"name": "VENKEYS::NSE",
+			"currentPrice": 2490.35,
+			"prevPrice": 2402.4
+		},
+		{
+			"name": "APEX::NSE",
+			"currentPrice": 260.35,
+			"prevPrice": 261.35
+		},
+		{
+			"name": "POWERMECH::NSE",
+			"currentPrice": 909.05,
+			"prevPrice": 891.65
+		},
+		{
+			"name": "KIMS::NSE",
+			"currentPrice": 1240.85,
+			"prevPrice": 1229.05
+		},
+		{
+			"name": "RAMCOCEM::NSE",
+			"currentPrice": 941.05,
+			"prevPrice": 934.45
+		},
+		{
+			"name": "TATACOMM::NSE",
+			"currentPrice": 1299.25,
+			"prevPrice": 1283.35
+		},
+		{
+			"name": "CHALET::NSE",
+			"currentPrice": 237.85,
+			"prevPrice": 236.7
+		},
+		{
+			"name": "SMSPHARMA::NSE",
+			"currentPrice": 125.7,
+			"prevPrice": 124.55
+		},
+		{
+			"name": "KSL::NSE",
+			"currentPrice": 321.15,
+			"prevPrice": 321.15
+		},
+		{
+			"name": "GNFC::NSE",
+			"currentPrice": 424.75,
+			"prevPrice": 417.65
+		},
+		{
+			"name": "GHCL::NSE",
+			"currentPrice": 394.5,
+			"prevPrice": 386.2
+		},
+		{
+			"name": "MINDAIND::NSE",
+			"currentPrice": 906.4,
+			"prevPrice": 869.8
+		},
+		{
+			"name": "CEATLTD::NSE",
+			"currentPrice": 1174.25,
+			"prevPrice": 1165.95
+		},
+		{
+			"name": "RCF::NSE",
+			"currentPrice": 69.85,
+			"prevPrice": 69.45
+		},
+		{
+			"name": "LYKALABS::NSE",
+			"currentPrice": 164,
+			"prevPrice": 156.2
+		},
+		{
+			"name": "ARVIND::NSE",
+			"currentPrice": 116.9,
+			"prevPrice": 120.35
+		},
+		{
+			"name": "EXCELINDUS::NSE",
+			"currentPrice": 838.15,
+			"prevPrice": 837.7
+		},
+		{
+			"name": "MANINFRA::NSE",
+			"currentPrice": 88.75,
+			"prevPrice": 88.7
+		},
+		{
+			"name": "GLOBUSSPR::NSE",
+			"currentPrice": 1088.95,
+			"prevPrice": 1096.3
+		},
+		{
+			"name": "GENUSPOWER::NSE",
+			"currentPrice": 67.55,
+			"prevPrice": 67.5
+		},
+		{
+			"name": "ANDHRAPAP::NSE",
+			"currentPrice": 222.4,
+			"prevPrice": 225.85
+		},
+		{
+			"name": "MANGALAM::NSE",
+			"currentPrice": 123.05,
+			"prevPrice": 125.2
+		},
+		{
+			"name": "ARVSMART::NSE",
+			"currentPrice": 191.9,
+			"prevPrice": 198.1
+		},
+		{
+			"name": "DPABHUSHAN::NSE",
+			"currentPrice": 282.5,
+			"prevPrice": 279.6
+		},
+		{
+			"name": "FMGOETZE::NSE",
+			"currentPrice": 236.15,
+			"prevPrice": 235.5
+		},
+		{
+			"name": "SKMEGGPROD::NSE",
+			"currentPrice": 67.25,
+			"prevPrice": 65.45
+		},
+		{
+			"name": "AHLWEST::NSE",
+			"currentPrice": 220,
+			"prevPrice": 220.05
+		},
+		{
+			"name": "PITTIENG::NSE",
+			"currentPrice": 224.4,
+			"prevPrice": 223.15
+		},
+		{
+			"name": "DLINKINDIA::NSE",
+			"currentPrice": 128.6,
+			"prevPrice": 128.45
+		},
+		{
+			"name": "RUSHIL::NSE",
+			"currentPrice": 311.8,
+			"prevPrice": 313.15
+		},
+		{
+			"name": "THEINVEST::NSE",
+			"currentPrice": 99.7,
+			"prevPrice": 99.2
+		},
+		{
+			"name": "TIIL::NSE",
+			"currentPrice": 859.55,
+			"prevPrice": 780.55
+		},
+		{
+			"name": "ZOTA::NSE",
+			"currentPrice": 366.9,
+			"prevPrice": 376.55
+		},
+		{
+			"name": "PFIZER::NSE",
+			"currentPrice": 5196.45,
+			"prevPrice": 5272.85
+		},
+		{
+			"name": "VAIBHAVGBL::NSE",
+			"currentPrice": 490.45,
+			"prevPrice": 503.2
+		},
+		{
+			"name": "PUNJABCHEM::NSE",
+			"currentPrice": 1404.3,
+			"prevPrice": 1404.55
+		},
+		{
+			"name": "SOLARA::NSE",
+			"currentPrice": 1274.05,
+			"prevPrice": 1215.55
+		},
+		{
+			"name": "ELGIEQUIP::NSE",
+			"currentPrice": 275.25,
+			"prevPrice": 270.65
+		},
+		{
+			"name": "FINEORG::NSE",
+			"currentPrice": 3590.1,
+			"prevPrice": 3535.4
+		},
+		{
+			"name": "NAM-INDIA::NSE",
+			"currentPrice": 366.3,
+			"prevPrice": 369.1
+		},
+		{
+			"name": "CREDITACC::NSE",
+			"currentPrice": 503.35,
+			"prevPrice": 537
+		},
+		{
+			"name": "DOLAT::NSE",
+			"currentPrice": 85.2,
+			"prevPrice": 84.7
+		},
+		{
+			"name": "TRIGYN::NSE",
+			"currentPrice": 107.05,
+			"prevPrice": 106.65
+		},
+		{
+			"name": "WEBELSOLAR::NSE",
+			"currentPrice": 69.95,
+			"prevPrice": 69.45
+		},
+		{
+			"name": "RAMASTEEL::NSE",
+			"currentPrice": 229.95,
+			"prevPrice": 231.8
+		},
+		{
+			"name": "SONACOMS::NSE",
+			"currentPrice": 748.3,
+			"prevPrice": 743.5
+		},
+		{
+			"name": "CUMMINSIND::NSE",
+			"currentPrice": 878.5,
+			"prevPrice": 874.05
+		},
+		{
+			"name": "GOODYEAR::NSE",
+			"currentPrice": 953.25,
+			"prevPrice": 957.8
+		},
+		{
+			"name": "WHIRLPOOL::NSE",
+			"currentPrice": 2041.8,
+			"prevPrice": 2034.1
+		},
+		{
+			"name": "VLSFINANCE::NSE",
+			"currentPrice": 187.25,
+			"prevPrice": 188.2
+		},
+		{
+			"name": "ZODIACLOTH::NSE",
+			"currentPrice": 102.55,
+			"prevPrice": 102.35
+		},
+		{
+			"name": "RKEC::NSE",
+			"currentPrice": 64.4,
+			"prevPrice": 63.75
+		},
+		{
+			"name": "SPICEJET::NSE",
+			"currentPrice": 70.1,
+			"prevPrice": 70.75
+		},
+		{
+			"name": "RAJMET::NSE",
+			"currentPrice": 153.4,
+			"prevPrice": 159.35
+		},
+		{
+			"name": "CCL::NSE",
+			"currentPrice": 403.85,
+			"prevPrice": 379.25
+		},
+		{
+			"name": "RALLIS::NSE",
+			"currentPrice": 249,
+			"prevPrice": 255.2
+		},
+		{
+			"name": "THEMISMED::NSE",
+			"currentPrice": 910.7,
+			"prevPrice": 912.45
+		},
+		{
+			"name": "UJJIVAN::NSE",
+			"currentPrice": 135.5,
+			"prevPrice": 133.4
+		},
+		{
+			"name": "HEIDELBERG::NSE",
+			"currentPrice": 220.7,
+			"prevPrice": 222.45
+		},
+		{
+			"name": "WHEELS::NSE",
+			"currentPrice": 641.35,
+			"prevPrice": 639.05
+		},
+		{
+			"name": "XELPMOC::NSE",
+			"currentPrice": 377.95,
+			"prevPrice": 372.2
+		},
+		{
+			"name": "ELECTCAST::NSE",
+			"currentPrice": 31.6,
+			"prevPrice": 31.5
+		},
+		{
+			"name": "RAILTEL::NSE",
+			"currentPrice": 117.25,
+			"prevPrice": 114.4
+		},
+		{
+			"name": "GICHSGFIN::NSE",
+			"currentPrice": 149.6,
+			"prevPrice": 148.05
+		},
+		{
+			"name": "KALPATPOWR::NSE",
+			"currentPrice": 388.4,
+			"prevPrice": 383.95
+		},
+		{
+			"name": "BANARBEADS::NSE",
+			"currentPrice": 71,
+			"prevPrice": 72
+		},
+		{
+			"name": "BALPHARMA::NSE",
+			"currentPrice": 98,
+			"prevPrice": 100
+		},
+		{
+			"name": "BIOFILCHEM::NSE",
+			"currentPrice": 60.05,
+			"prevPrice": 57.65
+		},
+		{
+			"name": "GRINDWELL::NSE",
+			"currentPrice": 1613.25,
+			"prevPrice": 1601.15
+		},
+		{
+			"name": "WELCORP::NSE",
+			"currentPrice": 165.05,
+			"prevPrice": 170.95
+		},
+		{
+			"name": "MPHASIS::NSE",
+			"currentPrice": 2895.15,
+			"prevPrice": 2988.5
+		},
+		{
+			"name": "GLAND::NSE",
+			"currentPrice": 3585.35,
+			"prevPrice": 3607.5
+		},
+		{
+			"name": "IFBIND::NSE",
+			"currentPrice": 1139.75,
+			"prevPrice": 1153.75
+		},
+		{
+			"name": "CHOLAFIN::NSE",
+			"currentPrice": 550.5,
+			"prevPrice": 542.2
+		},
+		{
+			"name": "FAIRCHEMOR::NSE",
+			"currentPrice": 1724.25,
+			"prevPrice": 1722.4
+		},
+		{
+			"name": "ATUL::NSE",
+			"currentPrice": 8705.8,
+			"prevPrice": 8480.05
+		},
+		{
+			"name": "JAGSNPHARM::NSE",
+			"currentPrice": 145.05,
+			"prevPrice": 145.85
+		},
+		{
+			"name": "PRIVISCL::NSE",
+			"currentPrice": 1645.95,
+			"prevPrice": 1630.05
+		},
+		{
+			"name": "ADANIGREEN::NSE",
+			"currentPrice": 1295.4,
+			"prevPrice": 1352.75
+		},
+		{
+			"name": "ATGL::NSE",
+			"currentPrice": 1599.85,
+			"prevPrice": 1579.6
+		},
+		{
+			"name": "CHEMCON::NSE",
+			"currentPrice": 343.2,
+			"prevPrice": 341.05
+		},
+		{
+			"name": "CHAMBLFERT::NSE",
+			"currentPrice": 364,
+			"prevPrice": 364.25
+		},
+		{
+			"name": "KENNAMET::NSE",
+			"currentPrice": 1521.6,
+			"prevPrice": 1521.05
+		},
+		{
+			"name": "MAHABANK::NSE",
+			"currentPrice": 19.2,
+			"prevPrice": 19.1
+		},
+		{
+			"name": "NATIONALUM::NSE",
+			"currentPrice": 88.35,
+			"prevPrice": 88.35
+		},
+		{
+			"name": "JMCPROJECT::NSE",
+			"currentPrice": 91.6,
+			"prevPrice": 93.75
+		},
+		{
+			"name": "GRINFRA::NSE",
+			"currentPrice": 1716.75,
+			"prevPrice": 1731.25
+		},
+		{
+			"name": "EMMBI::NSE",
+			"currentPrice": 92.8,
+			"prevPrice": 94.95
+		},
+		{
+			"name": "MARKSANS::NSE",
+			"currentPrice": 56.35,
+			"prevPrice": 56.5
+		},
+		{
+			"name": "ABB::NSE",
+			"currentPrice": 2061.85,
+			"prevPrice": 2083.35
+		},
+		{
+			"name": "DIXON::NSE",
+			"currentPrice": 5100.7,
+			"prevPrice": 5003.8
+		},
+		{
+			"name": "JINDRILL::NSE",
+			"currentPrice": 125.75,
+			"prevPrice": 124.5
+		},
+		{
+			"name": "JAICORPLTD::NSE",
+			"currentPrice": 116.3,
+			"prevPrice": 116.7
+		},
+		{
+			"name": "CLSEL::NSE",
+			"currentPrice": 93.15,
+			"prevPrice": 91.35
+		},
+		{
+			"name": "DIAMONDYD::NSE",
+			"currentPrice": 761.05,
+			"prevPrice": 749.75
+		},
+		{
+			"name": "MAHSEAMLES::NSE",
+			"currentPrice": 491.1,
+			"prevPrice": 490.6
+		},
+		{
+			"name": "SHYAMMETL::NSE",
+			"currentPrice": 311.2,
+			"prevPrice": 312.4
+		},
+		{
+			"name": "VISAKAIND::NSE",
+			"currentPrice": 580.2,
+			"prevPrice": 557.95
+		},
+		{
+			"name": "GNA::NSE",
+			"currentPrice": 677.25,
+			"prevPrice": 698.55
+		},
+		{
+			"name": "BHAGERIA::NSE",
+			"currentPrice": 246.95,
+			"prevPrice": 249.05
+		},
+		{
+			"name": "GUJGASLTD::NSE",
+			"currentPrice": 669.95,
+			"prevPrice": 660.25
+		},
+		{
+			"name": "BEL::NSE",
+			"currentPrice": 203.75,
+			"prevPrice": 197.25
+		},
+		{
+			"name": "REDINGTON::NSE",
+			"currentPrice": 147.05,
+			"prevPrice": 142.7
+		},
+		{
+			"name": "MAXIND::NSE",
+			"currentPrice": 76.15,
+			"prevPrice": 75.7
+		},
+		{
+			"name": "PHOENIXLTD::NSE",
+			"currentPrice": 947.85,
+			"prevPrice": 936
+		},
+		{
+			"name": "GARFIBRES::NSE",
+			"currentPrice": 3199.55,
+			"prevPrice": 3270.1
+		},
+		{
+			"name": "BSOFT::NSE",
+			"currentPrice": 474.95,
+			"prevPrice": 474.15
+		},
+		{
+			"name": "NAVNETEDUL::NSE",
+			"currentPrice": 100.1,
+			"prevPrice": 100.1
+		},
+		{
+			"name": "EPL::NSE",
+			"currentPrice": 197.95,
+			"prevPrice": 197.85
+		},
+		{
+			"name": "GMBREW::NSE",
+			"currentPrice": 677.5,
+			"prevPrice": 666.65
+		},
+		{
+			"name": "RADICO::NSE",
+			"currentPrice": 1122.3,
+			"prevPrice": 1053.25
+		},
+		{
+			"name": "PLASTIBLEN::NSE",
+			"currentPrice": 233.5,
+			"prevPrice": 227.95
+		},
+		{
+			"name": "RVNL::NSE",
+			"currentPrice": 33.45,
+			"prevPrice": 33.25
+		},
+		{
+			"name": "AMBIKCO::NSE",
+			"currentPrice": 1873.35,
+			"prevPrice": 1822.25
+		},
+		{
+			"name": "HIKAL::NSE",
+			"currentPrice": 505,
+			"prevPrice": 494.35
+		},
+		{
+			"name": "BUTTERFLY::NSE",
+			"currentPrice": 872.65,
+			"prevPrice": 839.1
+		},
+		{
+			"name": "ASALCBR::NSE",
+			"currentPrice": 503.55,
+			"prevPrice": 495.1
+		},
+		{
+			"name": "JISLJALEQS::NSE",
+			"currentPrice": 39.05,
+			"prevPrice": 39.55
+		},
+		{
+			"name": "CENTRALBK::NSE",
+			"currentPrice": 21.35,
+			"prevPrice": 21.45
+		},
+		{
+			"name": "CAREERP::NSE",
+			"currentPrice": 131.5,
+			"prevPrice": 131.25
+		},
+		{
+			"name": "VASCONEQ::NSE",
+			"currentPrice": 21.8,
+			"prevPrice": 21.55
+		},
+		{
+			"name": "DANGEE::NSE",
+			"currentPrice": 198.25,
+			"prevPrice": 202.6
+		},
+		{
+			"name": "ZYDUSWELL::NSE",
+			"currentPrice": 1959.65,
+			"prevPrice": 1995.4
+		},
+		{
+			"name": "VIMTALABS::NSE",
+			"currentPrice": 375.85,
+			"prevPrice": 363.35
+		},
+		{
+			"name": "CONFIPET::NSE",
+			"currentPrice": 73.3,
+			"prevPrice": 72.5
+		},
+		{
+			"name": "SPIC::NSE",
+			"currentPrice": 44.4,
+			"prevPrice": 44.5
+		},
+		{
+			"name": "ASHOKLEY::NSE",
+			"currentPrice": 119.7,
+			"prevPrice": 121.25
+		},
+		{
+			"name": "IOLCP::NSE",
+			"currentPrice": 444.3,
+			"prevPrice": 453.8
+		},
+		{
+			"name": "NBCC::NSE",
+			"currentPrice": 40.3,
+			"prevPrice": 39.9
+		},
+		{
+			"name": "ERIS::NSE",
+			"currentPrice": 719.6,
+			"prevPrice": 732.4
+		},
+		{
+			"name": "VEDL::NSE",
+			"currentPrice": 338.85,
+			"prevPrice": 346.8
+		},
+		{
+			"name": "AMRUTANJAN::NSE",
+			"currentPrice": 889.15,
+			"prevPrice": 873.9
+		},
+		{
+			"name": "CHEMBOND::NSE",
+			"currentPrice": 200.35,
+			"prevPrice": 196.65
+		},
+		{
+			"name": "INDIACEM::NSE",
+			"currentPrice": 184.05,
+			"prevPrice": 185.05
+		},
+		{
+			"name": "GODREJIND::NSE",
+			"currentPrice": 569.3,
+			"prevPrice": 591.7
+		},
+		{
+			"name": "SUTLEJTEX::NSE",
+			"currentPrice": 76.35,
+			"prevPrice": 76.95
+		},
+		{
+			"name": "HGS::NSE",
+			"currentPrice": 2879.1,
+			"prevPrice": 2892.3
+		},
+		{
+			"name": "HONDAPOWER::NSE",
+			"currentPrice": 1326.1,
+			"prevPrice": 1307.3
+		},
+		{
+			"name": "JYOTHYLAB::NSE",
+			"currentPrice": 154.55,
+			"prevPrice": 150.65
+		},
+		{
+			"name": "BATAINDIA::NSE",
+			"currentPrice": 1878.2,
+			"prevPrice": 1895.95
+		},
+		{
+			"name": "PARAGMILK::NSE",
+			"currentPrice": 122.75,
+			"prevPrice": 121.95
+		},
+		{
+			"name": "DVL::NSE",
+			"currentPrice": 236.4,
+			"prevPrice": 236.3
+		},
+		{
+			"name": "ACCURACY::NSE",
+			"currentPrice": 187.7,
+			"prevPrice": 191.45
+		},
+		{
+			"name": "IPCALAB::NSE",
+			"currentPrice": 2100.2,
+			"prevPrice": 2120.35
+		},
+		{
+			"name": "BARBEQUE::NSE",
+			"currentPrice": 1487.35,
+			"prevPrice": 1455.1
+		},
+		{
+			"name": "PRECWIRE::NSE",
+			"currentPrice": 282.9,
+			"prevPrice": 279.3
+		},
+		{
+			"name": "IGPL::NSE",
+			"currentPrice": 717.05,
+			"prevPrice": 672.9
+		},
+		{
+			"name": "GENUSPAPER::NSE",
+			"currentPrice": 10,
+			"prevPrice": 10
+		},
+		{
+			"name": "UNIONBANK::NSE",
+			"currentPrice": 43,
+			"prevPrice": 43.25
+		},
+		{
+			"name": "COSMOFILMS::NSE",
+			"currentPrice": 1348.35,
+			"prevPrice": 1358.35
+		},
+		{
+			"name": "SDBL::NSE",
+			"currentPrice": 38.65,
+			"prevPrice": 38.35
+		},
+		{
+			"name": "DECCANCE::NSE",
+			"currentPrice": 586.2,
+			"prevPrice": 586.9
+		},
+		{
+			"name": "CORALFINAC::NSE",
+			"currentPrice": 35.4,
+			"prevPrice": 36.55
+		},
+		{
+			"name": "VTL::NSE",
+			"currentPrice": 2031.95,
+			"prevPrice": 1980.55
+		},
+		{
+			"name": "CUPID::NSE",
+			"currentPrice": 209.65,
+			"prevPrice": 207.65
+		},
+		{
+			"name": "FLUOROCHEM::NSE",
+			"currentPrice": 1966.85,
+			"prevPrice": 1995.4
+		},
+		{
+			"name": "BASML::NSE",
+			"currentPrice": 66.1,
+			"prevPrice": 65.6
+		},
+		{
+			"name": "SOMANYCERA::NSE",
+			"currentPrice": 828.05,
+			"prevPrice": 821.15
+		},
+		{
+			"name": "SUPERHOUSE::NSE",
+			"currentPrice": 149.5,
+			"prevPrice": 150.3
+		},
+		{
+			"name": "TOKYOPLAST::NSE",
+			"currentPrice": 92.05,
+			"prevPrice": 91.1
+		},
+		{
+			"name": "HERCULES::NSE",
+			"currentPrice": 137.2,
+			"prevPrice": 134
+		},
+		{
+			"name": "GPTINFRA::NSE",
+			"currentPrice": 74.75,
+			"prevPrice": 74.8
+		},
+		{
+			"name": "PENIND::NSE",
+			"currentPrice": 27.25,
+			"prevPrice": 26.55
+		},
+		{
+			"name": "SALZERELEC::NSE",
+			"currentPrice": 198.7,
+			"prevPrice": 203.75
+		},
+		{
+			"name": "OMAXE::NSE",
+			"currentPrice": 70.15,
+			"prevPrice": 70.2
+		},
+		{
+			"name": "PNC::NSE",
+			"currentPrice": 42.5,
+			"prevPrice": 43.6
+		},
+		{
+			"name": "CRAFTSMAN::NSE",
+			"currentPrice": 2272.05,
+			"prevPrice": 2231.9
+		},
+		{
+			"name": "KIRLOSENG::NSE",
+			"currentPrice": 183.1,
+			"prevPrice": 182.7
+		},
+		{
+			"name": "ARIHANTSUP::NSE",
+			"currentPrice": 172.3,
+			"prevPrice": 176.4
+		},
+		{
+			"name": "BALKRISIND::NSE",
+			"currentPrice": 2174.75,
+			"prevPrice": 2163.2
+		},
+		{
+			"name": "TVSMOTOR::NSE",
+			"currentPrice": 686.5,
+			"prevPrice": 684.3
+		},
+		{
+			"name": "TIINDIA::NSE",
+			"currentPrice": 1622.55,
+			"prevPrice": 1583.15
+		},
+		{
+			"name": "SHAREINDIA::NSE",
+			"currentPrice": 795.05,
+			"prevPrice": 801.1
+		},
+		{
+			"name": "NECCLTD::NSE",
+			"currentPrice": 19.9,
+			"prevPrice": 19.5
+		},
+		{
+			"name": "GSFC::NSE",
+			"currentPrice": 111.55,
+			"prevPrice": 106.35
+		},
+		{
+			"name": "CRISIL::NSE",
+			"currentPrice": 3115.85,
+			"prevPrice": 3026.05
+		},
+		{
+			"name": "GUFICBIO::NSE",
+			"currentPrice": 181.6,
+			"prevPrice": 179
+		},
+		{
+			"name": "SESHAPAPER::NSE",
+			"currentPrice": 159.1,
+			"prevPrice": 158
+		},
+		{
+			"name": "RHIM::NSE",
+			"currentPrice": 338.85,
+			"prevPrice": 334.25
+		},
+		{
+			"name": "63MOONS::NSE",
+			"currentPrice": 105.2,
+			"prevPrice": 104.2
+		},
+		{
+			"name": "KOTHARIPET::NSE",
+			"currentPrice": 51.7,
+			"prevPrice": 51.7
+		},
+		{
+			"name": "VOLTAMP::NSE",
+			"currentPrice": 1906.6,
+			"prevPrice": 1903.75
+		},
+		{
+			"name": "RATNAMANI::NSE",
+			"currentPrice": 2206.95,
+			"prevPrice": 2040.1
+		},
+		{
+			"name": "SUZLON::NSE",
+			"currentPrice": 6.85,
+			"prevPrice": 6.6
+		},
+		{
+			"name": "ANDHRACEMT::NSE",
+			"currentPrice": 15.95,
+			"prevPrice": 15.5
+		},
+		{
+			"name": "UJJIVANSFB::NSE",
+			"currentPrice": 18.2,
+			"prevPrice": 17.8
+		},
+		{
+			"name": "CROMPTON::NSE",
+			"currentPrice": 448.25,
+			"prevPrice": 443.3
+		},
+		{
+			"name": "NDL::NSE",
+			"currentPrice": 90.65,
+			"prevPrice": 86.85
+		},
+		{
+			"name": "GODREJPROP::NSE",
+			"currentPrice": 1996.7,
+			"prevPrice": 2062.1
+		},
+		{
+			"name": "ASHOKA::NSE",
+			"currentPrice": 96.2,
+			"prevPrice": 94.55
+		},
+		{
+			"name": "GATI::NSE",
+			"currentPrice": 147.65,
+			"prevPrice": 150.4
+		},
+		{
+			"name": "DAMODARIND::NSE",
+			"currentPrice": 42.7,
+			"prevPrice": 42.15
+		},
+		{
+			"name": "RPOWER::NSE",
+			"currentPrice": 12.9,
+			"prevPrice": 12.9
+		},
+		{
+			"name": "OAL::NSE",
+			"currentPrice": 749.6,
+			"prevPrice": 729.1
+		},
+		{
+			"name": "SMSLIFE::NSE",
+			"currentPrice": 879.15,
+			"prevPrice": 850.7
+		},
+		{
+			"name": "ASHAPURMIN::NSE",
+			"currentPrice": 90.9,
+			"prevPrice": 94.55
+		},
+		{
+			"name": "STLTECH::NSE",
+			"currentPrice": 276.35,
+			"prevPrice": 268.3
+		},
+		{
+			"name": "KIOCL::NSE",
+			"currentPrice": 229.25,
+			"prevPrice": 223.9
+		},
+		{
+			"name": "CENTENKA::NSE",
+			"currentPrice": 390,
+			"prevPrice": 385.45
+		},
+		{
+			"name": "TTML::NSE",
+			"currentPrice": 112.55,
+			"prevPrice": 107.2
+		},
+		{
+			"name": "ABAN::NSE",
+			"currentPrice": 46.3,
+			"prevPrice": 46.35
+		},
+		{
+			"name": "SADBHAV::NSE",
+			"currentPrice": 37.85,
+			"prevPrice": 38.8
+		},
+		{
+			"name": "TCIEXP::NSE",
+			"currentPrice": 2141.65,
+			"prevPrice": 2100.5
+		},
+		{
+			"name": "HLVLTD::NSE",
+			"currentPrice": 10,
+			"prevPrice": 10.05
+		},
+		{
+			"name": "GFLLIMITED::NSE",
+			"currentPrice": 72.2,
+			"prevPrice": 70.55
+		},
+		{
+			"name": "TVSSRICHAK::NSE",
+			"currentPrice": 2128.6,
+			"prevPrice": 2069.35
+		},
+		{
+			"name": "EBIXFOREX::NSE",
+			"currentPrice": 554.15,
+			"prevPrice": 549.8
+		},
+		{
+			"name": "TEAMLEASE::NSE",
+			"currentPrice": 4278.5,
+			"prevPrice": 3917.85
+		},
+		{
+			"name": "CPSEETF::NSE",
+			"currentPrice": 29.39,
+			"prevPrice": 29.08
+		},
+		{
+			"name": "ITI::NSE",
+			"currentPrice": 110.05,
+			"prevPrice": 108.65
+		},
+		{
+			"name": "DENORA::NSE",
+			"currentPrice": 376.55,
+			"prevPrice": 358.35
+		},
+		{
+			"name": "MARALOVER::NSE",
+			"currentPrice": 73.85,
+			"prevPrice": 73.7
+		},
+		{
+			"name": "DCMSHRIRAM::NSE",
+			"currentPrice": 958.65,
+			"prevPrice": 953.15
+		},
+		{
+			"name": "NITCO::NSE",
+			"currentPrice": 23.65,
+			"prevPrice": 23.35
+		},
+		{
+			"name": "RELCAPITAL::NSE",
+			"currentPrice": 18.1,
+			"prevPrice": 19.05
+		},
+		{
+			"name": "CUB::NSE",
+			"currentPrice": 144.7,
+			"prevPrice": 144.8
+		},
+		{
+			"name": "ZOMATO::NSE",
+			"currentPrice": 152.55,
+			"prevPrice": 149.1
+		},
+		{
+			"name": "HIRECT::NSE",
+			"currentPrice": 169.75,
+			"prevPrice": 165.55
+		},
+		{
+			"name": "LIKHITHA::NSE",
+			"currentPrice": 319.9,
+			"prevPrice": 320.9
+		},
+		{
+			"name": "SRHHYPOLTD::NSE",
+			"currentPrice": 306.8,
+			"prevPrice": 307.55
+		},
+		{
+			"name": "WONDERLA::NSE",
+			"currentPrice": 205.35,
+			"prevPrice": 204.25
+		},
+		{
+			"name": "3IINFOTECH::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "MCDHOLDING::NSE",
+			"currentPrice": 157.35,
+			"prevPrice": 165.6
+		},
+		{
+			"name": "PRESSMN::NSE",
+			"currentPrice": 27.05,
+			"prevPrice": 26.95
+		},
+		{
+			"name": "NURECA::NSE",
+			"currentPrice": 1489.7,
+			"prevPrice": 1478.35
+		},
+		{
+			"name": "CASTROLIND::NSE",
+			"currentPrice": 129.25,
+			"prevPrice": 124.55
+		},
+		{
+			"name": "SAKUMA::NSE",
+			"currentPrice": 12.3,
+			"prevPrice": 12.85
+		},
+		{
+			"name": "UNIVPHOTO::NSE",
+			"currentPrice": 649.7,
+			"prevPrice": 600.45
+		},
+		{
+			"name": "AGRITECH::NSE",
+			"currentPrice": 64.8,
+			"prevPrice": 64.55
+		},
+		{
+			"name": "TVSELECT::NSE",
+			"currentPrice": 161.85,
+			"prevPrice": 160.25
+		},
+		{
+			"name": "MAWANASUG::NSE",
+			"currentPrice": 78.6,
+			"prevPrice": 78
+		},
+		{
+			"name": "SANGAMIND::NSE",
+			"currentPrice": 234,
+			"prevPrice": 244.65
+		},
+		{
+			"name": "WATERBASE::NSE",
+			"currentPrice": 100.25,
+			"prevPrice": 97.4
+		},
+		{
+			"name": "RSYSTEMS::NSE",
+			"currentPrice": 313.7,
+			"prevPrice": 307.4
+		},
+		{
+			"name": "VISHNU::NSE",
+			"currentPrice": 828.9,
+			"prevPrice": 807.85
+		},
+		{
+			"name": "BPL::NSE",
+			"currentPrice": 71.7,
+			"prevPrice": 75.45
+		},
+		{
+			"name": "NAHARSPING::NSE",
+			"currentPrice": 482,
+			"prevPrice": 482.8
+		},
+		{
+			"name": "ZENTEC::NSE",
+			"currentPrice": 205,
+			"prevPrice": 203.8
+		},
+		{
+			"name": "SMCGLOBAL::NSE",
+			"currentPrice": 72.3,
+			"prevPrice": 73.35
+		},
+		{
+			"name": "IDFC::NSE",
+			"currentPrice": 50.2,
+			"prevPrice": 52.15
+		},
+		{
+			"name": "DTIL::NSE",
+			"currentPrice": 239.65,
+			"prevPrice": 242.5
+		},
+		{
+			"name": "PSUBNKBEES::NSE",
+			"currentPrice": 27.98,
+			"prevPrice": 28.14
+		},
+		{
+			"name": "OPTOCIRCUI::NSE",
+			"currentPrice": 2.85,
+			"prevPrice": 3
+		},
+		{
+			"name": "UMESLTD::NSE",
+			"currentPrice": 5.65,
+			"prevPrice": 5.6
+		},
+		{
+			"name": "JHS::NSE",
+			"currentPrice": 22.85,
+			"prevPrice": 22.9
+		},
+		{
+			"name": "HOVS::NSE",
+			"currentPrice": 47.95,
+			"prevPrice": 45.95
+		},
+		{
+			"name": "AARTISURF::NSE",
+			"currentPrice": 1016.6,
+			"prevPrice": 1048.8
+		},
+		{
+			"name": "PDSMFL::NSE",
+			"currentPrice": 1417.35,
+			"prevPrice": 1395.8
+		},
+		{
+			"name": "BESTAGRO::NSE",
+			"currentPrice": 1130.45,
+			"prevPrice": 1138
+		},
+		{
+			"name": "TATAINVEST::NSE",
+			"currentPrice": 1404.85,
+			"prevPrice": 1414.35
+		},
+		{
+			"name": "MASFIN::NSE",
+			"currentPrice": 687.15,
+			"prevPrice": 701.4
+		},
+		{
+			"name": "CHEMPLASTS::NSE",
+			"currentPrice": 572.6,
+			"prevPrice": 568.45
+		},
+		{
+			"name": "AYMSYNTEX::NSE",
+			"currentPrice": 96.65,
+			"prevPrice": 97.05
+		},
+		{
+			"name": "CANTABIL::NSE",
+			"currentPrice": 639.15,
+			"prevPrice": 645.15
+		},
+		{
+			"name": "IRCON::NSE",
+			"currentPrice": 44.95,
+			"prevPrice": 45.05
+		},
+		{
+			"name": "TRIL::NSE",
+			"currentPrice": 26.75,
+			"prevPrice": 26.75
+		},
+		{
+			"name": "SHRIRAMCIT::NSE",
+			"currentPrice": 2225.95,
+			"prevPrice": 1940.4
+		},
+		{
+			"name": "PATELENG::NSE",
+			"currentPrice": 21.15,
+			"prevPrice": 20.95
+		},
+		{
+			"name": "BLKASHYAP::NSE",
+			"currentPrice": 23.7,
+			"prevPrice": 23.55
+		},
+		{
+			"name": "KAMATHOTEL::NSE",
+			"currentPrice": 50.95,
+			"prevPrice": 49.7
+		},
+		{
+			"name": "CELEBRITY::NSE",
+			"currentPrice": 9.35,
+			"prevPrice": 9.15
+		},
+		{
+			"name": "INDTERRAIN::NSE",
+			"currentPrice": 55.3,
+			"prevPrice": 53.6
+		},
+		{
+			"name": "NEWGEN::NSE",
+			"currentPrice": 544.85,
+			"prevPrice": 519.45
+		},
+		{
+			"name": "JAYAGROGN::NSE",
+			"currentPrice": 197.55,
+			"prevPrice": 197.95
+		},
+		{
+			"name": "GIPCL::NSE",
+			"currentPrice": 80.45,
+			"prevPrice": 81.15
+		},
+		{
+			"name": "JOCIL::NSE",
+			"currentPrice": 201.1,
+			"prevPrice": 200.65
+		},
+		{
+			"name": "ALLSEC::NSE",
+			"currentPrice": 460.45,
+			"prevPrice": 464.2
+		},
+		{
+			"name": "VIPIND::NSE",
+			"currentPrice": 559.1,
+			"prevPrice": 536.95
+		},
+		{
+			"name": "ACCELYA::NSE",
+			"currentPrice": 1065.4,
+			"prevPrice": 1020
+		},
+		{
+			"name": "AVANTIFEED::NSE",
+			"currentPrice": 524.9,
+			"prevPrice": 520.45
+		},
+		{
+			"name": "IIFLWAM::NSE",
+			"currentPrice": 1490,
+			"prevPrice": 1446.6
+		},
+		{
+			"name": "SOUTHBANK::NSE",
+			"currentPrice": 8.7,
+			"prevPrice": 8.55
+		},
+		{
+			"name": "RECLTD::NSE",
+			"currentPrice": 134.55,
+			"prevPrice": 128.9
+		},
+		{
+			"name": "J&KBANK::NSE",
+			"currentPrice": 36.75,
+			"prevPrice": 36.25
+		},
+		{
+			"name": "AIRAN::NSE",
+			"currentPrice": 20.05,
+			"prevPrice": 20.05
+		},
+		{
+			"name": "DEEPAKFERT::NSE",
+			"currentPrice": 372.5,
+			"prevPrice": 355.3
+		},
+		{
+			"name": "JPPOWER::NSE",
+			"currentPrice": 4.5,
+			"prevPrice": 4.4
+		},
+		{
+			"name": "TATAMTRDVR::NSE",
+			"currentPrice": 256.95,
+			"prevPrice": 257.55
+		},
+		{
+			"name": "CINELINE::NSE",
+			"currentPrice": 85.05,
+			"prevPrice": 88.75
+		},
+		{
+			"name": "EXXARO::NSE",
+			"currentPrice": 141.35,
+			"prevPrice": 142.7
+		},
+		{
+			"name": "MANAKSTEEL::NSE",
+			"currentPrice": 36.05,
+			"prevPrice": 34.2
+		},
+		{
+			"name": "NDRAUTO::NSE",
+			"currentPrice": 324.45,
+			"prevPrice": 325.95
+		},
+		{
+			"name": "CAPACITE::NSE",
+			"currentPrice": 169.4,
+			"prevPrice": 170.6
+		},
+		{
+			"name": "MRF::NSE",
+			"currentPrice": 74630.8,
+			"prevPrice": 73818.25
+		},
+		{
+			"name": "NDTV::NSE",
+			"currentPrice": 77.1,
+			"prevPrice": 77.75
+		},
+		{
+			"name": "PPAP::NSE",
+			"currentPrice": 234.35,
+			"prevPrice": 230.65
+		},
+		{
+			"name": "CMICABLES::NSE",
+			"currentPrice": 37.25,
+			"prevPrice": 37.4
+		},
+		{
+			"name": "AXISCADES::NSE",
+			"currentPrice": 75.5,
+			"prevPrice": 76.6
+		},
+		{
+			"name": "AARVEEDEN::NSE",
+			"currentPrice": 22.7,
+			"prevPrice": 22.9
+		},
+		{
+			"name": "MCLEODRUSS::NSE",
+			"currentPrice": 25.2,
+			"prevPrice": 26
+		},
+		{
+			"name": "VIPULLTD::NSE",
+			"currentPrice": 23.45,
+			"prevPrice": 23.65
+		},
+		{
+			"name": "SHARDAMOTR::NSE",
+			"currentPrice": 734.3,
+			"prevPrice": 752.2
+		},
+		{
+			"name": "DODLA::NSE",
+			"currentPrice": 578.9,
+			"prevPrice": 576
+		},
+		{
+			"name": "REPRO::NSE",
+			"currentPrice": 567.3,
+			"prevPrice": 576
+		},
+		{
+			"name": "ARMANFIN::NSE",
+			"currentPrice": 951.6,
+			"prevPrice": 953.9
+		},
+		{
+			"name": "KANORICHEM::NSE",
+			"currentPrice": 158.1,
+			"prevPrice": 150.6
+		},
+		{
+			"name": "SBCL::NSE",
+			"currentPrice": 336.6,
+			"prevPrice": 334.4
+		},
+		{
+			"name": "LIQUIDBEES::NSE",
+			"currentPrice": 999.99,
+			"prevPrice": 999.99
+		},
+		{
+			"name": "ADORWELD::NSE",
+			"currentPrice": 677.4,
+			"prevPrice": 702.3
+		},
+		{
+			"name": "NETFIT::NSE",
+			"currentPrice": 35.95,
+			"prevPrice": 35.61
+		},
+		{
+			"name": "DEEPENR::NSE",
+			"currentPrice": 38.05,
+			"prevPrice": 39.05
+		},
+		{
+			"name": "GENESYS::NSE",
+			"currentPrice": 316.6,
+			"prevPrice": 333.25
+		},
+		{
+			"name": "EIHAHOTELS::NSE",
+			"currentPrice": 336.8,
+			"prevPrice": 326.7
+		},
+		{
+			"name": "MAHEPC::NSE",
+			"currentPrice": 120,
+			"prevPrice": 117.75
+		},
+		{
+			"name": "OIL::NSE",
+			"currentPrice": 211.65,
+			"prevPrice": 203.25
+		},
+		{
+			"name": "VAKRANGEE::NSE",
+			"currentPrice": 34.2,
+			"prevPrice": 33.9
+		},
+		{
+			"name": "TTKPRESTIG::NSE",
+			"currentPrice": 9973.95,
+			"prevPrice": 9803.15
+		},
+		{
+			"name": "MPSLTD::NSE",
+			"currentPrice": 681.75,
+			"prevPrice": 680.15
+		},
+		{
+			"name": "NELCO::NSE",
+			"currentPrice": 742.05,
+			"prevPrice": 706.75
+		},
+		{
+			"name": "VHL::NSE",
+			"currentPrice": 3038.25,
+			"prevPrice": 3005.45
+		},
+		{
+			"name": "MAXVIL::NSE",
+			"currentPrice": 114.25,
+			"prevPrice": 114
+		},
+		{
+			"name": "BHARATGEAR::NSE",
+			"currentPrice": 160.45,
+			"prevPrice": 166.95
+		},
+		{
+			"name": "ASHIANA::NSE",
+			"currentPrice": 170.45,
+			"prevPrice": 170.75
+		},
+		{
+			"name": "PANACEABIO::NSE",
+			"currentPrice": 222.5,
+			"prevPrice": 211.95
+		},
+		{
+			"name": "APTUS::NSE",
+			"currentPrice": 312.9,
+			"prevPrice": 308.85
+		},
+		{
+			"name": "BBTC::NSE",
+			"currentPrice": 993.75,
+			"prevPrice": 1018.25
+		},
+		{
+			"name": "LODHA::NSE",
+			"currentPrice": 1417.8,
+			"prevPrice": 1405.8
+		},
+		{
+			"name": "PSPPROJECT::NSE",
+			"currentPrice": 472.65,
+			"prevPrice": 469.05
+		},
+		{
+			"name": "HINDCOPPER::NSE",
+			"currentPrice": 111.35,
+			"prevPrice": 110.65
+		},
+		{
+			"name": "ZEELEARN::NSE",
+			"currentPrice": 11.75,
+			"prevPrice": 12.1
+		},
+		{
+			"name": "ZUARIGLOB::NSE",
+			"currentPrice": 125.1,
+			"prevPrice": 130.4
+		},
+		{
+			"name": "ICEMAKE::NSE",
+			"currentPrice": 59.25,
+			"prevPrice": 58.9
+		},
+		{
+			"name": "SANOFI::NSE",
+			"currentPrice": 7941.4,
+			"prevPrice": 8024.7
+		},
+		{
+			"name": "NFL::NSE",
+			"currentPrice": 49.2,
+			"prevPrice": 48.7
+		},
+		{
+			"name": "ARROWGREEN::NSE",
+			"currentPrice": 151.95,
+			"prevPrice": 159.9
+		},
+		{
+			"name": "SETCO::NSE",
+			"currentPrice": 15.35,
+			"prevPrice": 15.6
+		},
+		{
+			"name": "PARSVNATH::NSE",
+			"currentPrice": 16.65,
+			"prevPrice": 16.15
+		},
+		{
+			"name": "MOLDTECH::NSE",
+			"currentPrice": 72.95,
+			"prevPrice": 72.4
+		},
+		{
+			"name": "SAKHTISUG::NSE",
+			"currentPrice": 13.75,
+			"prevPrice": 13.6
+		},
+		{
+			"name": "KILITCH::NSE",
+			"currentPrice": 155.9,
+			"prevPrice": 151.7
+		},
+		{
+			"name": "HTMEDIA::NSE",
+			"currentPrice": 22.95,
+			"prevPrice": 23.25
+		},
+		{
+			"name": "HMVL::NSE",
+			"currentPrice": 67.95,
+			"prevPrice": 66.55
+		},
+		{
+			"name": "RSWM::NSE",
+			"currentPrice": 421,
+			"prevPrice": 417.4
+		},
+		{
+			"name": "KMSUGAR::NSE",
+			"currentPrice": 23.6,
+			"prevPrice": 23.4
+		},
+		{
+			"name": "VADILALIND::NSE",
+			"currentPrice": 932.05,
+			"prevPrice": 944.55
+		},
+		{
+			"name": "PRECAM::NSE",
+			"currentPrice": 132,
+			"prevPrice": 128.25
+		},
+		{
+			"name": "AGCNET::NSE",
+			"currentPrice": 822.6,
+			"prevPrice": 783.45
+		},
+		{
+			"name": "BCLIND::NSE",
+			"currentPrice": 218,
+			"prevPrice": 214.8
+		},
+		{
+			"name": "WALCHANNAG::NSE",
+			"currentPrice": 43.5,
+			"prevPrice": 45.6
+		},
+		{
+			"name": "HONAUT::NSE",
+			"currentPrice": 38894.55,
+			"prevPrice": 38907.3
+		},
+		{
+			"name": "AROGRANITE::NSE",
+			"currentPrice": 72.8,
+			"prevPrice": 75.7
+		},
+		{
+			"name": "ALICON::NSE",
+			"currentPrice": 736.8,
+			"prevPrice": 739.4
+		},
+		{
+			"name": "GODFRYPHLP::NSE",
+			"currentPrice": 1213.4,
+			"prevPrice": 1181.35
+		},
+		{
+			"name": "THOMASCOOK::NSE",
+			"currentPrice": 65.2,
+			"prevPrice": 60.95
+		},
+		{
+			"name": "KKCL::NSE",
+			"currentPrice": 1159.55,
+			"prevPrice": 1143.8
+		},
+		{
+			"name": "EIMCOELECO::NSE",
+			"currentPrice": 359.55,
+			"prevPrice": 352.25
+		},
+		{
+			"name": "DISHTV::NSE",
+			"currentPrice": 17.05,
+			"prevPrice": 16.8
+		},
+		{
+			"name": "TAJGVK::NSE",
+			"currentPrice": 129.05,
+			"prevPrice": 128.45
+		},
+		{
+			"name": "VRLLOG::NSE",
+			"currentPrice": 454.55,
+			"prevPrice": 440.3
+		},
+		{
+			"name": "MAHESHWARI::NSE",
+			"currentPrice": 87.9,
+			"prevPrice": 86.7
+		},
+		{
+			"name": "OSWALAGRO::NSE",
+			"currentPrice": 27.65,
+			"prevPrice": 29.1
+		},
+		{
+			"name": "RADIOCITY::NSE",
+			"currentPrice": 22.25,
+			"prevPrice": 22.55
+		},
+		{
+			"name": "ASAHISONG::NSE",
+			"currentPrice": 260.65,
+			"prevPrice": 256.6
+		},
+		{
+			"name": "MUTHOOTCAP::NSE",
+			"currentPrice": 359.6,
+			"prevPrice": 353.55
+		},
+		{
+			"name": "NSIL::NSE",
+			"currentPrice": 1553.95,
+			"prevPrice": 1562.95
+		},
+		{
+			"name": "HPL::NSE",
+			"currentPrice": 58.2,
+			"prevPrice": 57.35
+		},
+		{
+			"name": "HLEGLAS::NSE",
+			"currentPrice": 5918.85,
+			"prevPrice": 5761.4
+		},
+		{
+			"name": "RGL::NSE",
+			"currentPrice": 824.05,
+			"prevPrice": 802.95
+		},
+		{
+			"name": "TARMAT::NSE",
+			"currentPrice": 54.85,
+			"prevPrice": 57.55
+		},
+		{
+			"name": "PKTEA::NSE",
+			"currentPrice": 275,
+			"prevPrice": 277
+		},
+		{
+			"name": "MODISNME::NSE",
+			"currentPrice": 70.65,
+			"prevPrice": 68.8
+		},
+		{
+			"name": "GKWLIMITED::NSE",
+			"currentPrice": 628.75,
+			"prevPrice": 635.15
+		},
+		{
+			"name": "FEDERALBNK::NSE",
+			"currentPrice": 86.8,
+			"prevPrice": 87.05
+		},
+		{
+			"name": "SOLARINDS::NSE",
+			"currentPrice": 2767.45,
+			"prevPrice": 2597.45
+		},
+		{
+			"name": "BSL::NSE",
+			"currentPrice": 96.1,
+			"prevPrice": 95.7
+		},
+		{
+			"name": "INDNIPPON::NSE",
+			"currentPrice": 375.45,
+			"prevPrice": 358.15
+		},
+		{
+			"name": "LINCPEN::NSE",
+			"currentPrice": 219.05,
+			"prevPrice": 227.3
+		},
+		{
+			"name": "MARATHON::NSE",
+			"currentPrice": 74.05,
+			"prevPrice": 75.8
+		},
+		{
+			"name": "DONEAR::NSE",
+			"currentPrice": 57.95,
+			"prevPrice": 59.35
+		},
+		{
+			"name": "UNIVCABLES::NSE",
+			"currentPrice": 153.6,
+			"prevPrice": 151.75
+		},
+		{
+			"name": "EROSMEDIA::NSE",
+			"currentPrice": 17.75,
+			"prevPrice": 18.05
+		},
+		{
+			"name": "HILTON::NSE",
+			"currentPrice": 25.95,
+			"prevPrice": 24.75
+		},
+		{
+			"name": "EDELWEISS::NSE",
+			"currentPrice": 67.1,
+			"prevPrice": 68.65
+		},
+		{
+			"name": "IFCI::NSE",
+			"currentPrice": 11.7,
+			"prevPrice": 11.7
+		},
+		{
+			"name": "UCOBANK::NSE",
+			"currentPrice": 12.95,
+			"prevPrice": 12.9
+		},
+		{
+			"name": "MBAPL::NSE",
+			"currentPrice": 176.05,
+			"prevPrice": 177.65
+		},
+		{
+			"name": "ICICISENSX::NSE",
+			"currentPrice": 622.32,
+			"prevPrice": 623.47
+		},
+		{
+			"name": "ISGEC::NSE",
+			"currentPrice": 550.9,
+			"prevPrice": 569.45
+		},
+		{
+			"name": "MATRIMONY::NSE",
+			"currentPrice": 937.4,
+			"prevPrice": 900.45
+		},
+		{
+			"name": "RUBYMILLS::NSE",
+			"currentPrice": 255.7,
+			"prevPrice": 252.5
+		},
+		{
+			"name": "TASTYBITE::NSE",
+			"currentPrice": 13454.3,
+			"prevPrice": 13229.25
+		},
+		{
+			"name": "SUBROS::NSE",
+			"currentPrice": 350.2,
+			"prevPrice": 350.6
+		},
+		{
+			"name": "SANGHIIND::NSE",
+			"currentPrice": 57.9,
+			"prevPrice": 57.65
+		},
+		{
+			"name": "INFIBEAM::NSE",
+			"currentPrice": 39.45,
+			"prevPrice": 39.9
+		},
+		{
+			"name": "TOUCHWOOD::NSE",
+			"currentPrice": 127.4,
+			"prevPrice": 130.4
+		},
+		{
+			"name": "AMIORG::NSE",
+			"currentPrice": 902.5,
+			"prevPrice": 905.75
+		},
+		{
+			"name": "RAJRATAN::NSE",
+			"currentPrice": 2045.9,
+			"prevPrice": 2020.2
+		},
+		{
+			"name": "INOXWIND::NSE",
+			"currentPrice": 119.85,
+			"prevPrice": 117.45
+		},
+		{
+			"name": "GRAUWEIL::NSE",
+			"currentPrice": 59.45,
+			"prevPrice": 58.6
+		},
+		{
+			"name": "MOL::NSE",
+			"currentPrice": 96.75,
+			"prevPrice": 100.6
+		},
+		{
+			"name": "PCJEWELLER::NSE",
+			"currentPrice": 23.5,
+			"prevPrice": 23.65
+		},
+		{
+			"name": "SBIETFQLTY::NSE",
+			"currentPrice": 150.81,
+			"prevPrice": 150.75
+		},
+		{
+			"name": "JMTAUTOLTD::NSE",
+			"currentPrice": 3.1,
+			"prevPrice": 3.1
+		},
+		{
+			"name": "DEVYANI::NSE",
+			"currentPrice": 148.15,
+			"prevPrice": 139.05
+		},
+		{
+			"name": "PRAKASHSTL::NSE",
+			"currentPrice": 5.35,
+			"prevPrice": 5.1
+		},
+		{
+			"name": "KTKBANK::NSE",
+			"currentPrice": 63.85,
+			"prevPrice": 63.95
+		},
+		{
+			"name": "KCP::NSE",
+			"currentPrice": 126.8,
+			"prevPrice": 126.6
+		},
+		{
+			"name": "KREBSBIO::NSE",
+			"currentPrice": 166.1,
+			"prevPrice": 165.85
+		},
+		{
+			"name": "BROOKS::NSE",
+			"currentPrice": 105.1,
+			"prevPrice": 100.35
+		},
+		{
+			"name": "RANASUG::NSE",
+			"currentPrice": 23.9,
+			"prevPrice": 22.8
+		},
+		{
+			"name": "NYKAA::NSE",
+			"currentPrice": 2440.45,
+			"prevPrice": 2486.4
+		},
+		{
+			"name": "TATVA::NSE",
+			"currentPrice": 2355.65,
+			"prevPrice": 2338.55
+		},
+		{
+			"name": "RESPONIND::NSE",
+			"currentPrice": 103.95,
+			"prevPrice": 105.75
+		},
+		{
+			"name": "BFUTILITIE::NSE",
+			"currentPrice": 364.4,
+			"prevPrice": 364.7
+		},
+		{
+			"name": "CREATIVE::NSE",
+			"currentPrice": 366.35,
+			"prevPrice": 383.65
+		},
+		{
+			"name": "APOLSINHOT::NSE",
+			"currentPrice": 835.3,
+			"prevPrice": 817.05
+		},
+		{
+			"name": "JSWISPL::NSE",
+			"currentPrice": 28.05,
+			"prevPrice": 27.35
+		},
+		{
+			"name": "COFFEEDAY::NSE",
+			"currentPrice": 36.55,
+			"prevPrice": 36.75
+		},
+		{
+			"name": "PDMJEPAPER::NSE",
+			"currentPrice": 35.5,
+			"prevPrice": 34.3
+		},
+		{
+			"name": "LFIC::NSE",
+			"currentPrice": 188.55,
+			"prevPrice": 198.45
+		},
+		{
+			"name": "SANSERA::NSE",
+			"currentPrice": 784.4,
+			"prevPrice": 793.45
+		},
+		{
+			"name": "BIRLATYRE::NSE",
+			"currentPrice": 22.85,
+			"prevPrice": 22.8
+		},
+		{
+			"name": "KALYANKJIL::NSE",
+			"currentPrice": 67.05,
+			"prevPrice": 66.4
+		},
+		{
+			"name": "ONELIFECAP::NSE",
+			"currentPrice": 13.1,
+			"prevPrice": 13.75
+		},
+		{
+			"name": "ASTRON::NSE",
+			"currentPrice": 46.55,
+			"prevPrice": 45.7
+		},
+		{
+			"name": "JINDALPHOT::NSE",
+			"currentPrice": 416.85,
+			"prevPrice": 438.75
+		},
+		{
+			"name": "AIAENG::NSE",
+			"currentPrice": 1897.65,
+			"prevPrice": 1848.1
+		},
+		{
+			"name": "DHANBANK::NSE",
+			"currentPrice": 14.1,
+			"prevPrice": 14
+		},
+		{
+			"name": "KAMDHENU::NSE",
+			"currentPrice": 219.05,
+			"prevPrice": 219.2
+		},
+		{
+			"name": "AKZOINDIA::NSE",
+			"currentPrice": 2058.7,
+			"prevPrice": 2049
+		},
+		{
+			"name": "TIDEWATER::NSE",
+			"currentPrice": 1528.9,
+			"prevPrice": 1538.6
+		},
+		{
+			"name": "JSLHISAR::NSE",
+			"currentPrice": 302.5,
+			"prevPrice": 292.6
+		},
+		{
+			"name": "ZEEMEDIA::NSE",
+			"currentPrice": 10.9,
+			"prevPrice": 11.2
+		},
+		{
+			"name": "GOLDTECH::NSE",
+			"currentPrice": 81.2,
+			"prevPrice": 77.35
+		},
+		{
+			"name": "AVTNPL::NSE",
+			"currentPrice": 74.2,
+			"prevPrice": 75.05
+		},
+		{
+			"name": "21STCENMGM::NSE",
+			"currentPrice": 56.5,
+			"prevPrice": 57.65
+		},
+		{
+			"name": "3IINFOLTD::NSE",
+			"currentPrice": 97.95,
+			"prevPrice": 103.1
+		},
+		{
+			"name": "3MINDIA::NSE",
+			"currentPrice": 25034.4,
+			"prevPrice": 24900.25
+		},
+		{
+			"name": "3PLAND::NSE",
+			"currentPrice": 13.15,
+			"prevPrice": 12.7
+		},
+		{
+			"name": "A2ZINFRA::NSE",
+			"currentPrice": 5.75,
+			"prevPrice": 6.05
+		},
+		{
+			"name": "AAKASH::NSE",
+			"currentPrice": 211.65,
+			"prevPrice": 215.55
+		},
+		{
+			"name": "AAREYDRUGS::NSE",
+			"currentPrice": 33.85,
+			"prevPrice": 34.75
+		},
+		{
+			"name": "AARON::NSE",
+			"currentPrice": 112.9,
+			"prevPrice": 107.55
+		},
+		{
+			"name": "AARVI::NSE",
+			"currentPrice": 56.2,
+			"prevPrice": 57.2
+		},
+		{
+			"name": "ABMINTLLTD::NSE",
+			"currentPrice": 100.25,
+			"prevPrice": 105.5
+		},
+		{
+			"name": "ABSLAMC::NSE",
+			"currentPrice": 577.15,
+			"prevPrice": 575.9
+		},
+		{
+			"name": "ADL::NSE",
+			"currentPrice": 49.15,
+			"prevPrice": 48.8
+		},
+		{
+			"name": "ADROITINFO::NSE",
+			"currentPrice": 11.05,
+			"prevPrice": 10.95
+		},
+		{
+			"name": "AHLADA::NSE",
+			"currentPrice": 139.5,
+			"prevPrice": 138.4
+		},
+		{
+			"name": "AHLEAST::NSE",
+			"currentPrice": 178.1,
+			"prevPrice": 174.25
+		},
+		{
+			"name": "AGROPHOS::NSE",
+			"currentPrice": 16.25,
+			"prevPrice": 16.15
+		},
+		{
+			"name": "AIROLAM::NSE",
+			"currentPrice": 55.3,
+			"prevPrice": 54.1
+		},
+		{
+			"name": "AJOONI::NSE",
+			"currentPrice": 58.75,
+			"prevPrice": 56.3
+		},
+		{
+			"name": "AJRINFRA::NSE",
+			"currentPrice": 1.45,
+			"prevPrice": 1.5
+		},
+		{
+			"name": "AKASH::NSE",
+			"currentPrice": 164.05,
+			"prevPrice": 151.1
+		},
+		{
+			"name": "AKG::NSE",
+			"currentPrice": 35.2,
+			"prevPrice": 34.95
+		},
+		{
+			"name": "AKSHOPTFBR::NSE",
+			"currentPrice": 8.6,
+			"prevPrice": 8.35
+		},
+		{
+			"name": "ALKALI::NSE",
+			"currentPrice": 90.05,
+			"prevPrice": 92.8
+		},
+		{
+			"name": "ALPSINDUS::NSE",
+			"currentPrice": 3.15,
+			"prevPrice": 3.2
+		},
+		{
+			"name": "AMJLAND::NSE",
+			"currentPrice": 30.8,
+			"prevPrice": 30.8
+		},
+		{
+			"name": "AMBICAAGAR::NSE",
+			"currentPrice": 16.9,
+			"prevPrice": 16.65
+		},
+		{
+			"name": "ANDREWYU::NSE",
+			"currentPrice": 22.1,
+			"prevPrice": 21.75
+		},
+		{
+			"name": "ANGELONE::NSE",
+			"currentPrice": 1014.25,
+			"prevPrice": 1036.65
+		},
+		{
+			"name": "ALANKIT::NSE",
+			"currentPrice": 15.95,
+			"prevPrice": 14.6
+		},
+		{
+			"name": "AMDIND::NSE",
+			"currentPrice": 28.5,
+			"prevPrice": 28.55
+		},
+		{
+			"name": "ANKITMETAL::NSE",
+			"currentPrice": 6.25,
+			"prevPrice": 6.55
+		},
+		{
+			"name": "ANIKINDS::NSE",
+			"currentPrice": 20.3,
+			"prevPrice": 20.8
+		},
+		{
+			"name": "ANSALAPI::NSE",
+			"currentPrice": 11.15,
+			"prevPrice": 11.2
+		},
+		{
+			"name": "ANSALHSG::NSE",
+			"currentPrice": 6.3,
+			"prevPrice": 6.4
+		},
+		{
+			"name": "ANTGRAPHIC::NSE",
+			"currentPrice": 1.15,
+			"prevPrice": 1.1
+		},
+		{
+			"name": "ARENTERP::NSE",
+			"currentPrice": 28.45,
+			"prevPrice": 30
+		},
+		{
+			"name": "ARIHANTCAP::NSE",
+			"currentPrice": 137.45,
+			"prevPrice": 136.9
+		},
+		{
+			"name": "ARSHIYA::NSE",
+			"currentPrice": 28.6,
+			"prevPrice": 28.15
+		},
+		{
+			"name": "ARTEMISMED::NSE",
+			"currentPrice": 33.75,
+			"prevPrice": 33.6
+		},
+		{
+			"name": "ANMOL::NSE",
+			"currentPrice": 170.15,
+			"prevPrice": 172.6
+		},
+		{
+			"name": "ARSSINFRA::NSE",
+			"currentPrice": 27.55,
+			"prevPrice": 27.05
+		},
+		{
+			"name": "ARIHANT::NSE",
+			"currentPrice": 40.8,
+			"prevPrice": 42.6
+		},
+		{
+			"name": "ARTNIRMAN::NSE",
+			"currentPrice": 120.5,
+			"prevPrice": 114.8
+		},
+		{
+			"name": "ARVEE::NSE",
+			"currentPrice": 76.45,
+			"prevPrice": 79.2
+		},
+		{
+			"name": "ASAL::NSE",
+			"currentPrice": 214.45,
+			"prevPrice": 204.25
+		},
+		{
+			"name": "ASHIMASYN::NSE",
+			"currentPrice": 16.45,
+			"prevPrice": 16.3
+		},
+		{
+			"name": "ATFL::NSE",
+			"currentPrice": 922.35,
+			"prevPrice": 912.7
+		},
+		{
+			"name": "ATLANTA::NSE",
+			"currentPrice": 19.3,
+			"prevPrice": 20.3
+		},
+		{
+			"name": "AURUM::NSE",
+			"currentPrice": 191.9,
+			"prevPrice": 202
+		},
+		{
+			"name": "AUSOMENT::NSE",
+			"currentPrice": 58,
+			"prevPrice": 57.7
+		},
+		{
+			"name": "AUTOIND::NSE",
+			"currentPrice": 56.8,
+			"prevPrice": 59.15
+		},
+		{
+			"name": "BAGFILMS::NSE",
+			"currentPrice": 3.15,
+			"prevPrice": 3.3
+		},
+		{
+			"name": "BALAXI::NSE",
+			"currentPrice": 526.15,
+			"prevPrice": 531.55
+		},
+		{
+			"name": "BALKRISHNA::NSE",
+			"currentPrice": 25.05,
+			"prevPrice": 26.15
+		},
+		{
+			"name": "BALLARPUR::NSE",
+			"currentPrice": 1.4,
+			"prevPrice": 1.4
+		},
+		{
+			"name": "BAFNAPH::NSE",
+			"currentPrice": 117.15,
+			"prevPrice": 119.25
+		},
+		{
+			"name": "BANG::NSE",
+			"currentPrice": 32.8,
+			"prevPrice": 32.45
+		},
+		{
+			"name": "BANKA::NSE",
+			"currentPrice": 69.45,
+			"prevPrice": 70.5
+		},
+		{
+			"name": "BARTRONICS::NSE",
+			"currentPrice": 5.75,
+			"prevPrice": 6.05
+		},
+		{
+			"name": "BCG::NSE",
+			"currentPrice": 137.45,
+			"prevPrice": 130.95
+		},
+		{
+			"name": "BCP::NSE",
+			"currentPrice": 3.8,
+			"prevPrice": 3.8
+		},
+		{
+			"name": "BEARDSELL::NSE",
+			"currentPrice": 12.15,
+			"prevPrice": 12.55
+		},
+		{
+			"name": "BGEAR-RE::NSE",
+			"currentPrice": 139.25,
+			"prevPrice": 100.9
+		},
+		{
+			"name": "BGLOBAL::NSE",
+			"currentPrice": 3.45,
+			"prevPrice": 3.3
+		},
+		{
+			"name": "BGRENERGY::NSE",
+			"currentPrice": 56.85,
+			"prevPrice": 56.75
+		},
+		{
+			"name": "BHAGCHEM::NSE",
+			"currentPrice": 826.75,
+			"prevPrice": 805.55
+		},
+		{
+			"name": "BHAGYAPROP::NSE",
+			"currentPrice": 32.1,
+			"prevPrice": 30.4
+		},
+		{
+			"name": "BEDMUTHA::NSE",
+			"currentPrice": 48.15,
+			"prevPrice": 46.3
+		},
+		{
+			"name": "BIGBLOC::NSE",
+			"currentPrice": 41.35,
+			"prevPrice": 40.9
+		},
+		{
+			"name": "BIL::NSE",
+			"currentPrice": 221.4,
+			"prevPrice": 217.45
+		},
+		{
+			"name": "BINDALAGRO::NSE",
+			"currentPrice": 20.6,
+			"prevPrice": 20.7
+		},
+		{
+			"name": "BKMINDST::NSE",
+			"currentPrice": 1.4,
+			"prevPrice": 1.4
+		},
+		{
+			"name": "BLBLIMITED::NSE",
+			"currentPrice": 11,
+			"prevPrice": 11.2
+		},
+		{
+			"name": "BLUECHIP::NSE",
+			"currentPrice": 0.35,
+			"prevPrice": 0.35
+		},
+		{
+			"name": "BLUECOAST::NSE",
+			"currentPrice": 7.3,
+			"prevPrice": 7
+		},
+		{
+			"name": "BRFL::NSE",
+			"currentPrice": 5.6,
+			"prevPrice": 5.85
+		},
+		{
+			"name": "BRNL::NSE",
+			"currentPrice": 26.7,
+			"prevPrice": 27.1
+		},
+		{
+			"name": "BSHSL::NSE",
+			"currentPrice": 278.65,
+			"prevPrice": 270
+		},
+		{
+			"name": "BURNPUR::NSE",
+			"currentPrice": 2.8,
+			"prevPrice": 2.8
+		},
+		{
+			"name": "BVCL::NSE",
+			"currentPrice": 19.45,
+			"prevPrice": 19.4
+		},
+		{
+			"name": "BYKE::NSE",
+			"currentPrice": 33.8,
+			"prevPrice": 31.5
+		},
+		{
+			"name": "BHANDARI::NSE",
+			"currentPrice": 4.9,
+			"prevPrice": 4.7
+		},
+		{
+			"name": "CANDC::NSE",
+			"currentPrice": 3.4,
+			"prevPrice": 3.4
+		},
+		{
+			"name": "CALSOFT::NSE",
+			"currentPrice": 28.7,
+			"prevPrice": 28.15
+		},
+		{
+			"name": "CARTRADE::NSE",
+			"currentPrice": 919.1,
+			"prevPrice": 944
+		},
+		{
+			"name": "CAPTRUST::NSE",
+			"currentPrice": 98.55,
+			"prevPrice": 97.65
+		},
+		{
+			"name": "CCHHL::NSE",
+			"currentPrice": 6.85,
+			"prevPrice": 6.55
+		},
+		{
+			"name": "CCCL::NSE",
+			"currentPrice": 0.75,
+			"prevPrice": 0.8
+		},
+		{
+			"name": "CENTEXT::NSE",
+			"currentPrice": 8.45,
+			"prevPrice": 8.3
+		},
+		{
+			"name": "CENTRUM::NSE",
+			"currentPrice": 34.7,
+			"prevPrice": 35.85
+		},
+		{
+			"name": "CGCL::NSE",
+			"currentPrice": 500.35,
+			"prevPrice": 509.3
+		},
+		{
+			"name": "CHEMFAB::NSE",
+			"currentPrice": 146.8,
+			"prevPrice": 147.8
+		},
+		{
+			"name": "CINEVISTA::NSE",
+			"currentPrice": 21.1,
+			"prevPrice": 22.2
+		},
+		{
+			"name": "CLEDUCATE::NSE",
+			"currentPrice": 123,
+			"prevPrice": 118.1
+		},
+		{
+			"name": "COASTCORP::NSE",
+			"currentPrice": 254.45,
+			"prevPrice": 254.8
+		},
+		{
+			"name": "COMPINFO::NSE",
+			"currentPrice": 26.85,
+			"prevPrice": 25.75
+		},
+		{
+			"name": "COMPUSOFT::NSE",
+			"currentPrice": 16.8,
+			"prevPrice": 16.4
+		},
+		{
+			"name": "CONSOFINVT::NSE",
+			"currentPrice": 141.2,
+			"prevPrice": 143.1
+		},
+		{
+			"name": "COX&KINGS::NSE",
+			"currentPrice": 1.5,
+			"prevPrice": 1.55
+		},
+		{
+			"name": "COUNCODOS::NSE",
+			"currentPrice": 3.05,
+			"prevPrice": 3.2
+		},
+		{
+			"name": "CREATIVEYE::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "CTE::NSE",
+			"currentPrice": 54.65,
+			"prevPrice": 54.9
+		},
+		{
+			"name": "CUBEXTUB::NSE",
+			"currentPrice": 22.7,
+			"prevPrice": 22.85
+		},
+		{
+			"name": "CYBERMEDIA::NSE",
+			"currentPrice": 9.35,
+			"prevPrice": 9.2
+		},
+		{
+			"name": "DALALSTCOM::NSE",
+			"currentPrice": 1.65,
+			"prevPrice": 1.7
+		},
+		{
+			"name": "DBREALTY::NSE",
+			"currentPrice": 38.65,
+			"prevPrice": 36.85
+		},
+		{
+			"name": "DBSTOCKBRO::NSE",
+			"currentPrice": 15.6,
+			"prevPrice": 16
+		},
+		{
+			"name": "DCM::NSE",
+			"currentPrice": 109.9,
+			"prevPrice": 108.45
+		},
+		{
+			"name": "DCMFINSERV::NSE",
+			"currentPrice": 3.3,
+			"prevPrice": 3.45
+		},
+		{
+			"name": "DCMNVL::NSE",
+			"currentPrice": 267.8,
+			"prevPrice": 264.7
+		},
+		{
+			"name": "DCW::NSE",
+			"currentPrice": 39.15,
+			"prevPrice": 39.55
+		},
+		{
+			"name": "DEEPINDS::NSE",
+			"currentPrice": 143.6,
+			"prevPrice": 143.85
+		},
+		{
+			"name": "DELPHIFX::NSE",
+			"currentPrice": 576.05,
+			"prevPrice": 581.75
+		},
+		{
+			"name": "DEN::NSE",
+			"currentPrice": 39.75,
+			"prevPrice": 39.15
+		},
+		{
+			"name": "DGCONTENT::NSE",
+			"currentPrice": 16.95,
+			"prevPrice": 17.35
+		},
+		{
+			"name": "DHANI::NSE",
+			"currentPrice": 165.4,
+			"prevPrice": 167.6
+		},
+		{
+			"name": "DHARSUGAR::NSE",
+			"currentPrice": 16.4,
+			"prevPrice": 16.9
+		},
+		{
+			"name": "DHUNINV::NSE",
+			"currentPrice": 619.6,
+			"prevPrice": 635.65
+		},
+		{
+			"name": "DIAPOWER::NSE",
+			"currentPrice": 1.1,
+			"prevPrice": 1.15
+		},
+		{
+			"name": "DICIND::NSE",
+			"currentPrice": 392.2,
+			"prevPrice": 391.15
+		},
+		{
+			"name": "DIGISPICE::NSE",
+			"currentPrice": 39.6,
+			"prevPrice": 39.4
+		},
+		{
+			"name": "DIGJAMLMTD::NSE",
+			"currentPrice": 80.15,
+			"prevPrice": 76.35
+		},
+		{
+			"name": "DNAMEDIA::NSE",
+			"currentPrice": 2.9,
+			"prevPrice": 2.8
+		},
+		{
+			"name": "DPSCLTD::NSE",
+			"currentPrice": 23.6,
+			"prevPrice": 21.75
+		},
+		{
+			"name": "DPWIRES::NSE",
+			"currentPrice": 209.05,
+			"prevPrice": 208.65
+		},
+		{
+			"name": "DRCSYSTEMS::NSE",
+			"currentPrice": 207.95,
+			"prevPrice": 218.85
+		},
+		{
+			"name": "DUCON::NSE",
+			"currentPrice": 9,
+			"prevPrice": 9.15
+		},
+		{
+			"name": "EASTSILK::NSE",
+			"currentPrice": 5.25,
+			"prevPrice": 5.5
+		},
+		{
+			"name": "EASUNREYRL::NSE",
+			"currentPrice": 2.9,
+			"prevPrice": 2.85
+		},
+		{
+			"name": "EDUCOMP::NSE",
+			"currentPrice": 2.9,
+			"prevPrice": 3
+		},
+		{
+			"name": "ELGIRUBCO::NSE",
+			"currentPrice": 36,
+			"prevPrice": 35.35
+		},
+		{
+			"name": "EIFFL::NSE",
+			"currentPrice": 129.15,
+			"prevPrice": 123
+		},
+		{
+			"name": "ENERGYDEV::NSE",
+			"currentPrice": 16.75,
+			"prevPrice": 17.6
+		},
+		{
+			"name": "EUROTEXIND::NSE",
+			"currentPrice": 9.65,
+			"prevPrice": 9.8
+		},
+		{
+			"name": "FCSSOFT::NSE",
+			"currentPrice": 2.2,
+			"prevPrice": 2.3
+		},
+		{
+			"name": "ESSARSHPNG::NSE",
+			"currentPrice": 8.85,
+			"prevPrice": 8.95
+		},
+		{
+			"name": "FEL::NSE",
+			"currentPrice": 8.7,
+			"prevPrice": 8.95
+		},
+		{
+			"name": "FLEXITUFF::NSE",
+			"currentPrice": 17.15,
+			"prevPrice": 18.05
+		},
+		{
+			"name": "FINOPB::NSE",
+			"currentPrice": 447,
+			"prevPrice": 439.6
+		},
+		{
+			"name": "EXCEL::NSE",
+			"currentPrice": 4.25,
+			"prevPrice": 4.05
+		},
+		{
+			"name": "FELDVR::NSE",
+			"currentPrice": 10.85,
+			"prevPrice": 11.15
+		},
+		{
+			"name": "FLFL::NSE",
+			"currentPrice": 51.85,
+			"prevPrice": 54.25
+		},
+		{
+			"name": "FMNL::NSE",
+			"currentPrice": 8.3,
+			"prevPrice": 8.6
+		},
+		{
+			"name": "FCONSUMER::NSE",
+			"currentPrice": 6.9,
+			"prevPrice": 7
+		},
+		{
+			"name": "FOODSIN::NSE",
+			"currentPrice": 87,
+			"prevPrice": 82.9
+		},
+		{
+			"name": "FRETAIL::NSE",
+			"currentPrice": 49.6,
+			"prevPrice": 52.3
+		},
+		{
+			"name": "FSC::NSE",
+			"currentPrice": 68.15,
+			"prevPrice": 70.9
+		},
+		{
+			"name": "GAL::NSE",
+			"currentPrice": 2.25,
+			"prevPrice": 2.2
+		},
+		{
+			"name": "GALLANTT::NSE",
+			"currentPrice": 66.95,
+			"prevPrice": 66.65
+		},
+		{
+			"name": "GALLISPAT::NSE",
+			"currentPrice": 46.15,
+			"prevPrice": 45.9
+		},
+		{
+			"name": "GANESHBE::NSE",
+			"currentPrice": 78.15,
+			"prevPrice": 78.15
+		},
+		{
+			"name": "GANESHHOUC::NSE",
+			"currentPrice": 201.3,
+			"prevPrice": 211.85
+		},
+		{
+			"name": "GANDHITUBE::NSE",
+			"currentPrice": 367.25,
+			"prevPrice": 364.45
+		},
+		{
+			"name": "GANGAFORGE::NSE",
+			"currentPrice": 18.7,
+			"prevPrice": 18.55
+		},
+		{
+			"name": "GANGESSECU::NSE",
+			"currentPrice": 80.7,
+			"prevPrice": 81.1
+		},
+		{
+			"name": "GANGOTRI::NSE",
+			"currentPrice": 1.3,
+			"prevPrice": 1.25
+		},
+		{
+			"name": "GAYAHWS::NSE",
+			"currentPrice": 0.75,
+			"prevPrice": 0.8
+		},
+		{
+			"name": "GAYAPROJ::NSE",
+			"currentPrice": 30.45,
+			"prevPrice": 30.5
+		},
+		{
+			"name": "GEECEE::NSE",
+			"currentPrice": 138.45,
+			"prevPrice": 138.95
+		},
+		{
+			"name": "GEEKAYWIRE::NSE",
+			"currentPrice": 95.05,
+			"prevPrice": 87.6
+		},
+		{
+			"name": "GENCON::NSE",
+			"currentPrice": 35.55,
+			"prevPrice": 35.25
+		},
+		{
+			"name": "GET&D::NSE",
+			"currentPrice": 115.7,
+			"prevPrice": 114.95
+		},
+		{
+			"name": "GFSTEELS::NSE",
+			"currentPrice": 4.35,
+			"prevPrice": 4.45
+		},
+		{
+			"name": "GILLANDERS::NSE",
+			"currentPrice": 54.75,
+			"prevPrice": 54.75
+		},
+		{
+			"name": "GISOLUTION::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "GLFL::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "GLOBAL::NSE",
+			"currentPrice": 39.95,
+			"prevPrice": 40.9
+		},
+		{
+			"name": "GLOBE::NSE",
+			"currentPrice": 15.3,
+			"prevPrice": 15.25
+		},
+		{
+			"name": "GODHA::NSE",
+			"currentPrice": 54.4,
+			"prevPrice": 51.85
+		},
+		{
+			"name": "GOENKA::NSE",
+			"currentPrice": 1.35,
+			"prevPrice": 1.3
+		},
+		{
+			"name": "GOKUL::NSE",
+			"currentPrice": 30.4,
+			"prevPrice": 30.15
+		},
+		{
+			"name": "GREENPOWER::NSE",
+			"currentPrice": 9.7,
+			"prevPrice": 9.25
+		},
+		{
+			"name": "GROBTEA::NSE",
+			"currentPrice": 986.75,
+			"prevPrice": 1004.95
+		},
+		{
+			"name": "GRPLTD::NSE",
+			"currentPrice": 959.5,
+			"prevPrice": 950.45
+		},
+		{
+			"name": "GSCLCEMENT::NSE",
+			"currentPrice": 41,
+			"prevPrice": 41.45
+		},
+		{
+			"name": "GTL::NSE",
+			"currentPrice": 14.8,
+			"prevPrice": 15.55
+		},
+		{
+			"name": "GTLINFRA::NSE",
+			"currentPrice": 1.6,
+			"prevPrice": 1.65
+		},
+		{
+			"name": "GTNTEX::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "GUJRAFFIA::NSE",
+			"currentPrice": 32.6,
+			"prevPrice": 32.4
+		},
+		{
+			"name": "GULFOILLUB::NSE",
+			"currentPrice": 512.3,
+			"prevPrice": 547.1
+		},
+		{
+			"name": "GULFPETRO::NSE",
+			"currentPrice": 42.8,
+			"prevPrice": 42
+		},
+		{
+			"name": "HATHWAY::NSE",
+			"currentPrice": 20,
+			"prevPrice": 19.85
+		},
+		{
+			"name": "HAVISHA::NSE",
+			"currentPrice": 1.5,
+			"prevPrice": 1.45
+		},
+		{
+			"name": "HBSL::NSE",
+			"currentPrice": 38.35,
+			"prevPrice": 37.4
+		},
+		{
+			"name": "HCC::NSE",
+			"currentPrice": 10.55,
+			"prevPrice": 10.75
+		},
+		{
+			"name": "HCL-INSYS::NSE",
+			"currentPrice": 17.4,
+			"prevPrice": 16.6
+		},
+		{
+			"name": "HDIL::NSE",
+			"currentPrice": 4.45,
+			"prevPrice": 4.55
+		},
+		{
+			"name": "HEXATRADEX::NSE",
+			"currentPrice": 128.4,
+			"prevPrice": 134.95
+		},
+		{
+			"name": "HINDCOMPOS::NSE",
+			"currentPrice": 304.6,
+			"prevPrice": 305.6
+		},
+		{
+			"name": "HINDCON::NSE",
+			"currentPrice": 56.3,
+			"prevPrice": 56.9
+		},
+		{
+			"name": "HINDMOTORS::NSE",
+			"currentPrice": 11.05,
+			"prevPrice": 11.25
+		},
+		{
+			"name": "HINDNATGLS::NSE",
+			"currentPrice": 27.85,
+			"prevPrice": 28.05
+		},
+		{
+			"name": "HITECHCORP::NSE",
+			"currentPrice": 226.6,
+			"prevPrice": 228.3
+		},
+		{
+			"name": "HMT::NSE",
+			"currentPrice": 26.5,
+			"prevPrice": 26.25
+		},
+		{
+			"name": "HOTELRUGBY::NSE",
+			"currentPrice": 4.05,
+			"prevPrice": 3.9
+		},
+		{
+			"name": "HUBTOWN::NSE",
+			"currentPrice": 30.2,
+			"prevPrice": 31.75
+		},
+		{
+			"name": "ICDSLTD::NSE",
+			"currentPrice": 46.95,
+			"prevPrice": 47.45
+		},
+		{
+			"name": "ICRA::NSE",
+			"currentPrice": 3602.75,
+			"prevPrice": 3446.3
+		},
+		{
+			"name": "IITL::NSE",
+			"currentPrice": 62.7,
+			"prevPrice": 61.1
+		},
+		{
+			"name": "IL&FSENGG::NSE",
+			"currentPrice": 5.35,
+			"prevPrice": 5.6
+		},
+		{
+			"name": "IL&FSTRANS::NSE",
+			"currentPrice": 4.05,
+			"prevPrice": 4.05
+		},
+		{
+			"name": "IMAGICAA::NSE",
+			"currentPrice": 10.45,
+			"prevPrice": 11
+		},
+		{
+			"name": "IMPAL::NSE",
+			"currentPrice": 761.8,
+			"prevPrice": 741.95
+		},
+		{
+			"name": "IMPEXFERRO::NSE",
+			"currentPrice": 1.25,
+			"prevPrice": 1.25
+		},
+		{
+			"name": "INCREDIBLE::NSE",
+			"currentPrice": 22.4,
+			"prevPrice": 22.85
+		},
+		{
+			"name": "INDIANCARD::NSE",
+			"currentPrice": 179.75,
+			"prevPrice": 182.95
+		},
+		{
+			"name": "INDLMETER::NSE",
+			"currentPrice": 12.95,
+			"prevPrice": 12.9
+		},
+		{
+			"name": "INDBANK::NSE",
+			"currentPrice": 21.05,
+			"prevPrice": 21.2
+		},
+		{
+			"name": "INDOSOLAR::NSE",
+			"currentPrice": 3.4,
+			"prevPrice": 3.55
+		},
+		{
+			"name": "INDOTECH::NSE",
+			"currentPrice": 166.65,
+			"prevPrice": 174.65
+		},
+		{
+			"name": "INDOWIND::NSE",
+			"currentPrice": 18.05,
+			"prevPrice": 17.2
+		},
+		{
+			"name": "INFOBEAN::NSE",
+			"currentPrice": 398,
+			"prevPrice": 400.5
+		},
+		{
+			"name": "INDSWFTLTD::NSE",
+			"currentPrice": 12.95,
+			"prevPrice": 12.7
+		},
+		{
+			"name": "INFOMEDIA::NSE",
+			"currentPrice": 4.8,
+			"prevPrice": 5
+		},
+		{
+			"name": "INTEGRA::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "INTLCONV::NSE",
+			"currentPrice": 65.8,
+			"prevPrice": 64.8
+		},
+		{
+			"name": "INVENTURE::NSE",
+			"currentPrice": 2.55,
+			"prevPrice": 2.5
+		},
+		{
+			"name": "IPL::NSE",
+			"currentPrice": 295.8,
+			"prevPrice": 299.15
+		},
+		{
+			"name": "IRIS::NSE",
+			"currentPrice": 124.15,
+			"prevPrice": 122.8
+		},
+		{
+			"name": "ISMTLTD::NSE",
+			"currentPrice": 39.05,
+			"prevPrice": 37.2
+		},
+		{
+			"name": "IVC::NSE",
+			"currentPrice": 6.55,
+			"prevPrice": 6.55
+		},
+		{
+			"name": "IVP::NSE",
+			"currentPrice": 119,
+			"prevPrice": 122.4
+		},
+		{
+			"name": "JAIBALAJI::NSE",
+			"currentPrice": 52.9,
+			"prevPrice": 52.8
+		},
+		{
+			"name": "JAINSTUDIO::NSE",
+			"currentPrice": 2.7,
+			"prevPrice": 2.7
+		},
+		{
+			"name": "JAIPURKURT::NSE",
+			"currentPrice": 69.9,
+			"prevPrice": 69.2
+		},
+		{
+			"name": "JBFIND::NSE",
+			"currentPrice": 16.2,
+			"prevPrice": 17
+		},
+		{
+			"name": "JBMA::NSE",
+			"currentPrice": 935.6,
+			"prevPrice": 864.05
+		},
+		{
+			"name": "JAYNECOIND::NSE",
+			"currentPrice": 24.75,
+			"prevPrice": 24.1
+		},
+		{
+			"name": "JETAIRWAYS::NSE",
+			"currentPrice": 83.6,
+			"prevPrice": 84.4
+		},
+		{
+			"name": "JAGRAN::NSE",
+			"currentPrice": 61.55,
+			"prevPrice": 62.5
+		},
+		{
+			"name": "JIKIND::NSE",
+			"currentPrice": 0.9,
+			"prevPrice": 0.95
+		},
+		{
+			"name": "IWEL::NSE",
+			"currentPrice": 745.15,
+			"prevPrice": 736.25
+		},
+		{
+			"name": "JINDCOT::NSE",
+			"currentPrice": 3.2,
+			"prevPrice": 3.35
+		},
+		{
+			"name": "JINDWORLD::NSE",
+			"currentPrice": 185.65,
+			"prevPrice": 187.65
+		},
+		{
+			"name": "JITFINFRA::NSE",
+			"currentPrice": 169.8,
+			"prevPrice": 178.7
+		},
+		{
+			"name": "JIYAECO::NSE",
+			"currentPrice": 2.85,
+			"prevPrice": 2.95
+		},
+		{
+			"name": "JMA::NSE",
+			"currentPrice": 64.3,
+			"prevPrice": 63.15
+		},
+		{
+			"name": "JPINFRATEC::NSE",
+			"currentPrice": 2.1,
+			"prevPrice": 2.2
+		},
+		{
+			"name": "JPOLYINVST::NSE",
+			"currentPrice": 385.4,
+			"prevPrice": 405.65
+		},
+		{
+			"name": "JPASSOCIAT::NSE",
+			"currentPrice": 10.25,
+			"prevPrice": 10.75
+		},
+		{
+			"name": "JUMPNET::NSE",
+			"currentPrice": 7.55,
+			"prevPrice": 7.55
+		},
+		{
+			"name": "JISLDVREQS::NSE",
+			"currentPrice": 24.75,
+			"prevPrice": 23.95
+		},
+		{
+			"name": "JYOTISTRUC::NSE",
+			"currentPrice": 16.15,
+			"prevPrice": 15.4
+		},
+		{
+			"name": "KALYANIFRG::NSE",
+			"currentPrice": 175.2,
+			"prevPrice": 174.6
+		},
+		{
+			"name": "KANPRPLA::NSE",
+			"currentPrice": 130.7,
+			"prevPrice": 130.35
+		},
+		{
+			"name": "KARMAENG::NSE",
+			"currentPrice": 18.85,
+			"prevPrice": 18.45
+		},
+		{
+			"name": "KAUSHALYA::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "KAVVERITEL::NSE",
+			"currentPrice": 7.15,
+			"prevPrice": 7.1
+		},
+		{
+			"name": "KECL::NSE",
+			"currentPrice": 23.05,
+			"prevPrice": 22.1
+		},
+		{
+			"name": "KAPSTON::NSE",
+			"currentPrice": 82.25,
+			"prevPrice": 83.15
+		},
+		{
+			"name": "KELLTONTEC::NSE",
+			"currentPrice": 48.3,
+			"prevPrice": 48.2
+		},
+		{
+			"name": "KANANIIND::NSE",
+			"currentPrice": 7.75,
+			"prevPrice": 7.6
+		},
+		{
+			"name": "KEYFINSERV::NSE",
+			"currentPrice": 85.05,
+			"prevPrice": 86
+		},
+		{
+			"name": "KCPSUGIND::NSE",
+			"currentPrice": 19.25,
+			"prevPrice": 19.35
+		},
+		{
+			"name": "KERNEX::NSE",
+			"currentPrice": 83,
+			"prevPrice": 79.05
+		},
+		{
+			"name": "KHAICHEM::NSE",
+			"currentPrice": 59.5,
+			"prevPrice": 58.1
+		},
+		{
+			"name": "KEERTI::NSE",
+			"currentPrice": 20.35,
+			"prevPrice": 19.7
+		},
+		{
+			"name": "KHAITANLTD::NSE",
+			"currentPrice": 29.3,
+			"prevPrice": 28.7
+		},
+		{
+			"name": "KOTHARIPRO::NSE",
+			"currentPrice": 90.75,
+			"prevPrice": 87.3
+		},
+		{
+			"name": "KPIGLOBAL::NSE",
+			"currentPrice": 239,
+			"prevPrice": 234
+		},
+		{
+			"name": "KRIDHANINF::NSE",
+			"currentPrice": 5.15,
+			"prevPrice": 4.75
+		},
+		{
+			"name": "KRITI::NSE",
+			"currentPrice": 116.4,
+			"prevPrice": 117.15
+		},
+		{
+			"name": "LAGNAM::NSE",
+			"currentPrice": 47.2,
+			"prevPrice": 47.3
+		},
+		{
+			"name": "KHANDSE::NSE",
+			"currentPrice": 15.8,
+			"prevPrice": 16.6
+		},
+		{
+			"name": "KRSNAA::NSE",
+			"currentPrice": 696.45,
+			"prevPrice": 705.7
+		},
+		{
+			"name": "KRISHANA::NSE",
+			"currentPrice": 163.6,
+			"prevPrice": 162.15
+		},
+		{
+			"name": "KOVAI::NSE",
+			"currentPrice": 1662,
+			"prevPrice": 1669.4
+		},
+		{
+			"name": "LASA::NSE",
+			"currentPrice": 56.05,
+			"prevPrice": 56.05
+		},
+		{
+			"name": "LAMBODHARA::NSE",
+			"currentPrice": 87.1,
+			"prevPrice": 85
+		},
+		{
+			"name": "LAXMICOT::NSE",
+			"currentPrice": 22.3,
+			"prevPrice": 21.95
+		},
+		{
+			"name": "LCCINFOTEC::NSE",
+			"currentPrice": 2.4,
+			"prevPrice": 2.3
+		},
+		{
+			"name": "LGBFORGE::NSE",
+			"currentPrice": 6.05,
+			"prevPrice": 6.2
+		},
+		{
+			"name": "LOKESHMACH::NSE",
+			"currentPrice": 50.7,
+			"prevPrice": 50.55
+		},
+		{
+			"name": "LPDC::NSE",
+			"currentPrice": 6.4,
+			"prevPrice": 6.1
+		},
+		{
+			"name": "LSIL::NSE",
+			"currentPrice": 10.85,
+			"prevPrice": 11.4
+		},
+		{
+			"name": "LUMAXIND::NSE",
+			"currentPrice": 1391.65,
+			"prevPrice": 1386.9
+		},
+		{
+			"name": "LAKPRE::NSE",
+			"currentPrice": 4.85,
+			"prevPrice": 4.85
+		},
+		{
+			"name": "LYPSAGEMS::NSE",
+			"currentPrice": 4.35,
+			"prevPrice": 4.45
+		},
+		{
+			"name": "MADHUCON::NSE",
+			"currentPrice": 7,
+			"prevPrice": 6.7
+		},
+		{
+			"name": "MACPOWER::NSE",
+			"currentPrice": 192.8,
+			"prevPrice": 195.25
+		},
+		{
+			"name": "MADRASFERT::NSE",
+			"currentPrice": 26.6,
+			"prevPrice": 26.45
+		},
+		{
+			"name": "MAHASTEEL::NSE",
+			"currentPrice": 80.1,
+			"prevPrice": 78.15
+		},
+		{
+			"name": "MALUPAPER::NSE",
+			"currentPrice": 30.6,
+			"prevPrice": 31.2
+		},
+		{
+			"name": "MANAKALUCO::NSE",
+			"currentPrice": 17.05,
+			"prevPrice": 16.4
+		},
+		{
+			"name": "MAHAPEXLTD::NSE",
+			"currentPrice": 85.5,
+			"prevPrice": 87
+		},
+		{
+			"name": "MAGNUM::NSE",
+			"currentPrice": 7.15,
+			"prevPrice": 7.4
+		},
+		{
+			"name": "MARINE::NSE",
+			"currentPrice": 28.35,
+			"prevPrice": 28.05
+		},
+		{
+			"name": "MBLINFRA::NSE",
+			"currentPrice": 21.15,
+			"prevPrice": 21.5
+		},
+		{
+			"name": "MANUGRAPH::NSE",
+			"currentPrice": 19.25,
+			"prevPrice": 20.25
+		},
+		{
+			"name": "MBECL::NSE",
+			"currentPrice": 6.9,
+			"prevPrice": 6.8
+		},
+		{
+			"name": "MAZDA::NSE",
+			"currentPrice": 616.7,
+			"prevPrice": 609.1
+		},
+		{
+			"name": "MCL::NSE",
+			"currentPrice": 34.15,
+			"prevPrice": 34.25
+		},
+		{
+			"name": "MEGASOFT::NSE",
+			"currentPrice": 31.6,
+			"prevPrice": 33.25
+		},
+		{
+			"name": "MEDICAMEQ::NSE",
+			"currentPrice": 585.85,
+			"prevPrice": 590.1
+		},
+		{
+			"name": "MARSHALL::NSE",
+			"currentPrice": 63.05,
+			"prevPrice": 60.05
+		},
+		{
+			"name": "MASKINVEST::NSE",
+			"currentPrice": 37.85,
+			"prevPrice": 36.25
+		},
+		{
+			"name": "MANGTIMBER::NSE",
+			"currentPrice": 15.65,
+			"prevPrice": 16.1
+		},
+		{
+			"name": "MGEL::NSE",
+			"currentPrice": 96,
+			"prevPrice": 95.85
+		},
+		{
+			"name": "MINDTECK::NSE",
+			"currentPrice": 103.95,
+			"prevPrice": 94.5
+		},
+		{
+			"name": "MIRCELECTR::NSE",
+			"currentPrice": 22.05,
+			"prevPrice": 22.8
+		},
+		{
+			"name": "MITTAL::NSE",
+			"currentPrice": 9.9,
+			"prevPrice": 10
+		},
+		{
+			"name": "MMFL::NSE",
+			"currentPrice": 775.9,
+			"prevPrice": 783.6
+		},
+		{
+			"name": "MODIRUBBER::NSE",
+			"currentPrice": 75.1,
+			"prevPrice": 75.8
+		},
+		{
+			"name": "MOHITIND::NSE",
+			"currentPrice": 11.05,
+			"prevPrice": 11.45
+		},
+		{
+			"name": "MERCATOR::NSE",
+			"currentPrice": 1.6,
+			"prevPrice": 1.65
+		},
+		{
+			"name": "MOHOTAIND::NSE",
+			"currentPrice": 7.15,
+			"prevPrice": 7.5
+		},
+		{
+			"name": "METALFORGE::NSE",
+			"currentPrice": 5.25,
+			"prevPrice": 5.2
+		},
+		{
+			"name": "MOKSH::NSE",
+			"currentPrice": 39,
+			"prevPrice": 38.9
+		},
+		{
+			"name": "MEP::NSE",
+			"currentPrice": 19.7,
+			"prevPrice": 19.95
+		},
+		{
+			"name": "MORARJEE::NSE",
+			"currentPrice": 17.1,
+			"prevPrice": 17.3
+		},
+		{
+			"name": "MFL::NSE",
+			"currentPrice": 667.7,
+			"prevPrice": 656.8
+		},
+		{
+			"name": "MOTOGENFIN::NSE",
+			"currentPrice": 25.2,
+			"prevPrice": 24.4
+		},
+		{
+			"name": "MRO-TEK::NSE",
+			"currentPrice": 46.2,
+			"prevPrice": 45.65
+		},
+		{
+			"name": "MSPL::NSE",
+			"currentPrice": 8.95,
+			"prevPrice": 8.8
+		},
+		{
+			"name": "MTNL::NSE",
+			"currentPrice": 17.9,
+			"prevPrice": 17.85
+		},
+		{
+			"name": "MUKANDLTD::NSE",
+			"currentPrice": 125.85,
+			"prevPrice": 120.05
+		},
+		{
+			"name": "MANORG::NSE",
+			"currentPrice": 993.75,
+			"prevPrice": 1009.2
+		},
+		{
+			"name": "MUNJALAU::NSE",
+			"currentPrice": 51.8,
+			"prevPrice": 51.15
+		},
+		{
+			"name": "NAGREEKCAP::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "MTEDUCARE::NSE",
+			"currentPrice": 7.65,
+			"prevPrice": 7.85
+		},
+		{
+			"name": "MUKTAARTS::NSE",
+			"currentPrice": 54.6,
+			"prevPrice": 49.65
+		},
+		{
+			"name": "NBIFIN::NSE",
+			"currentPrice": 2122.6,
+			"prevPrice": 2145.65
+		},
+		{
+			"name": "NAHARINDUS::NSE",
+			"currentPrice": 109,
+			"prevPrice": 109.75
+		},
+		{
+			"name": "NEXTMEDIA::NSE",
+			"currentPrice": 5.45,
+			"prevPrice": 5.4
+		},
+		{
+			"name": "MUKANDENGG::NSE",
+			"currentPrice": 25.45,
+			"prevPrice": 25.45
+		},
+		{
+			"name": "NGIL::NSE",
+			"currentPrice": 117.9,
+			"prevPrice": 112.3
+		},
+		{
+			"name": "NDGL::NSE",
+			"currentPrice": 1345.35,
+			"prevPrice": 1415.8
+		},
+		{
+			"name": "NAGAFERT::NSE",
+			"currentPrice": 10.15,
+			"prevPrice": 9.7
+		},
+		{
+			"name": "NACLIND::NSE",
+			"currentPrice": 67.75,
+			"prevPrice": 67
+		},
+		{
+			"name": "NIBL::NSE",
+			"currentPrice": 21.55,
+			"prevPrice": 20.6
+		},
+		{
+			"name": "NILAINFRA::NSE",
+			"currentPrice": 5.7,
+			"prevPrice": 5.75
+		},
+		{
+			"name": "NILASPACES::NSE",
+			"currentPrice": 2.1,
+			"prevPrice": 2
+		},
+		{
+			"name": "NAGREEKEXP::NSE",
+			"currentPrice": 31.6,
+			"prevPrice": 33
+		},
+		{
+			"name": "NATNLSTEEL::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "NKIND::NSE",
+			"currentPrice": 32.3,
+			"prevPrice": 33.8
+		},
+		{
+			"name": "NITINFIRE::NSE",
+			"currentPrice": 1.4,
+			"prevPrice": 1.4
+		},
+		{
+			"name": "NORBTEAEXP::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "NTL::NSE",
+			"currentPrice": 2.1,
+			"prevPrice": 2.2
+		},
+		{
+			"name": "NUVOCO::NSE",
+			"currentPrice": 531.35,
+			"prevPrice": 508.25
+		},
+		{
+			"name": "NELCAST::NSE",
+			"currentPrice": 73.2,
+			"prevPrice": 71.9
+		},
+		{
+			"name": "NIRAJ::NSE",
+			"currentPrice": 34.5,
+			"prevPrice": 33.25
+		},
+		{
+			"name": "NXTDIG-RE::NSE",
+			"currentPrice": 32.05,
+			"prevPrice": 53.1
+		},
+		{
+			"name": "NOIDATOLL::NSE",
+			"currentPrice": 7.35,
+			"prevPrice": 7.7
+		},
+		{
+			"name": "NXTDIGITAL::NSE",
+			"currentPrice": 362.85,
+			"prevPrice": 346.65
+		},
+		{
+			"name": "NITIRAJ::NSE",
+			"currentPrice": 64.05,
+			"prevPrice": 63.45
+		},
+		{
+			"name": "OILCOUNTUB::NSE",
+			"currentPrice": 8.2,
+			"prevPrice": 8.05
+		},
+		{
+			"name": "OMAXAUTO::NSE",
+			"currentPrice": 45.5,
+			"prevPrice": 43.35
+		},
+		{
+			"name": "OMKARCHEM::NSE",
+			"currentPrice": 38.95,
+			"prevPrice": 41
+		},
+		{
+			"name": "ONEPOINT::NSE",
+			"currentPrice": 78.8,
+			"prevPrice": 75.55
+		},
+		{
+			"name": "OPTIEMUS::NSE",
+			"currentPrice": 346.85,
+			"prevPrice": 363.5
+		},
+		{
+			"name": "MELSTAR::NSE",
+			"currentPrice": 5.25,
+			"prevPrice": 5.5
+		},
+		{
+			"name": "ORICONENT::NSE",
+			"currentPrice": 30.85,
+			"prevPrice": 31.55
+		},
+		{
+			"name": "ORCHPHARMA::NSE",
+			"currentPrice": 395.1,
+			"prevPrice": 401.6
+		},
+		{
+			"name": "ORIENTABRA::NSE",
+			"currentPrice": 24.95,
+			"prevPrice": 24.9
+		},
+		{
+			"name": "ORIENTALTL::NSE",
+			"currentPrice": 9.2,
+			"prevPrice": 9.1
+		},
+		{
+			"name": "ORIENTHOT::NSE",
+			"currentPrice": 34.75,
+			"prevPrice": 34.4
+		},
+		{
+			"name": "ORIENTLTD::NSE",
+			"currentPrice": 64.2,
+			"prevPrice": 65.5
+		},
+		{
+			"name": "ORTEL::NSE",
+			"currentPrice": 1.15,
+			"prevPrice": 1.15
+		},
+		{
+			"name": "PAEL::NSE",
+			"currentPrice": 6.9,
+			"prevPrice": 7.25
+		},
+		{
+			"name": "PALASHSECU::NSE",
+			"currentPrice": 68.4,
+			"prevPrice": 68.25
+		},
+		{
+			"name": "PANACHE::NSE",
+			"currentPrice": 60.25,
+			"prevPrice": 60.25
+		},
+		{
+			"name": "PANSARI::NSE",
+			"currentPrice": 168.05,
+			"prevPrice": 160.05
+		},
+		{
+			"name": "PASUPTAC::NSE",
+			"currentPrice": 28.9,
+			"prevPrice": 28.8
+		},
+		{
+			"name": "PATINTLOG::NSE",
+			"currentPrice": 14.85,
+			"prevPrice": 14.75
+		},
+		{
+			"name": "PATSPINLTD::NSE",
+			"currentPrice": 8.65,
+			"prevPrice": 8.5
+		},
+		{
+			"name": "PARACABLES::NSE",
+			"currentPrice": 10.25,
+			"prevPrice": 10.15
+		},
+		{
+			"name": "PARAS::NSE",
+			"currentPrice": 705.25,
+			"prevPrice": 735.45
+		},
+		{
+			"name": "PAR::NSE",
+			"currentPrice": 191.25,
+			"prevPrice": 193.7
+		},
+		{
+			"name": "ORTINLAB::NSE",
+			"currentPrice": 30.15,
+			"prevPrice": 27.1
+		},
+		{
+			"name": "PDPL::NSE",
+			"currentPrice": 4.3,
+			"prevPrice": 4.3
+		},
+		{
+			"name": "PBAINFRA::NSE",
+			"currentPrice": 9.9,
+			"prevPrice": 10.3
+		},
+		{
+			"name": "PENINLAND::NSE",
+			"currentPrice": 12.1,
+			"prevPrice": 11.55
+		},
+		{
+			"name": "PAYTM::NSE",
+			"currentPrice": 1699.6,
+			"prevPrice": 1736.45
+		},
+		{
+			"name": "PILITA::NSE",
+			"currentPrice": 6.45,
+			"prevPrice": 6.45
+		},
+		{
+			"name": "PEARLPOLY::NSE",
+			"currentPrice": 15.1,
+			"prevPrice": 15
+		},
+		{
+			"name": "PIONEEREMB::NSE",
+			"currentPrice": 57.8,
+			"prevPrice": 54.5
+		},
+		{
+			"name": "PODDARHOUS::NSE",
+			"currentPrice": 164.65,
+			"prevPrice": 163
+		},
+		{
+			"name": "POLICYBZR::NSE",
+			"currentPrice": 1215.6,
+			"prevPrice": 1229.8
+		},
+		{
+			"name": "POONAWALLA::NSE",
+			"currentPrice": 181.3,
+			"prevPrice": 179.55
+		},
+		{
+			"name": "PRAENG::NSE",
+			"currentPrice": 16.35,
+			"prevPrice": 16.1
+		},
+		{
+			"name": "PRAXIS::NSE",
+			"currentPrice": 48.85,
+			"prevPrice": 46.55
+		},
+		{
+			"name": "PREMEXPLN::NSE",
+			"currentPrice": 242.05,
+			"prevPrice": 254.7
+		},
+		{
+			"name": "PREMIER::NSE",
+			"currentPrice": 6.65,
+			"prevPrice": 6.35
+		},
+		{
+			"name": "PRIMESECU::NSE",
+			"currentPrice": 106.2,
+			"prevPrice": 106.9
+		},
+		{
+			"name": "PRITIKAUTO::NSE",
+			"currentPrice": 16.85,
+			"prevPrice": 16.7
+		},
+		{
+			"name": "PROINDIA::NSE",
+			"currentPrice": 92.9,
+			"prevPrice": 92.45
+		},
+		{
+			"name": "PROZONINTU::NSE",
+			"currentPrice": 25.2,
+			"prevPrice": 25.5
+		},
+		{
+			"name": "RADAAN::NSE",
+			"currentPrice": 1.65,
+			"prevPrice": 1.6
+		},
+		{
+			"name": "QUINTEGRA::NSE",
+			"currentPrice": 1.3,
+			"prevPrice": 1.25
+		},
+		{
+			"name": "PUNJLLOYD::NSE",
+			"currentPrice": 2.55,
+			"prevPrice": 2.6
+		},
+		{
+			"name": "PVP::NSE",
+			"currentPrice": 5.3,
+			"prevPrice": 5.55
+		},
+		{
+			"name": "RAJSREESUG::NSE",
+			"currentPrice": 22.75,
+			"prevPrice": 22.1
+		},
+		{
+			"name": "RAMANEWS::NSE",
+			"currentPrice": 18.75,
+			"prevPrice": 18.85
+		},
+		{
+			"name": "RAJTV::NSE",
+			"currentPrice": 34.45,
+			"prevPrice": 34.9
+		},
+		{
+			"name": "RAMKY::NSE",
+			"currentPrice": 148.4,
+			"prevPrice": 154.1
+		},
+		{
+			"name": "PTL::NSE",
+			"currentPrice": 47.3,
+			"prevPrice": 47.2
+		},
+		{
+			"name": "RCOM::NSE",
+			"currentPrice": 2.8,
+			"prevPrice": 2.75
+		},
+		{
+			"name": "RAJVIR::NSE",
+			"currentPrice": 7.7,
+			"prevPrice": 7.7
+		},
+		{
+			"name": "RMCL::NSE",
+			"currentPrice": 2.05,
+			"prevPrice": 2.05
+		},
+		{
+			"name": "RHFL::NSE",
+			"currentPrice": 3.8,
+			"prevPrice": 3.95
+		},
+		{
+			"name": "REGENCERAM::NSE",
+			"currentPrice": 1.85,
+			"prevPrice": 1.9
+		},
+		{
+			"name": "REVATHI::NSE",
+			"currentPrice": 680.6,
+			"prevPrice": 701.85
+		},
+		{
+			"name": "REMSONSIND::NSE",
+			"currentPrice": 233.25,
+			"prevPrice": 231.15
+		},
+		{
+			"name": "ROLLT::NSE",
+			"currentPrice": 2.85,
+			"prevPrice": 2.95
+		},
+		{
+			"name": "RNAVAL::NSE",
+			"currentPrice": 2.8,
+			"prevPrice": 2.9
+		},
+		{
+			"name": "ROLTA::NSE",
+			"currentPrice": 4.9,
+			"prevPrice": 5
+		},
+		{
+			"name": "RKDL::NSE",
+			"currentPrice": 10.75,
+			"prevPrice": 11.25
+		},
+		{
+			"name": "RSSOFTWARE::NSE",
+			"currentPrice": 32.75,
+			"prevPrice": 32.85
+		},
+		{
+			"name": "RTNPOWER::NSE",
+			"currentPrice": 3.5,
+			"prevPrice": 3.55
+		},
+		{
+			"name": "ROHITFERRO::NSE",
+			"currentPrice": 18,
+			"prevPrice": 18.9
+		},
+		{
+			"name": "RVHL::NSE",
+			"currentPrice": 25.25,
+			"prevPrice": 24.05
+		},
+		{
+			"name": "S&SPOWER::NSE",
+			"currentPrice": 25.75,
+			"prevPrice": 25.75
+		},
+		{
+			"name": "RUCHINFRA::NSE",
+			"currentPrice": 6.4,
+			"prevPrice": 6.5
+		},
+		{
+			"name": "RTNINDIA::NSE",
+			"currentPrice": 42.8,
+			"prevPrice": 43.95
+		},
+		{
+			"name": "SABTN::NSE",
+			"currentPrice": 1.65,
+			"prevPrice": 1.7
+		},
+		{
+			"name": "ROML::NSE",
+			"currentPrice": 73.35,
+			"prevPrice": 73.25
+		},
+		{
+			"name": "REPL::NSE",
+			"currentPrice": 202.1,
+			"prevPrice": 197.4
+		},
+		{
+			"name": "SADBHIN::NSE",
+			"currentPrice": 13,
+			"prevPrice": 12.75
+		},
+		{
+			"name": "SABEVENTS::NSE",
+			"currentPrice": 6.6,
+			"prevPrice": 6.3
+		},
+		{
+			"name": "SALASAR::NSE",
+			"currentPrice": 250.4,
+			"prevPrice": 257.85
+		},
+		{
+			"name": "SAMBHAAV::NSE",
+			"currentPrice": 4.2,
+			"prevPrice": 4
+		},
+		{
+			"name": "SAGARDEEP::NSE",
+			"currentPrice": 28,
+			"prevPrice": 26.7
+		},
+		{
+			"name": "SANGINITA::NSE",
+			"currentPrice": 26,
+			"prevPrice": 26.25
+		},
+		{
+			"name": "SALSTEEL::NSE",
+			"currentPrice": 8.95,
+			"prevPrice": 8.95
+		},
+		{
+			"name": "SANDESH::NSE",
+			"currentPrice": 716.35,
+			"prevPrice": 726.3
+		},
+		{
+			"name": "ROLEXRINGS::NSE",
+			"currentPrice": 1041.55,
+			"prevPrice": 1029.4
+		},
+		{
+			"name": "RUCHI::NSE",
+			"currentPrice": 917.8,
+			"prevPrice": 910.95
+		},
+		{
+			"name": "SANWARIA::NSE",
+			"currentPrice": 0.75,
+			"prevPrice": 0.75
+		},
+		{
+			"name": "SAPPHIRE::NSE",
+			"currentPrice": 1020.35,
+			"prevPrice": 992.45
+		},
+		{
+			"name": "SATHAISPAT::NSE",
+			"currentPrice": 3.5,
+			"prevPrice": 3.5
+		},
+		{
+			"name": "SATIN::NSE",
+			"currentPrice": 68.35,
+			"prevPrice": 70.65
+		},
+		{
+			"name": "SCAPDVR::NSE",
+			"currentPrice": 11.95,
+			"prevPrice": 12.3
+		},
+		{
+			"name": "SECURKLOUD::NSE",
+			"currentPrice": 145.1,
+			"prevPrice": 138.2
+		},
+		{
+			"name": "SELMC::NSE",
+			"currentPrice": 14.85,
+			"prevPrice": 14.15
+		},
+		{
+			"name": "SEPOWER::NSE",
+			"currentPrice": 17.3,
+			"prevPrice": 16.5
+		},
+		{
+			"name": "SERVOTECH::NSE",
+			"currentPrice": 31.65,
+			"prevPrice": 30.3
+		},
+		{
+			"name": "SATIA::NSE",
+			"currentPrice": 85.15,
+			"prevPrice": 83.5
+		},
+		{
+			"name": "SETUINFRA::NSE",
+			"currentPrice": 1.55,
+			"prevPrice": 1.5
+		},
+		{
+			"name": "SEYAIND::NSE",
+			"currentPrice": 52.95,
+			"prevPrice": 51.6
+		},
+		{
+			"name": "SGIL::NSE",
+			"currentPrice": 148.1,
+			"prevPrice": 148.2
+		},
+		{
+			"name": "SGL::NSE",
+			"currentPrice": 16.15,
+			"prevPrice": 15.85
+		},
+		{
+			"name": "SHAHALLOYS::NSE",
+			"currentPrice": 48.15,
+			"prevPrice": 45.9
+		},
+		{
+			"name": "SHANTI::NSE",
+			"currentPrice": 20.85,
+			"prevPrice": 21
+		},
+		{
+			"name": "SHIVAMAUTO::NSE",
+			"currentPrice": 23.6,
+			"prevPrice": 24.55
+		},
+		{
+			"name": "SHRADHA::NSE",
+			"currentPrice": 50.15,
+			"prevPrice": 49.55
+		},
+		{
+			"name": "SHREERAMA::NSE",
+			"currentPrice": 12.15,
+			"prevPrice": 12
+		},
+		{
+			"name": "SHRENIK::NSE",
+			"currentPrice": 1.8,
+			"prevPrice": 1.8
+		},
+		{
+			"name": "SHRIRAMEPC::NSE",
+			"currentPrice": 6.5,
+			"prevPrice": 6.5
+		},
+		{
+			"name": "SHYAMCENT::NSE",
+			"currentPrice": 11.25,
+			"prevPrice": 11.7
+		},
+		{
+			"name": "SHYAMTEL::NSE",
+			"currentPrice": 8.9,
+			"prevPrice": 9.3
+		},
+		{
+			"name": "SICAL::NSE",
+			"currentPrice": 12.95,
+			"prevPrice": 13.6
+		},
+		{
+			"name": "SIGACHI::NSE",
+			"currentPrice": 411.95,
+			"prevPrice": 465.15
+		},
+		{
+			"name": "SIKKO::NSE",
+			"currentPrice": 50.45,
+			"prevPrice": 51.5
+		},
+		{
+			"name": "SIL::NSE",
+			"currentPrice": 13.65,
+			"prevPrice": 13.5
+		},
+		{
+			"name": "SILGO::NSE",
+			"currentPrice": 32.55,
+			"prevPrice": 32.8
+		},
+		{
+			"name": "SIMBHALS::NSE",
+			"currentPrice": 18.15,
+			"prevPrice": 18.4
+		},
+		{
+			"name": "SILLYMONKS::NSE",
+			"currentPrice": 25.45,
+			"prevPrice": 26.1
+		},
+		{
+			"name": "SINTERCOM::NSE",
+			"currentPrice": 83.75,
+			"prevPrice": 82.65
+		},
+		{
+			"name": "SINTEX::NSE",
+			"currentPrice": 11.65,
+			"prevPrice": 12.25
+		},
+		{
+			"name": "SILINV::NSE",
+			"currentPrice": 307.7,
+			"prevPrice": 313.55
+		},
+		{
+			"name": "SITINET::NSE",
+			"currentPrice": 2.7,
+			"prevPrice": 2.8
+		},
+		{
+			"name": "SKIL::NSE",
+			"currentPrice": 2.85,
+			"prevPrice": 3
+		},
+		{
+			"name": "SOMATEX::NSE",
+			"currentPrice": 12.45,
+			"prevPrice": 13.1
+		},
+		{
+			"name": "SMLISUZU::NSE",
+			"currentPrice": 642.45,
+			"prevPrice": 633.7
+		},
+		{
+			"name": "SOUTHWEST::NSE",
+			"currentPrice": 139.25,
+			"prevPrice": 132.8
+		},
+		{
+			"name": "SPENTEX::NSE",
+			"currentPrice": 2.2,
+			"prevPrice": 2.1
+		},
+		{
+			"name": "SPMLINFRA::NSE",
+			"currentPrice": 20.55,
+			"prevPrice": 19.6
+		},
+		{
+			"name": "SPTL::NSE",
+			"currentPrice": 13.25,
+			"prevPrice": 13.9
+		},
+		{
+			"name": "SREEL::NSE",
+			"currentPrice": 161.75,
+			"prevPrice": 157.5
+		},
+		{
+			"name": "STAMPEDE::NSE",
+			"currentPrice": 0.9,
+			"prevPrice": 0.9
+		},
+		{
+			"name": "STCINDIA::NSE",
+			"currentPrice": 91.9,
+			"prevPrice": 90.45
+		},
+		{
+			"name": "STEELCAS::NSE",
+			"currentPrice": 293.7,
+			"prevPrice": 278.5
+		},
+		{
+			"name": "STEELXIND::NSE",
+			"currentPrice": 86.55,
+			"prevPrice": 86.75
+		},
+		{
+			"name": "STYLAMIND::NSE",
+			"currentPrice": 1005.7,
+			"prevPrice": 1030.75
+		},
+		{
+			"name": "STERTOOLS::NSE",
+			"currentPrice": 181.4,
+			"prevPrice": 178.7
+		},
+		{
+			"name": "SUMEETINDS::NSE",
+			"currentPrice": 8.3,
+			"prevPrice": 8.3
+		},
+		{
+			"name": "SRPL::NSE",
+			"currentPrice": 32.45,
+			"prevPrice": 31.15
+		},
+		{
+			"name": "SUBCAPCITY::NSE",
+			"currentPrice": 23.15,
+			"prevPrice": 22.75
+		},
+		{
+			"name": "SUMIT::NSE",
+			"currentPrice": 10.15,
+			"prevPrice": 10.2
+		},
+		{
+			"name": "SUNDARAM::NSE",
+			"currentPrice": 2,
+			"prevPrice": 2.1
+		},
+		{
+			"name": "SIMPLEXINF::NSE",
+			"currentPrice": 43.2,
+			"prevPrice": 39.95
+		},
+		{
+			"name": "SUPERSPIN::NSE",
+			"currentPrice": 11.15,
+			"prevPrice": 11.2
+		},
+		{
+			"name": "SPCENET::NSE",
+			"currentPrice": 2.1,
+			"prevPrice": 2.1
+		},
+		{
+			"name": "SJS::NSE",
+			"currentPrice": 435.3,
+			"prevPrice": 448.9
+		},
+		{
+			"name": "SUPREMEINF::NSE",
+			"currentPrice": 16.2,
+			"prevPrice": 15.45
+		},
+		{
+			"name": "SURANASOL::NSE",
+			"currentPrice": 19.85,
+			"prevPrice": 20.85
+		},
+		{
+			"name": "SURANAT&P::NSE",
+			"currentPrice": 7.55,
+			"prevPrice": 7.75
+		},
+		{
+			"name": "SURYALAXMI::NSE",
+			"currentPrice": 61.5,
+			"prevPrice": 61.25
+		},
+		{
+			"name": "SURYODAY::NSE",
+			"currentPrice": 150.75,
+			"prevPrice": 151.35
+		},
+		{
+			"name": "SUULD::NSE",
+			"currentPrice": 275.5,
+			"prevPrice": 289.95
+		},
+		{
+			"name": "SOMICONVEY::NSE",
+			"currentPrice": 36.45,
+			"prevPrice": 38.3
+		},
+		{
+			"name": "SUVIDHAA::NSE",
+			"currentPrice": 10.65,
+			"prevPrice": 10.45
+		},
+		{
+			"name": "SPYL::NSE",
+			"currentPrice": 0.75,
+			"prevPrice": 0.75
+		},
+		{
+			"name": "SVPGLOB::NSE",
+			"currentPrice": 107.25,
+			"prevPrice": 110.25
+		},
+		{
+			"name": "SJVN::NSE",
+			"currentPrice": 27.85,
+			"prevPrice": 27.55
+		},
+		{
+			"name": "TAINWALCHM::NSE",
+			"currentPrice": 72.9,
+			"prevPrice": 76.7
+		},
+		{
+			"name": "TANTIACONS::NSE",
+			"currentPrice": 12.7,
+			"prevPrice": 12.1
+		},
+		{
+			"name": "TARAPUR::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "TARC::NSE",
+			"currentPrice": 44.95,
+			"prevPrice": 44.3
+		},
+		{
+			"name": "TCIDEVELOP::NSE",
+			"currentPrice": 319,
+			"prevPrice": 318.95
+		},
+		{
+			"name": "TCIFINANCE::NSE",
+			"currentPrice": null,
+			"prevPrice": null
+		},
+		{
+			"name": "TECHIN::NSE",
+			"currentPrice": 5.6,
+			"prevPrice": 5.7
+		},
+		{
+			"name": "TEMBO::NSE",
+			"currentPrice": 284.8,
+			"prevPrice": 288.2
+		},
+		{
+			"name": "TERASOFT::NSE",
+			"currentPrice": 44.8,
+			"prevPrice": 44.2
+		},
+		{
+			"name": "TEXMOPIPES::NSE",
+			"currentPrice": 56,
+			"prevPrice": 54.6
+		},
+		{
+			"name": "TFL::NSE",
+			"currentPrice": 6.25,
+			"prevPrice": 6.55
+		},
+		{
+			"name": "THOMASCOTT::NSE",
+			"currentPrice": 37.45,
+			"prevPrice": 35.7
+		},
+		{
+			"name": "TGBHOTELS::NSE",
+			"currentPrice": 8.6,
+			"prevPrice": 8.55
+		},
+		{
+			"name": "TI::NSE",
+			"currentPrice": 80.6,
+			"prevPrice": 82.6
+		},
+		{
+			"name": "TIJARIA::NSE",
+			"currentPrice": 7.5,
+			"prevPrice": 7.2
+		},
+		{
+			"name": "TIL::NSE",
+			"currentPrice": 142.45,
+			"prevPrice": 137.3
+		},
+		{
+			"name": "TIMESGTY::NSE",
+			"currentPrice": 45.25,
+			"prevPrice": 44.15
+		},
+		{
+			"name": "TIRUPATIFL::NSE",
+			"currentPrice": 10.1,
+			"prevPrice": 9.8
+		},
+		{
+			"name": "TMRVL::NSE",
+			"currentPrice": 15.35,
+			"prevPrice": 15
+		},
+		{
+			"name": "TNTELE::NSE",
+			"currentPrice": 7.1,
+			"prevPrice": 7.15
+		},
+		{
+			"name": "TOTAL::NSE",
+			"currentPrice": 53.5,
+			"prevPrice": 52.45
+		},
+		{
+			"name": "TREEHOUSE::NSE",
+			"currentPrice": 8.3,
+			"prevPrice": 8.05
+		},
+		{
+			"name": "TREJHARA::NSE",
+			"currentPrice": 79.8,
+			"prevPrice": 84.6
+		},
+		{
+			"name": "TRF::NSE",
+			"currentPrice": 123.8,
+			"prevPrice": 125.8
+		},
+		{
+			"name": "TTL::NSE",
+			"currentPrice": 81.35,
+			"prevPrice": 80.6
+		},
+		{
+			"name": "UGROCAP::NSE",
+			"currentPrice": 189.15,
+			"prevPrice": 187.75
+		},
+		{
+			"name": "UJAAS::NSE",
+			"currentPrice": 3.7,
+			"prevPrice": 3.3
+		},
+		{
+			"name": "UNIENTER::NSE",
+			"currentPrice": 109.4,
+			"prevPrice": 108.55
+		},
+		{
+			"name": "SWANENERGY::NSE",
+			"currentPrice": 117.45,
+			"prevPrice": 116.95
+		},
+		{
+			"name": "UMANGDAIRY::NSE",
+			"currentPrice": 70.4,
+			"prevPrice": 70.5
+		},
+		{
+			"name": "TVVISION::NSE",
+			"currentPrice": 2.6,
+			"prevPrice": 2.5
+		},
+		{
+			"name": "UNITEDTEA::NSE",
+			"currentPrice": 350.9,
+			"prevPrice": 346.2
+		},
+		{
+			"name": "UNITECH::NSE",
+			"currentPrice": 2.1,
+			"prevPrice": 2.15
+		},
+		{
+			"name": "URJA::NSE",
+			"currentPrice": 7.8,
+			"prevPrice": 8.2
+		},
+		{
+			"name": "UTTAMSTL::NSE",
+			"currentPrice": 4.1,
+			"prevPrice": 4.25
+		},
+		{
+			"name": "VAISHALI::NSE",
+			"currentPrice": 33.6,
+			"prevPrice": 33.9
+		},
+		{
+			"name": "UNIVASTU::NSE",
+			"currentPrice": 64.15,
+			"prevPrice": 62.55
+		},
+		{
+			"name": "VARROC::NSE",
+			"currentPrice": 295.05,
+			"prevPrice": 290.15
+		},
+		{
+			"name": "VASWANI::NSE",
+			"currentPrice": 13.85,
+			"prevPrice": 13.7
+		},
+		{
+			"name": "VARDMNPOLY::NSE",
+			"currentPrice": 22.5,
+			"prevPrice": 22.65
+		},
+		{
+			"name": "VERTOZ::NSE",
+			"currentPrice": 82.55,
+			"prevPrice": 80.85
+		},
+		{
+			"name": "VICEROY::NSE",
+			"currentPrice": 3.45,
+			"prevPrice": 3.6
+		},
+		{
+			"name": "VIJAYA::NSE",
+			"currentPrice": 576.5,
+			"prevPrice": 572.05
+		},
+		{
+			"name": "VIJIFIN::NSE",
+			"currentPrice": 3.9,
+			"prevPrice": 3.75
+		},
+		{
+			"name": "VIKASECO::NSE",
+			"currentPrice": 2.3,
+			"prevPrice": 2.4
+		},
+		{
+			"name": "UGARSUGAR::NSE",
+			"currentPrice": 25.85,
+			"prevPrice": 25.65
+		},
+		{
+			"name": "VIKASLIFE::NSE",
+			"currentPrice": 3.2,
+			"prevPrice": 3.15
+		},
+		{
+			"name": "VIKASPROP::NSE",
+			"currentPrice": 1.55,
+			"prevPrice": 1.55
+		},
+		{
+			"name": "VIKASWSP::NSE",
+			"currentPrice": 3.35,
+			"prevPrice": 3.4
+		},
+		{
+			"name": "VIPCLOTHNG::NSE",
+			"currentPrice": 19.9,
+			"prevPrice": 19.1
+		},
+		{
+			"name": "VISASTEEL::NSE",
+			"currentPrice": 14.9,
+			"prevPrice": 14.4
+		},
+		{
+			"name": "VISESHINFO::NSE",
+			"currentPrice": 0.15,
+			"prevPrice": 0.2
+		},
+		{
+			"name": "VIVIDHA::NSE",
+			"currentPrice": 1.1,
+			"prevPrice": 1.15
+		},
+		{
+			"name": "VSTIND::NSE",
+			"currentPrice": 3121.55,
+			"prevPrice": 3136.2
+		},
+		{
+			"name": "WANBURY::NSE",
+			"currentPrice": 65.95,
+			"prevPrice": 66.5
+		},
+		{
+			"name": "VINEETLAB::NSE",
+			"currentPrice": 71.25,
+			"prevPrice": 72.6
+		},
+		{
+			"name": "WEALTH::NSE",
+			"currentPrice": 249,
+			"prevPrice": 249.95
+		},
+		{
+			"name": "VISHAL::NSE",
+			"currentPrice": 88.7,
+			"prevPrice": 89.15
+		},
+		{
+			"name": "WEIZMANIND::NSE",
+			"currentPrice": 52.2,
+			"prevPrice": 51.3
+		},
+		{
+			"name": "WABCOINDIA::NSE",
+			"currentPrice": 8075.65,
+			"prevPrice": 8226.85
+		},
+		{
+			"name": "WILLAMAGOR::NSE",
+			"currentPrice": 25.8,
+			"prevPrice": 26
+		},
+		{
+			"name": "WELINV::NSE",
+			"currentPrice": 273.9,
+			"prevPrice": 289.8
+		},
+		{
+			"name": "WINDLAS::NSE",
+			"currentPrice": 283.25,
+			"prevPrice": 281.3
+		},
+		{
+			"name": "WIPL::NSE",
+			"currentPrice": 52.05,
+			"prevPrice": 52
+		},
+		{
+			"name": "WORTH::NSE",
+			"currentPrice": 88.05,
+			"prevPrice": 88.05
+		},
+		{
+			"name": "WINDMACHIN::NSE",
+			"currentPrice": 26.9,
+			"prevPrice": 27.4
+		},
+		{
+			"name": "WSI::NSE",
+			"currentPrice": 9.5,
+			"prevPrice": 9.05
+		},
+		{
+			"name": "XPROINDIA::NSE",
+			"currentPrice": 779.85,
+			"prevPrice": 742.75
+		},
+		{
+			"name": "YUKEN::NSE",
+			"currentPrice": 593.55,
+			"prevPrice": 589.85
+		},
+		{
+			"name": "ZENITHEXPO::NSE",
+			"currentPrice": 82.4,
+			"prevPrice": 84
+		},
+		{
+			"name": "ZENITHSTL::NSE",
+			"currentPrice": 1.2,
+			"prevPrice": 1.2
+		},
+		{
+			"name": "LATENTVIEW::NSE",
+			"currentPrice": 656.45,
+			"prevPrice": 641.4
+		},
+		{
+			"name": "FOCUS::NSE",
+			"currentPrice": 78.1,
+			"prevPrice": 81
+		},
+		{
+			"name": "SBC::NSE",
+			"currentPrice": 111.3,
+			"prevPrice": 108.5
+		},
+		{
+			"name": "NIFTYBEES::NSE",
+			"currentPrice": 183.7,
+			"prevPrice": 184.55
+		},
+		{
+			"name": "JUNIORBEES::NSE",
+			"currentPrice": 439.74,
+			"prevPrice": 439.54
+		},
+		{
+			"name": "BANKBEES::NSE",
+			"currentPrice": 359.61,
+			"prevPrice": 362.68
+		},
+		{
+			"name": "GOLDSHARE::NSE",
+			"currentPrice": 41.5,
+			"prevPrice": 41.6
+		},
+		{
+			"name": "KOTAKGOLD::NSE",
+			"currentPrice": 41.91,
+			"prevPrice": 41.89
+		},
+		{
+			"name": "KOTAKPSUBK::NSE",
+			"currentPrice": 251.57,
+			"prevPrice": 253.75
+		},
+		{
+			"name": "QGOLDHALF::NSE",
+			"currentPrice": 2064.9,
+			"prevPrice": 2067
+		},
+		{
+			"name": "QNIFTY::NSE",
+			"currentPrice": 1774.96,
+			"prevPrice": 1788
+		},
+		{
+			"name": "SHARIABEES::NSE",
+			"currentPrice": 434.32,
+			"prevPrice": 433.66
+		},
+		{
+			"name": "SETFGOLD::NSE",
+			"currentPrice": 4260,
+			"prevPrice": 4280.05
+		},
+		{
+			"name": "HNGSNGBEES::NSE",
+			"currentPrice": 306.22,
+			"prevPrice": 313.46
+		},
+		{
+			"name": "IVZINGOLD::NSE",
+			"currentPrice": 4317.3,
+			"prevPrice": 4310.5
+		},
+		{
+			"name": "MOM50::NSE",
+			"currentPrice": 169.16,
+			"prevPrice": 169.6
+		},
+		{
+			"name": "HDFCMFGETF::NSE",
+			"currentPrice": 42.64,
+			"prevPrice": 42.87
+		},
+		{
+			"name": "ICICIGOLD::NSE",
+			"currentPrice": 42.71,
+			"prevPrice": 42.81
+		},
+		{
+			"name": "AXISGOLD::NSE",
+			"currentPrice": 41.62,
+			"prevPrice": 41.79
+		},
+		{
+			"name": "MON100::NSE",
+			"currentPrice": 120.35,
+			"prevPrice": 119.52
+		},
+		{
+			"name": "MOM100::NSE",
+			"currentPrice": 31.44,
+			"prevPrice": 31.42
+		},
+		{
+			"name": "BSLGOLDETF::NSE",
+			"currentPrice": 43.75,
+			"prevPrice": 44.05
+		},
+		{
+			"name": "IVZINNIFTY::NSE",
+			"currentPrice": 1860,
+			"prevPrice": 1867.4
+		},
+		{
+			"name": "BSLNIFTY::NSE",
+			"currentPrice": 18.85,
+			"prevPrice": 18.93
+		},
+		{
+			"name": "NETFNIF100::NSE",
+			"currentPrice": 179.07,
+			"prevPrice": 179.37
+		},
+		{
+			"name": "ICICINIFTY::NSE",
+			"currentPrice": 182.29,
+			"prevPrice": 183.47
+		},
+		{
+			"name": "IDBIGOLD::NSE",
+			"currentPrice": 4415.15,
+			"prevPrice": 4402.1
+		},
+		{
+			"name": "ICICINF100::NSE",
+			"currentPrice": 188.4,
+			"prevPrice": 187.42
+		},
+		{
+			"name": "NETFCONSUM::NSE",
+			"currentPrice": 76.75,
+			"prevPrice": 76.09
+		},
+		{
+			"name": "NETFDIVOPP::NSE",
+			"currentPrice": 44.32,
+			"prevPrice": 43.57
+		},
+		{
+			"name": "LICNETFGSC::NSE",
+			"currentPrice": 22.76,
+			"prevPrice": 22.75
+		},
+		{
+			"name": "SETFNIFBK::NSE",
+			"currentPrice": 356.28,
+			"prevPrice": 359.03
+		},
+		{
+			"name": "SETFNN50::NSE",
+			"currentPrice": 435.44,
+			"prevPrice": 435.11
+		},
+		{
+			"name": "NETFNV20::NSE",
+			"currentPrice": 94.89,
+			"prevPrice": 94.64
+		},
+		{
+			"name": "SETFNIF50::NSE",
+			"currentPrice": 173.48,
+			"prevPrice": 174.38
+		},
+		{
+			"name": "LICNETFN50::NSE",
+			"currentPrice": 184.03,
+			"prevPrice": 182.2
+		},
+		{
+			"name": "LICNETFSEN::NSE",
+			"currentPrice": 622.35,
+			"prevPrice": 621.99
+		},
+		{
+			"name": "KOTAKNV20::NSE",
+			"currentPrice": 93.55,
+			"prevPrice": 94.25
+		},
+		{
+			"name": "UTISENSETF::NSE",
+			"currentPrice": 601.46,
+			"prevPrice": 603.07
+		},
+		{
+			"name": "HDFCNIFETF::NSE",
+			"currentPrice": 183.08,
+			"prevPrice": 183.46
+		},
+		{
+			"name": "EBANK::NSE",
+			"currentPrice": 3840.12,
+			"prevPrice": 4001
+		},
+		{
+			"name": "HDFCSENETF::NSE",
+			"currentPrice": 624.92,
+			"prevPrice": 618.81
+		},
+		{
+			"name": "SETF10GILT::NSE",
+			"currentPrice": 206,
+			"prevPrice": 206
+		},
+		{
+			"name": "LICNFNHGP::NSE",
+			"currentPrice": 179.84,
+			"prevPrice": 177.11
+		},
+		{
+			"name": "ICICINV20::NSE",
+			"currentPrice": 92.4,
+			"prevPrice": 91.47
+		},
+		{
+			"name": "NETFLTGILT::NSE",
+			"currentPrice": 22.85,
+			"prevPrice": 22.81
+		},
+		{
+			"name": "ICICIMCAP::NSE",
+			"currentPrice": 105.02,
+			"prevPrice": 103.97
+		},
+		{
+			"name": "IDFNIFTYET::NSE",
+			"currentPrice": 178.8,
+			"prevPrice": 179.93
+		},
+		{
+			"name": "UTINIFTETF::NSE",
+			"currentPrice": 1791.89,
+			"prevPrice": 1796.22
+		},
+		{
+			"name": "AXISNIFTY::NSE",
+			"currentPrice": 179.49,
+			"prevPrice": 179.72
+		},
+		{
+			"name": "ICICILOVOL::NSE",
+			"currentPrice": 137.63,
+			"prevPrice": 137.32
+		},
+		{
+			"name": "UTINEXT50::NSE",
+			"currentPrice": 43.81,
+			"prevPrice": 43.77
+		},
+		{
+			"name": "LIQUIDETF::NSE",
+			"currentPrice": 999.99,
+			"prevPrice": 1000
+		},
+		{
+			"name": "ICICI500::NSE",
+			"currentPrice": 24.3,
+			"prevPrice": 24.25
+		},
+		{
+			"name": "ICICINXT50::NSE",
+			"currentPrice": 42.97,
+			"prevPrice": 42.78
+		},
+		{
+			"name": "ICICILIQ::NSE",
+			"currentPrice": 999.99,
+			"prevPrice": 999.58
+		},
+		{
+			"name": "MAN50ETF::NSE",
+			"currentPrice": 176.43,
+			"prevPrice": 176.08
+		},
+		{
+			"name": "ABSLNN50ET::NSE",
+			"currentPrice": 42.71,
+			"prevPrice": 42.74
+		},
+		{
+			"name": "NETF::NSE",
+			"currentPrice": 177.81,
+			"prevPrice": 176.71
+		},
+		{
+			"name": "NETFMID150::NSE",
+			"currentPrice": 114.36,
+			"prevPrice": 113.12
+		},
+		{
+			"name": "UTISXN50::NSE",
+			"currentPrice": 49.51,
+			"prevPrice": 49.04
+		},
+		{
+			"name": "ICICIBANKN::NSE",
+			"currentPrice": 355.37,
+			"prevPrice": 358.59
+		},
+		{
+			"name": "IBMFNIFTY::NSE",
+			"currentPrice": 182.15,
+			"prevPrice": 179.3
+		},
+		{
+			"name": "EBBETF0423::NSE",
+			"currentPrice": 1154.5,
+			"prevPrice": 1155.29
+		},
+		{
+			"name": "ICICIM150::NSE",
+			"currentPrice": 114.04,
+			"prevPrice": 112.98
+		},
+		{
+			"name": "EBBETF0425::NSE",
+			"currentPrice": 1071.25,
+			"prevPrice": 1071.99
+		},
+		{
+			"name": "ABSLBANETF::NSE",
+			"currentPrice": 35.54,
+			"prevPrice": 35.9
+		},
+		{
+			"name": "ICICIALPLV::NSE",
+			"currentPrice": 172.13,
+			"prevPrice": 171.08
+		},
+		{
+			"name": "EBBETF0430::NSE",
+			"currentPrice": 1191.24,
+			"prevPrice": 1189.75
+		},
+		{
+			"name": "HBANKETF::NSE",
+			"currentPrice": 357.04,
+			"prevPrice": 358.9
+		},
+		{
+			"name": "SBIETFIT::NSE",
+			"currentPrice": 358.37,
+			"prevPrice": 356.28
+		},
+		{
+			"name": "UTIBANKETF::NSE",
+			"currentPrice": 35.82,
+			"prevPrice": 36.16
+		},
+		{
+			"name": "SBIETFPB::NSE",
+			"currentPrice": 182.49,
+			"prevPrice": 183.39
+		},
+		{
+			"name": "AXISBNKETF::NSE",
+			"currentPrice": 360.3,
+			"prevPrice": 363.03
+		},
+		{
+			"name": "MAESGETF::NSE",
+			"currentPrice": 29.17,
+			"prevPrice": 29.28
+		},
+		{
+			"name": "MOGSEC::NSE",
+			"currentPrice": 49.4,
+			"prevPrice": 49.26
+		},
+		{
+			"name": "NCPSESDL24::NSE",
+			"currentPrice": 107.15,
+			"prevPrice": 107.06
+		},
+		{
+			"name": "KOTAKIT::NSE",
+			"currentPrice": 35.51,
+			"prevPrice": 35.41
+		},
+		{
+			"name": "NETFSDL26::NSE",
+			"currentPrice": 106.65,
+			"prevPrice": 106.65
+		},
+		{
+			"name": "NETFGILT5Y::NSE",
+			"currentPrice": 49.37,
+			"prevPrice": 49.36
+		},
+		{
+			"name": "AXISTECETF::NSE",
+			"currentPrice": 352.57,
+			"prevPrice": 354.49
+		},
+		{
+			"name": "AXISBPSETF::NSE",
+			"currentPrice": 10.43,
+			"prevPrice": 10.43
+		},
+		{
+			"name": "ICICIPHARM::NSE",
+			"currentPrice": 88.09,
+			"prevPrice": 88.15
+		},
+		{
+			"name": "MANXT50::NSE",
+			"currentPrice": 421.63,
+			"prevPrice": 417.2
+		},
+		{
+			"name": "NETFPHARMA::NSE",
+			"currentPrice": 13.79,
+			"prevPrice": 13.71
+		},
+		{
+			"name": "ICICIFMCG::NSE",
+			"currentPrice": 377.47,
+			"prevPrice": 374.32
+		},
+		{
+			"name": "MAFSETF::NSE",
+			"currentPrice": 17.53,
+			"prevPrice": 17.63
+		},
+		{
+			"name": "SBIETFCON::NSE",
+			"currentPrice": 70.74,
+			"prevPrice": 70.58
+		},
+		{
+			"name": "EBBETF0431::NSE",
+			"currentPrice": 1070.98,
+			"prevPrice": 1071.51
+		},
+		{
+			"name": "BSLSENETFG::NSE",
+			"currentPrice": 54.53,
+			"prevPrice": 54.88
+		},
+		{
+			"name": "AXISCETF::NSE",
+			"currentPrice": 70.22,
+			"prevPrice": 69.9
+		},
+		{
+			"name": "AXISHCETF::NSE",
+			"currentPrice": 85.19,
+			"prevPrice": 85.95
+		},
+		{
+			"name": "ICICIBANKP::NSE",
+			"currentPrice": 180.02,
+			"prevPrice": 181.33
+		},
+		{
+			"name": "ICICITECH::NSE",
+			"currentPrice": 358.82,
+			"prevPrice": 357.41
+		}
+	]
+}
