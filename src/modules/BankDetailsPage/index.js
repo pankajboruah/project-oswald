@@ -18,7 +18,6 @@ const BankDetailsPage = () => {
 	const { getBankDetails, addToFavorites, removeFromFavorites, isFavorite } =
 		useContext(BankContext);
 	const [bankDetails, setBankDetails] = useState({});
-	const [toggleFavorite, setToggleFavorite] = useState(false);
 
 	const ifsc = useParams().ifsc_code;
 
@@ -27,8 +26,7 @@ const BankDetailsPage = () => {
 	};
 
 	const handleFavorite = () => {
-		toggleFavorite ? removeFromFavorites(ifsc) : addToFavorites(bankDetails);
-		setToggleFavorite(!toggleFavorite);
+		isFavorite(ifsc) ? removeFromFavorites(ifsc) : addToFavorites(bankDetails);
 	};
 
 	useEffect(() => {
@@ -38,7 +36,6 @@ const BankDetailsPage = () => {
 			navigate(`/all-banks`);
 			return;
 		}
-		setToggleFavorite(isFavorite(ifsc));
 		setBankDetails(data);
 		bankDetailsForm.setFieldsValue({
 			bankId: data.bank_id,
@@ -73,10 +70,10 @@ const BankDetailsPage = () => {
 							<Button
 								onClick={() => handleFavorite()}
 								disabled={false}
-								danger={toggleFavorite}
+								danger={isFavorite(ifsc)}
 								style={{ width: 200 }}
 							>
-								{toggleFavorite ? (
+								{isFavorite(ifsc) ? (
 									<>
 										<DeleteOutlined /> Remove From Favorites
 									</>

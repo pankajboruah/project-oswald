@@ -1,7 +1,11 @@
 import React, { useState, useEffect, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-import { SearchOutlined } from '@ant-design/icons';
+import {
+	SearchOutlined,
+	PlusOutlined,
+	DeleteOutlined,
+} from '@ant-design/icons';
 import {
 	Form,
 	Table,
@@ -107,7 +111,8 @@ let columns = [
 
 const BanksListPage = () => {
 	const navigate = useNavigate();
-	const { bankData } = useContext(BankContext);
+	const { bankData, addToFavorites, removeFromFavorites, isFavorite } =
+		useContext(BankContext);
 	const [form] = Form.useForm();
 	// const [banks, setBanks] = useState([]);
 	const [filteredBanks, setFilteredBanks] = useState([]);
@@ -121,13 +126,20 @@ const BanksListPage = () => {
 		setIsLoading(true);
 		getAllBanksForCity(city)
 			.then((res) => {
-				setBanks(res.map((el, idx) => ({ ...el, key: idx + 1 })));
+				setBanks(
+					res.map((el, idx) => ({
+						...el,
+						key: idx + 1,
+						isFavorite: isFavorite(el.ifsc),
+					})),
+				);
 				setPaginationOptions((prev) => ({
 					...prev,
 					total: res.length,
 				}));
 			})
 			.catch((err) => {
+				// eslint-disable-next-line no-console
 				console.error(err);
 			})
 			.finally(() => {
@@ -153,13 +165,17 @@ const BanksListPage = () => {
 		filterBanks(value);
 	}, 500);
 
+	const handleFavorite = (item) => {
+		isFavorite(item.ifsc) ? removeFromFavorites(item.ifsc) : addToFavorites(item);
+	};
+
 	const getColumns = () => {
 		return [
 			...columns,
 			{
 				title: 'Actions',
 				key: 'actions',
-				width: 50,
+				width: 100,
 				render: (item) => (
 					<Space key={item.id} size="middle">
 						<Button
@@ -169,6 +185,23 @@ const BanksListPage = () => {
 							}}
 						>
 							View
+						</Button>
+						<Button
+							onClick={() => handleFavorite(item)}
+							disabled={false}
+							danger={isFavorite(item.ifsc)}
+							size={'small'}
+							style={{ width: 100 }}
+						>
+							{isFavorite(item.ifsc) ? (
+								<>
+									<DeleteOutlined /> Remove
+								</>
+							) : (
+								<>
+									<PlusOutlined /> Favorite
+								</>
+							)}
 						</Button>
 					</Space>
 				),
