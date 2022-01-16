@@ -6,6 +6,7 @@ import ModulePageHeader from 'sharedComponents/ModulePageHeader';
 
 import Overview from './sections/Overview';
 import BanksListPage from './sections/BanksListPage';
+import FavoritesPage from './sections/FavoritesPage';
 
 const navLinks = [
 	{
@@ -16,6 +17,11 @@ const navLinks = [
 	{
 		path: routePaths.banksListPage.route,
 		label: 'Bank List Page',
+		isAllowed: true,
+	},
+	{
+		path: routePaths.favoritesPage.route,
+		label: 'Favorite Banks Page',
 		isAllowed: true,
 	},
 ];
@@ -32,6 +38,12 @@ const getTabContent = (tabKey) => {
 			return (
 				<Card style={{ marginTop: 16 }}>
 					<BanksListPage />
+				</Card>
+			);
+		case routePaths.favoritesPage.route:
+			return (
+				<Card style={{ marginTop: 16 }}>
+					<FavoritesPage />
 				</Card>
 			);
 		default:

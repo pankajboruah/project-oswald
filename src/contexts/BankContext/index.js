@@ -32,7 +32,7 @@ export const BankProvider = (props) => {
 			removeFromFavorites,
 			isFavorite,
 		}),
-		[banks],
+		[banks, favorites],
 	);
 
 	return (

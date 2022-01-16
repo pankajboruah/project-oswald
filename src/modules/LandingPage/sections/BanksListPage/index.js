@@ -164,7 +164,6 @@ const BanksListPage = () => {
 					<Space key={item.id} size="middle">
 						<Button
 							size={'small'}
-							disabled={item.processingCompletion < 100}
 							onClick={() => {
 								navigate(`/bank-details/${item.ifsc}/`);
 							}}
@@ -221,7 +220,6 @@ const BanksListPage = () => {
 					<Col {...colLayout}>
 						<Form.Item name="city" label={'City'}>
 							<Select
-								style={{ width: '70%' }}
 								showSearch
 								placeholder="Select City"
 								options={cities}
@@ -233,7 +231,6 @@ const BanksListPage = () => {
 					<Col {...colLayout}>
 						<Form.Item name="category" label={'Category'}>
 							<Select
-								style={{ width: '70%' }}
 								showSearch
 								placeholder="Choose Category"
 								options={categories}
@@ -253,7 +250,6 @@ const BanksListPage = () => {
 							{({ getFieldValue }) => (
 								<Form.Item name="query" label={'Query'}>
 									<Input
-										style={{ width: '70%' }}
 										placeholder="Enter search query here..."
 										allowClear
 										prefix={<SearchOutlined style={{ color: '#cecece' }} />}

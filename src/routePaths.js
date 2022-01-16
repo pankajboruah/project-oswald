@@ -11,6 +11,9 @@ module.exports = {
 	bankDetailsPage: {
 		route: '/bank-details/:ifsc_code/',
 	},
+	favoritesPage: {
+		route: '/favorites',
+	},
 	notFoundPage: {
 		route: '/404',
 	},

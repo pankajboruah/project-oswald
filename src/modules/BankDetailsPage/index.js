@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import { Card, PageHeader, Button, Form, Row, Col, Input, message } from 'antd';
+import { Card, PageHeader, Button, Form, message } from 'antd';
 import {
 	ArrowLeftOutlined,
 	PlusOutlined,
@@ -8,18 +8,9 @@ import {
 } from '@ant-design/icons';
 
 import { BankContext } from 'contexts/BankContext';
+import DisplayForm from './components/DisplayForm';
 
 import styles from './index.module.scss';
-
-const layout = {
-	labelCol: { span: 4 },
-	wrapperCol: { span: 18 },
-};
-
-const colLayout = {
-	md: { span: 12 },
-	className: 'gutter-row',
-};
 
 const BankDetailsPage = () => {
 	const navigate = useNavigate();
@@ -104,50 +95,7 @@ const BankDetailsPage = () => {
 			bodyStyle={{ backgroundColor: '#F7F8FA' }}
 		>
 			<Card style={{ minHeight: 400 }} title="BANK DETAILS">
-				<Form
-					form={bankDetailsForm}
-					{...layout}
-					layout={'horizontal'}
-					initialValues={bankDetails}
-					autoComplete="off"
-				>
-					<Row gutter={{ xs: 8, sm: 16, md: 24, lg: 32 }}>
-						<Col {...colLayout}>
-							<Form.Item name="bankId" label={'Bank ID'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-						<Col {...colLayout}>
-							<Form.Item name="address" label={'Address'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-					</Row>
-					<Row gutter={{ xs: 8, sm: 16, md: 24, lg: 32 }}>
-						<Col {...colLayout}>
-							<Form.Item name="city" label={'City'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-						<Col {...colLayout}>
-							<Form.Item name="district" label={'District'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-					</Row>
-					<Row gutter={{ xs: 8, sm: 16, md: 24, lg: 32 }}>
-						<Col {...colLayout}>
-							<Form.Item name="state" label={'State'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-						<Col {...colLayout}>
-							<Form.Item name="ifsc" label={'IFSC Code'}>
-								<Input style={{ width: '70%' }} allowClear disabled />
-							</Form.Item>
-						</Col>
-					</Row>
-				</Form>
+				<DisplayForm form={bankDetailsForm} initialValues={bankDetails} />
 			</Card>
 		</Card>
 	);

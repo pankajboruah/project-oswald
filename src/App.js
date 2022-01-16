@@ -27,6 +27,11 @@ function App() {
 					/>
 					<Route
 						exact
+						path={routePaths.favoritesPage.route}
+						element={<LandingPage />}
+					/>
+					<Route
+						exact
 						path={routePaths.bankDetailsPage.route}
 						element={<BankDetailsPage />}
 					/>
