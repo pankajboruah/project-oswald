@@ -1,5 +1,9 @@
 [
 	{
+		"label": "Goa",
+		"value": "GOA"
+	},
+	{
 		"label": "Gurgaon",
 		"value": "GURGAON"
 	},
@@ -8,15 +12,11 @@
 		"value": "JODHPUR"
 	},
 	{
-		"label": "Goa",
-		"value": "GOA"
+		"label": "Shimla",
+		"value": "SHIMLA"
 	},
 	{
 		"label": "Sibsagar",
 		"value": "SIBSAGAR"
-	},
-	{
-		"label": "Shimla",
-		"value": "SHIMLA"
 	}
 ]
