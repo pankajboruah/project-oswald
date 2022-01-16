@@ -28,6 +28,7 @@ module.exports = {
 			app: path.resolve(__dirname, 'src'),
 			public: path.resolve(__dirname, 'public'),
 			sharedComponents: './src/sharedComponents',
+			contexts: './src/contexts',
 			layouts: './src/layouts',
 			modules: './src/modules',
 			utils: './src/utils',
@@ -45,6 +46,7 @@ module.exports = {
 					['app', './app'],
 					['public', './public'],
 					['sharedComponents', './src/sharedComponents'],
+					['contexts', './src/contexts'],
 					['layouts', './src/layouts'],
 					['modules', './src/modules'],
 					['utils', './src/utils'],
@@ -90,6 +92,7 @@ module.exports = {
 		'no-console': 1,
 		'no-unused-vars': 2,
 		'no-use-before-define': 0,
+		'no-restricted-globals': 0,
 		'prefer-template': 2,
 		'no-unused-expressions': [
 			'error',

@@ -139,6 +139,8 @@ module.exports = {
 				aliases: {
 					app: path.resolve(__dirname, 'src'),
 					public: path.resolve(__dirname, 'public'),
+					sharedComponents: './src/sharedComponents',
+					contexts: './src/contexts',
 					components: './src/components',
 					modules: './src/modules',
 					utils: './src/utils',

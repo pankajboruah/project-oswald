@@ -1,0 +1,5 @@
+[
+	{ "label": "IFSC", "value": "ifsc" },
+	{ "label": "Branch", "value": "branch" },
+	{ "label": "Bank Name", "value": "bank_name" }
+]

@@ -1,0 +1,38 @@
+.backButton {
+	border: 1px solid #e0e3ed;
+	border-radius: 5px;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 16px;
+	color: #001529;
+	> span {
+		margin-right: 6px;
+	}
+}
+
+.titleContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 16px;
+	color: #525252;
+}
+
+.subtitle {
+	font-size: 14px;
+	font-weight: 300;
+	color: #787878;
+}
+
+.dropdown {
+	button {
+		&:first-child {
+			display: none;
+		}
+	}
+}
