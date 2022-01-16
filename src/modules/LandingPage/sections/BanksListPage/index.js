@@ -211,6 +211,9 @@ const BanksListPage = () => {
 
 	const onFormValueChange = (formData) => {
 		if ('city' in formData) {
+			form.setFieldsValue({ query: null, category: null });
+			setShowFilteredBanks(false);
+			setFilteredBanks([]);
 			setCurrentPage(1);
 			fetchBanks(formData.city);
 		} else if ('category' in formData) {

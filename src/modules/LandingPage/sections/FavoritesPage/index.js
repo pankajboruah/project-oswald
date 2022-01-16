@@ -35,12 +35,6 @@ const tableTitle = (totalRows) => (
 
 let columns = [
 	{
-		title: 'Row No.',
-		dataIndex: 'key',
-		key: 'key',
-		width: 50,
-	},
-	{
 		title: 'Bank',
 		dataIndex: 'bank_name',
 		key: 'bank_name',
